@@ -29,9 +29,9 @@ KEYWORDS_CN = [
 ]
 
 
-def fetch_arxiv(max_results=10):
+def fetch_arxiv(max_results=30):
     """从 arXiv 获取前沿科技相关论文"""
-    query = " OR ".join(f'all:"{kw}"' for kw in KEYWORDS[:8])
+    query = " OR ".join(f'all:"{kw}"' for kw in KEYWORDS)
     url = "http://export.arxiv.org/api/query"
     params = {
         "search_query": query,
@@ -71,13 +71,15 @@ def fetch_arxiv(max_results=10):
     return items
 
 
-def fetch_hackernews(max_results=10):
+def fetch_hackernews(max_results=30):
     """从 Hacker News 获取前沿科技热门文章"""
     items = []
     seen = set()
 
     for kw in ["quantum", "semiconductor chip", "robotics hardware", "battery technology",
-                "neuromorphic", "photonic computing", "fusion energy", "brain computer interface"]:
+                "neuromorphic", "photonic computing", "fusion energy", "brain computer interface",
+                "RISC-V", "CRISPR", "3D printing", "superconductor", "solar cell",
+                "autonomous vehicle", "drone", "sensor", "edge computing"]:
         if len(items) >= max_results:
             break
         try:
@@ -85,8 +87,8 @@ def fetch_hackernews(max_results=10):
             params = {
                 "query": kw,
                 "tags": "story",
-                "numericFilters": "points>10",
-                "hitsPerPage": 5,
+                "numericFilters": "points>5",
+                "hitsPerPage": 8,
             }
             resp = requests.get(url, params=params, timeout=15)
             resp.raise_for_status()
@@ -120,11 +122,11 @@ def fetch_hackernews(max_results=10):
     return items[:max_results]
 
 
-def fetch_github_trending(max_results=5):
+def fetch_github_trending(max_results=20):
     """从 GitHub Trending 获取热门项目"""
     items = []
 
-    for lang in ["c", "cpp", "python", "rust", "jupyter notebook"]:
+    for lang in ["c", "cpp", "python", "rust", "jupyter notebook", "go", "swift", "kotlin"]:
         if len(items) >= max_results:
             break
         try:
@@ -137,15 +139,11 @@ def fetch_github_trending(max_results=5):
         except Exception:
             continue
 
-        for repo in data[:2]:
+        for repo in data[:5]:
             if len(items) >= max_results:
                 break
             name = repo.get("author", "") + "/" + repo.get("name", "")
             desc = repo.get("description", "") or ""
-            # 筛选与硬件/前沿科技相关的
-            desc_lower = desc.lower()
-            if not any(kw in desc_lower for kw in KEYWORDS):
-                continue
 
             items.append({
                 "source": "github",
@@ -186,7 +184,7 @@ def fetch_github_trending(max_results=5):
     return items
 
 
-def fetch_36kr(max_results=10):
+def fetch_36kr(max_results=30):
     """从 36Kr RSS 获取科技新闻"""
     items = []
 
@@ -196,14 +194,10 @@ def fetch_36kr(max_results=10):
         print(f"36Kr fetch error: {e}")
         return []
 
-    for entry in feed.entries[:30]:
+    for entry in feed.entries[:50]:
         if len(items) >= max_results:
             break
         title = entry.get("title", "")
-        title_lower = title.lower()
-        # 筛选硬件/前沿科技相关
-        if not any(kw in title for kw in KEYWORDS_CN):
-            continue
 
         summary = entry.get("summary", "")[:200]
         # 去除 HTML 标签

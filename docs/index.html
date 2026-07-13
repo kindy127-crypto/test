@@ -10,7 +10,19 @@
     <header>
         <h1>TechDaily</h1>
         <p class="subtitle">每日前沿科技自动聚合</p>
+        <button id="kw-toggle" class="kw-toggle" title="关键词设置">&#9881;</button>
     </header>
+
+    <div id="kw-panel" class="kw-panel hidden">
+        <div class="kw-panel-header">关键词过滤</div>
+        <div class="kw-hint">添加关键词后，只显示标题或摘要包含关键词的条目；留空则显示全部</div>
+        <div class="kw-input-row">
+            <input id="kw-input" type="text" placeholder="输入关键词，回车添加" />
+            <button id="kw-add" class="kw-add-btn">添加</button>
+        </div>
+        <div id="kw-list" class="kw-list"></div>
+        <button id="kw-clear" class="kw-clear-btn">清除全部</button>
+    </div>
 
     <nav class="date-nav">
         <button id="prev-day" title="前一天">&larr;</button>

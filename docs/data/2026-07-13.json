@@ -3,59 +3,858 @@
   "items": [
     {
       "source": "arxiv",
-      "title": "Scalable Quantum Error Correction with Surface Code on a 2D Qubit Array",
-      "summary": "We demonstrate a practical implementation of surface code error correction on a 72-qubit superconducting processor, achieving a logical error rate below the break-even threshold.",
-      "url": "https://arxiv.org/abs/2607.00001",
-      "date": "2026-07-13",
-      "tags": ["quant-ph", "cond-mat"]
+      "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+      "summary": "In many real-world systems, including articulated robots and biomechanical models, rotations are defined in joint space and naturally parameterized by Euler angles with bounded ranges. Yet regressing ",
+      "url": "http://arxiv.org/abs/2607.09650v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.CV"
+      ]
     },
     {
       "source": "arxiv",
-      "title": "Neuromorphic Computing with Phase-Change Memristor Crossbar Arrays",
-      "summary": "A novel phase-change memristor design enables 8-bit precision analog computation in crossbar arrays, achieving 100x energy efficiency improvement over digital accelerators for inference tasks.",
-      "url": "https://arxiv.org/abs/2607.00002",
-      "date": "2026-07-13",
-      "tags": ["cs.ET", "physics"]
+      "title": "B-spline Policy: Accelerating Manipulation Policies via B-spline Action Representations",
+      "summary": "In this work, we present B-spline Policy (BSP), an action representation designed for accelerating robot manipulation policies. Rather than predicting discrete-time action chunks, BSP parameterizes ac",
+      "url": "http://arxiv.org/abs/2607.09648v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Quantum Path to Partial Differential Equations",
+      "summary": "Partial differential equations are a promising application area for fault-tolerant quantum algorithms, but the subject lies between two communities with different languages: numerical analysis and qua",
+      "url": "http://arxiv.org/abs/2607.09639v1",
+      "date": "2026-07-10",
+      "tags": [
+        "quant-ph",
+        "math.NA"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
+      "summary": "Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor,",
+      "url": "http://arxiv.org/abs/2607.09629v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Quantum Orchestras: a Concrete Semantics for Recursive Hybrid Programs",
+      "summary": "Many production quantum programming languages represent hybrid quantum computations by extending a classical base language with a quantum effect, where qubits are addressed by reference, and quantum o",
+      "url": "http://arxiv.org/abs/2607.09605v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.PL",
+        "cs.LO",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers",
+      "summary": "Precision industrial contact manipulation requires reliable robot policies under pose perturbations and contact-force constraints. Vision-language-action models offer broad generalization but often in",
+      "url": "http://arxiv.org/abs/2607.09590v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "CoDiMAD: Diffusion-Based Privileged Distillation for Communication-Free Multi-Robot Coordination",
+      "summary": "Decentralized multi-robot coordination under partial observability remains challenging, especially in communication-free settings where agents must act solely from local sensor observations. Privilege",
+      "url": "http://arxiv.org/abs/2607.09587v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "KnitID: Machine-Knitted RFID Antennas for Battery-Free Authentication, Localization and Interaction",
+      "summary": "Battery-free RFID systems offer a scalable and maintenance-free approach to interaction. We present KnitID, a machine-knitted textile RFID antenna design that enables on-body authentication, localizat",
+      "url": "http://arxiv.org/abs/2607.09584v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.HC"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Cloud-Accessible Open-Source Framework for the Electromagnetic Modelling of Applied Superconductors",
+      "summary": "We present the H-cloud formalism, a cloud-accessible and open-source finite-element framework for electromagnetic modelling of applied superconductors. The proposed method expresses the nonlinear elec",
+      "url": "http://arxiv.org/abs/2607.09572v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.supr-con",
+        "math-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles",
+      "summary": "Fine grain control and positioning of autonomous underwater vehicles (AUVs) is critical for sampling, maintenance, and survey applications. Traditional control methods for AUVs are labor intensive and",
+      "url": "http://arxiv.org/abs/2607.09557v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Task-Adaptive Design of Modular Aerial Manipulators Under Airflow Exposure Constraints",
+      "summary": "Aerial manipulation with multirotor platforms enables physical interaction in complex environments, but rotor-induced airflow remains a critical limitation for tasks involving airflow-sensitive target",
+      "url": "http://arxiv.org/abs/2607.09548v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Higher-Order Programs with Indefinite Causal Orders: a Linear Approach to Coherent Control of Quantum Processes",
+      "summary": "Processes with indefinite causal orders (ICOs), such as the quantum switch, are higher-order quantum processes that superpose the order in which quantum operations are performed. Such coherent control",
+      "url": "http://arxiv.org/abs/2607.09534v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.LO",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "How Mobile Gas Sensor Trajectories Govern Hydrogen Leak Detection: A Safety Gap in Manual Leak Inspection of Hydrogen System Components",
+      "summary": "The integrity of hydrogen infrastructure relies on reliable leak detection, performed almost exclusively via manual tracer gas sniffing in electrolyzer manufacturing. Although mandated by standards, t",
+      "url": "http://arxiv.org/abs/2607.09527v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "DemoBridge: A Simulation-in-the-Loop Toolkit for Single-View Human Demonstration Retargeting",
+      "summary": "We present DemoBridge, an toolkit that turns a single-view RGB stereo recording of a human hand demonstration into an executable, physics-validated robot-arm trajectory. Retargeting across the embodim",
+      "url": "http://arxiv.org/abs/2607.09519v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "One-Shot Multimodal Learning from Demonstration with Force-Constrained Elastic Maps",
+      "summary": "Robotic manipulation tasks often require simultaneous reasoning over motion and contact forces, yet most Learning from Demonstration (LfD) methods model only spatial trajectories and neglect force int",
+      "url": "http://arxiv.org/abs/2607.09515v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Qubit-Boson Hybrid Beam-Splitter Gate with Kerr Nonlinearity in Circuit QED for Many-Body Dynamics",
+      "summary": "We introduce a hybrid qubit-boson beam-splitter gate in which a microwave cavity mode couples to an exchange-dressed two-level subsystem of an interacting two-qubit system in the presence of Kerr nonl",
+      "url": "http://arxiv.org/abs/2607.09513v1",
+      "date": "2026-07-10",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Majorana parity qubit in coupled minimal Kitaev chains",
+      "summary": "Majorana zero modes provide a route to fault-tolerant qubits by encoding information non-locally in fermion parity. Their sensitivity to noise is expected to decrease exponentially with increasing sep",
+      "url": "http://arxiv.org/abs/2607.09511v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Superconducting singlet-triplet qubits",
+      "summary": "Hybrid devices integrating quantum dots with Josephson junctions are gaining interest because they combine spin-based quantum computing with circuit quantum electrodynamics (circuit QED) methods. In p",
+      "url": "http://arxiv.org/abs/2607.09508v1",
+      "date": "2026-07-10",
+      "tags": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility",
+      "summary": "A fundamental challenge in 3D reconstruction and robotic localization is co-visibility: determining which image pairs share overlapping visible surfaces, particularly in scenarios with minimal overlap",
+      "url": "http://arxiv.org/abs/2607.09503v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Event-triggered parameter estimator for sensor fusion",
+      "summary": "This paper studies event-triggered parameter estimation in sensor fusion systems where sensors transmit measurements to a gradient based estimator. We introduce a regressor-driven local triggering rul",
+      "url": "http://arxiv.org/abs/2607.09496v1",
+      "date": "2026-07-10",
+      "tags": [
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation",
+      "summary": "3D scene graphs provide a hierarchical abstraction of environments by encoding spatial entities, such as objects and places, and their relationships. However, existing scene graph systems model object",
+      "url": "http://arxiv.org/abs/2607.09455v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.CV",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2",
+      "summary": "The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet candidate. The nature of superconductivity and its relation with neighboring orders, however, are not understood. To add",
+      "url": "http://arxiv.org/abs/2607.09437v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.supr-con",
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Electronic manipulation of polar order in electron crystal",
+      "summary": "When interaction among atoms or ions is strong enough, they often arrange periodically, forming a crystal. The arrangement patterns of atoms or ions can encode information, a concept that has enabled ",
+      "url": "http://arxiv.org/abs/2607.09425v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Coherent dynamics of individual excitons in a quantum dot embedded in a nanopost",
+      "summary": "We measured coherent ultrafast dynamics of exciton complexes in a single strongly-confined InAs quantum dot embedded in a GaAs nanopost. Such a photonic structure combines a wave guiding with a cavity",
+      "url": "http://arxiv.org/abs/2607.09419v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.mes-hall"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Unlocking ultrafast spin dynamics in a rare-earth magnet",
+      "summary": "The speed of optically driven magnetization dynamics is fundamentally determined by how efficiently angular momentum can be transferred between electronic, spin and lattice degrees of freedom. In rare",
+      "url": "http://arxiv.org/abs/2607.09413v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Data-Efficient Deep Learning: Empirical Guidelines for Training Set Size Estimation in Inertial Sensor Classification",
+      "summary": "Deep learning models dependency on large-scale inertial datasets presents a significant bottleneck in inertial sensor-based classification tasks, such as human activity recognition and smartphone loca",
+      "url": "http://arxiv.org/abs/2607.09402v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.LG"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "On-Device Adaptive Battery Power Prediction for Electric Vehicles",
+      "summary": "Adaptive power management in Electric Vehicles (EVs) requires accurate power prediction. Although deep learning models have emerged as highly effective for time-series forecasting in this domain, thei",
+      "url": "http://arxiv.org/abs/2607.09400v1",
+      "date": "2026-07-10",
+      "tags": [
+        "cs.LG",
+        "cs.AI",
+        "cs.AR"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "COSMA: Communication-aware Optimization of Fermionic Simulation Kernels for Modular Quantum Architectures",
+      "summary": "Quantum simulation is a leading application of quantum computing, but scaling to chemically relevant problems requires modular architectures composed of interconnected quantum processing units. In suc",
+      "url": "http://arxiv.org/abs/2607.09381v1",
+      "date": "2026-07-10",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Acceleration and Strain-Rate Elastic Wave Equation and its Finite-Difference Solution for Distributed Acoustic Sensing Seismic Simulations",
+      "summary": "Distributed Acoustic Sensing (DAS) is increasingly being adopted across various seismic disciplines due to its cost-effective acquisition capabilities and its high-resolution spatial and temporal samp",
+      "url": "http://arxiv.org/abs/2607.09380v1",
+      "date": "2026-07-10",
+      "tags": [
+        "physics.geo-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Deterministic Generation of Linear Photonic Cluster States with Semiconductor Quantum Dots: A Detailed Comparison of Different Schemes",
+      "summary": "Photonic graph states are key resource states for measurement based quantum information processing. As semiconductor quantum dots are excellent deterministic photon emitters, several protocols using t",
+      "url": "http://arxiv.org/abs/2607.09373v1",
+      "date": "2026-07-10",
+      "tags": [
+        "quant-ph"
+      ]
     },
     {
       "source": "hackernews",
-      "title": "TSMC Reports Breakthrough in 1nm Process Node Using Gallium Nitride",
-      "summary": "156 points on Hacker News",
-      "url": "https://news.ycombinator.com/item?id=42000001",
-      "date": "2026-07-13",
-      "tags": ["semiconductor"]
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
     },
     {
       "source": "hackernews",
-      "title": "Open-Source RISC-V Chip with Built-in AI Accelerator Ships to Developers",
-      "summary": "203 points on Hacker News",
-      "url": "https://news.ycombinator.com/item?id=42000002",
-      "date": "2026-07-13",
-      "tags": ["RISC-V"]
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
     },
     {
-      "source": "github",
-      "title": "quantum-compiler/qsdk",
-      "summary": "An open-source quantum circuit compiler targeting superconducting and trapped-ion QPUs with automatic qubit mapping and gate decomposition",
-      "url": "https://github.com/quantum-compiler/qsdk",
-      "date": "2026-07-13",
-      "tags": ["python"]
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
     },
     {
       "source": "36kr",
-      "title": "国内首条量子芯片产线投产，年产能突破万片",
-      "summary": "国内首条量子计算芯片量产产线正式投产，采用超导量子比特技术路线，标志着我国量子计算从实验室走向产业化的关键一步。",
-      "url": "https://36kr.com/p/quantum-chip-production",
+      "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
+      "summary": "在微信私域生态中，抽奖几乎是商家长期使用的互动玩法：公众号涨粉、社群促活、线下门店引流、会员权益发放、品牌活动传播，都能看到它的身影。它的优势很直接：用户理解门槛低、参与反馈快、成本相对可控，也容易和微信内的公众号、社群、小程序、门店场景结合。\n  但也正因为抽奖看起来简单，很多活动最后只做成了“一次热闹”。参与人数有了，目标用户没沉淀；奖品发出去了，后续转化没接住；前端页面很",
+      "url": "https://36kr.com/p/3893457328700165?f=rss",
       "date": "2026-07-13",
-      "tags": ["量子", "芯片"]
+      "tags": []
     },
     {
       "source": "36kr",
-      "title": "固态电池量产在即：能量密度达500Wh/kg，续航超1000公里",
-      "summary": "多家企业宣布固态电池即将量产，能量密度突破500Wh/kg，预计2027年装车。这将是新能源汽车续航里程的分水岭。",
-      "url": "https://36kr.com/p/solid-state-battery",
+      "title": "倩碧押注PDRN护肤赛道，高端美妆品牌加速切入医美护理市场｜最前线",
+      "summary": "随着医美消费逐渐从单次项目体验转向长期肌肤管理，传统高端护肤品牌正在寻找新的增长空间。\n  36氪获悉，近日，雅诗兰黛集团旗下品牌倩碧在中国发布CX肌源深修水光系列产品，切入近年来快速升温的PDRN（聚脱氧核糖核苷酸）护肤赛道。\n  该系列以重组PDRN为核心成分。据雅诗兰黛集团介绍，这是全球首款以重组PDRN为核心成分的护肤产品",
+      "url": "https://36kr.com/p/3893519389293056?f=rss",
       "date": "2026-07-13",
-      "tags": ["电池", "新能源"]
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "lululemon「割不动」中国人了",
+      "summary": "作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  在中国市场，lululemon开始被人们拿着放大镜审视。\n  6月中旬，lululemon在上海北外滩举办了一场大型户外瑜伽活动，中途遭遇暴雨。lululemon并未取消活动，而是让上千人在湿滑的瑜伽垫上完成了全套动作。",
+      "url": "https://36kr.com/p/3893430641703429?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。\n  MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚",
+      "url": "https://36kr.com/p/3879780282495236?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。\n  光之跃迁成立于2026",
+      "url": "https://36kr.com/p/3893473722514181?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+      "summary": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。\n  三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态",
+      "url": "https://36kr.com/p/3893445208717826?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。\n  人形机器人赛道在经历了概念爆火与资本",
+      "url": "https://36kr.com/p/3885232033378308?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。\n  <a href=\"https://36kr.com/p/3096473908923911\" r",
+      "url": "https://36kr.com/p/3890940898867712?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+      "summary": "今日热点导览\n  \n   世界杯决赛一块草皮卖3050元，上架后很快售空\n   中国石化完成对中国航油重组\n   巨力索具因误导性陈述被罚450万元\n   SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片\n   马斯克据悉要求特斯拉员工转向使用Grok",
+      "url": "https://36kr.com/p/3893305996442118?f=rss",
+      "date": "2026-07-12",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "“背后空无一人”的LV，这次中国人彻底不买账了",
+      "summary": "<",
+      "url": "https://36kr.com/p/3892442708032264?f=rss",
+      "date": "2026-07-12",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "三菱日联市值超越丰田，跃居日本第一",
+      "summary": "三菱日联金融集团（MUFG）7月13日在东京证券市场交易中，市值一度达到42万亿日元，首次跃居日本上市企业市值榜首。当日，三菱日联金融集团的市值达到42.1万亿日元，超过了丰田汽车以及半导体存储器企业铠侠控股。（界面）",
+      "url": "https://36kr.com/newsflashes/3893749770844678?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "四部门：加强卫星互联网等新型基础设施配套规划建设",
+      "summary": "36氪获悉，工信部等四部门发布关于推动互联网基础资源高质量发展的指导意见。其中提到，探索新型设施建设。面向智能体与智能体、智能体与外部工具、智能体与前端应用等典型场景，探索构建具备统一通信协议、数据交互标准和接口规范的智能体互联网络基础设施。加强智能体互联互通，推动实现智能体技术从单点应用向网络化协同发展的能力跃升。加强卫星互联网等新型基础设施配套规划建设，加快典型场景落地，稳步扩大应用范围。探索",
+      "url": "https://36kr.com/newsflashes/3893744795286019?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "四部门：开展人工智能、区块链、分布式标识等技术与互联网基础资源融合创新技术攻关",
+      "summary": "36氪获悉，工信部等四部门发布关于推动互联网基础资源高质量发展的指导意见。其中提到，突破关键核心技术。加强互联网科技创新规划，推动实施相关国家重点研发计划和国家科技重大专项，加强原始技术创新，开展人工智能、区块链、分布式标识等技术与互联网基础资源融合创新技术攻关，突破网络动态优化、资源智能调度、数据安全交互等关键技术。加强IPv6技术体系创新，解决协议兼容、高性能传输等关键问题。突破卫星互联网巨型",
+      "url": "https://36kr.com/newsflashes/3893744067951363?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "四部门：到2030年，互联网基础资源高质量发展实现体系化突破",
+      "summary": "36氪获悉，工信部等四部门发布关于推动互联网基础资源高质量发展的指导意见。其中提到，到2030年，互联网基础资源高质量发展实现体系化突破，取得一批标志性技术原创成果，形成系列引领性技术标准。互联网基础资源及体系架构革新演进，建成高效协作、智能互联的新型互联网基础设施，打造一批新型服务网络。互联网基础资源产学研用创新发展体系持续完善，支撑互联网新场景、新模式、新业态快速发展。互联网基础资源高效治理与",
+      "url": "https://36kr.com/newsflashes/3893740487686664?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "上半年我国批准上市创新医疗器械42个，包括多个“全球首款”",
+      "summary": "国家药监局最新统计显示，今年上半年，我国批准上市的创新医疗器械达42个，包括多个“全球首款”医疗器械产品，在满足我国患者临床需求的同时，也为全球提供中国解决方案。国家药监局器械注册司副司长袁鹏介绍，今年1—6月，国家药监局共批准上市第三类医疗器械1595个，其中，创新医疗器械有42个，高端创新医疗器械加速上市。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3893739073452806?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "华熙生物在北京成立医疗器械销售公司，注册资本500万",
+      "summary": "36氪获悉，天眼查App显示，近日，北京华熙医疗器械销售有限公司成立，法定代表人为孙京军，注册资本500万人民币，经营范围包括第二类医疗器械销售、化妆品批发、化妆品零售、保健食品销售等。股东信息显示，该公司由北京华熙海御科技有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3893737746397961?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "万华化学、河海新能源合资公司增资至20亿，增幅25%",
+      "summary": "36氪获悉，天眼查App显示，近日，万华河海新能源发展（烟台）有限公司发生工商变更，注册资本由16亿人民币增至20亿人民币，增幅25%。该公司成立于2022年2月，法定代表人为周永金，经营范围包括余热发电关键技术研发、合同能源管理、供冷服务等，由万华化学集团股份有限公司、河海新能源集团有限公司共同持股。",
+      "url": "https://36kr.com/newsflashes/3893732572936709?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "我国上半年创新药对外授权约1100亿美元，创历史新高",
+      "summary": "记者今天从国家药监局了解到，今年1至6月，我国创新药对外授权交易总额约1100亿美元，达2025年全年总额的八成，再创历史新高。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3893728743275272?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+      "summary": "外交部发言人宣布：2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3893727183076096?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "A股三大指数集体收跌，油气股走强",
+      "summary": "36氪获悉，A股三大指数集体收跌，沪指跌2.06%，深成指跌3.48%，创业板指跌3.1%；培育钻石、玻璃纤维、商业航天概念下挫，黄河旋风跌停，广联航空跌超16%，国际复材跌超10%；油气、银行、煤炭板块涨幅居前，中国石油、陕西煤��涨超4%，工商银行涨超2%。",
+      "url": "https://36kr.com/newsflashes/3893724533324545?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "韩国政府计划2027年安排创纪录的支出金额",
+      "summary": "韩国企划预算处长官朴洪根在政府会议上表示，韩国计划在2027年预算中支出超过800万亿韩元，创历史新高，同时预计国家税收收入将超过500万亿韩元，也创历史新高。2027年国家税收收入将超过500万亿韩元，高于政府此前预估的412万亿。超额税收将拨入未来应对基金；该基金将用于投资青年、未来增长引擎、区域发展和人才培养。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3893715706214919?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "中国稀土集团等在广西成立新公司，注册资本8亿",
+      "summary": "36氪获悉，天眼查App显示，近日，中稀域潇（广西）稀土有限公司成立，法定代表人为华占文，注册资本8亿人民币，经营范围包括稀有稀土金属冶炼、稀土功能材料销售、有色金属合金制造等。股东信息显示，该公司由中国稀土集团产业发展有限公司、济南域潇集团有限公司、盛和资源（海南）有限公司共同持股。",
+      "url": "https://36kr.com/newsflashes/3893704493660673?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "SK海力士韩股收盘暴跌15.4%，创历史最大跌幅",
+      "summary": "36氪获悉，SK海力士韩股收盘暴跌15.4%，创历史最大跌幅。",
+      "url": "https://36kr.com/newsflashes/3893702141065735?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "韩国LS电气与英飞凌将合作开发直流电力解决方案",
+      "summary": "据7月13日声明，韩国LS电气与英飞凌达成合作协议，将共同开发适用于AI数据中心和未来电网的直流电力解决方案，合作范围包括用于能源储存装置的电力转换装置、半导体变压器和半导体断路器等。（界面）",
+      "url": "https://36kr.com/newsflashes/3893691962112770?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "Stellantis集团2026年第二季度出货量预计为160万辆，同比增长10%",
+      "summary": "7月13日，Stellantis集团发布了今年第二季度其在全球范围内的出货量预测。截至2026年6月30日，Stellantis集团在今年第二季度的出货量预计为160万辆，同比2025年第二季度增长了10%，出货量的整体增长主要由北美和欧洲市场所推动。在中东和非洲，主要由于区域冲突的影响导致了集团在该地区出货量的下滑；在南美，疲软的阿根廷市场影响了集团在该地区的业绩表现。（界面）",
+      "url": "https://36kr.com/newsflashes/3893685460613891?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "杰华特在北京成立集成电路公司，注册资本1亿",
+      "summary": "36氪获悉，天眼查App显示，近日，杰华特集成电路（北京）有限公司成立，法定代表人为周逊伟，注册资本1亿人民币，经营范围包括集成电路制造、集成电路设计、集成电路芯片及产品制造等。股东信息显示，该公司由杰华特微电子股份有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3893684716173826?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "寒武纪成交额达200亿元",
+      "summary": "36氪获悉，寒武纪成交额达200亿元，现跌1.24%。",
+      "url": "https://36kr.com/newsflashes/3893681416108544?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "天威视讯换帅完成工商变更",
+      "summary": "36氪获悉，天眼查App显示，近日，天威视讯发生工商变更，张育民卸任法定代表人、董事长，由季彤接任。该公司成立于1995年7月，注册资本约8.03亿人民币，经营范围包括信息系统集成、互联网数据服务、物联网技术服务等，由深圳广播电影电视集团、中国电信股份有限公司等共同持股。据媒体报道，此前，该公司发布公告称，公司完成董事会换届选举，季彤正式出任公司党委书记、董事长。",
+      "url": "https://36kr.com/newsflashes/3893678361328385?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "现货黄金向下跌破4050美元/盎司",
+      "summary": "36氪获悉，现货黄金向下跌破4050美元/盎司，日内下跌1.68%。",
+      "url": "https://36kr.com/newsflashes/3893671821064961?f=rss",
+      "date": "2026-07-13",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "滴滴亮相联合国可持续交通主题边会，分享巴西绿色出行实践",
+      "summary": "近日，2026年联合国可持续发展高级别政治论坛可持续交通主题边会在纽约联合国总部举行，滴滴旗下巴西出行平台99创新总监蒂亚戈·希波利托（Thiago Hipolito）受邀参会并分享了基于中国经验推动巴西可持续出行转型方面的实践。据其介绍，四年前99平台上仅有约80辆电动汽车。截至目前，这一数字已突破3.5万辆。未来五年，99计划在巴西推动超过30万辆新能源车辆登记运营，进一步推动巴西绿色出行与低",
+      "url": "https://36kr.com/newsflashes/3893669541952004?f=rss",
+      "date": "2026-07-13",
+      "tags": []
     }
   ]
 }
