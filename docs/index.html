@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechDaily - 每日前沿科技</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>TechDaily</h1>
+        <p class="subtitle">每日前沿科技自动聚合</p>
+    </header>
+
+    <nav class="date-nav">
+        <button id="prev-day" title="前一天">&larr;</button>
+        <span id="current-date"></span>
+        <button id="next-day" title="后一天">&rarr;</button>
+    </nav>
+
+    <main id="content">
+        <div class="loading">加载中...</div>
+    </main>
+
+    <footer>
+        <p>数据来源: arXiv &middot; Hacker News &middot; GitHub Trending &middot; 36Kr</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

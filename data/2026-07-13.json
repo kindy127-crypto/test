@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-13",
+  "items": [
+    {
+      "source": "arxiv",
+      "title": "Scalable Quantum Error Correction with Surface Code on a 2D Qubit Array",
+      "summary": "We demonstrate a practical implementation of surface code error correction on a 72-qubit superconducting processor, achieving a logical error rate below the break-even threshold.",
+      "url": "https://arxiv.org/abs/2607.00001",
+      "date": "2026-07-13",
+      "tags": ["quant-ph", "cond-mat"]
+    },
+    {
+      "source": "arxiv",
+      "title": "Neuromorphic Computing with Phase-Change Memristor Crossbar Arrays",
+      "summary": "A novel phase-change memristor design enables 8-bit precision analog computation in crossbar arrays, achieving 100x energy efficiency improvement over digital accelerators for inference tasks.",
+      "url": "https://arxiv.org/abs/2607.00002",
+      "date": "2026-07-13",
+      "tags": ["cs.ET", "physics"]
+    },
+    {
+      "source": "hackernews",
+      "title": "TSMC Reports Breakthrough in 1nm Process Node Using Gallium Nitride",
+      "summary": "156 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=42000001",
+      "date": "2026-07-13",
+      "tags": ["semiconductor"]
+    },
+    {
+      "source": "hackernews",
+      "title": "Open-Source RISC-V Chip with Built-in AI Accelerator Ships to Developers",
+      "summary": "203 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=42000002",
+      "date": "2026-07-13",
+      "tags": ["RISC-V"]
+    },
+    {
+      "source": "github",
+      "title": "quantum-compiler/qsdk",
+      "summary": "An open-source quantum circuit compiler targeting superconducting and trapped-ion QPUs with automatic qubit mapping and gate decomposition",
+      "url": "https://github.com/quantum-compiler/qsdk",
+      "date": "2026-07-13",
+      "tags": ["python"]
+    },
+    {
+      "source": "36kr",
+      "title": "国内首条量子芯片产线投产，年产能突破万片",
+      "summary": "国内首条量子计算芯片量产产线正式投产，采用超导量子比特技术路线，标志着我国量子计算从实验室走向产业化的关键一步。",
+      "url": "https://36kr.com/p/quantum-chip-production",
+      "date": "2026-07-13",
+      "tags": ["量子", "芯片"]
+    },
+    {
+      "source": "36kr",
+      "title": "固态电池量产在即：能量密度达500Wh/kg，续航超1000公里",
+      "summary": "多家企业宣布固态电池即将量产，能量密度突破500Wh/kg，预计2027年装车。这将是新能源汽车续航里程的分水岭。",
+      "url": "https://36kr.com/p/solid-state-battery",
+      "date": "2026-07-13",
+      "tags": ["电池", "新能源"]
+    }
+  ]
+}
