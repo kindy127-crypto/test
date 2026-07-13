@@ -9,6 +9,8 @@ from xml.etree import ElementTree
 
 import feedparser
 import requests
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
 
@@ -42,7 +44,7 @@ def fetch_arxiv(max_results=30):
     }
 
     try:
-        resp = requests.get(url, params=params, timeout=30)
+        resp = requests.get(url, params=params, timeout=30, verify=False)
         resp.raise_for_status()
     except Exception as e:
         print(f"arXiv fetch error: {e}")
@@ -90,7 +92,7 @@ def fetch_hackernews(max_results=30):
                 "numericFilters": "points>5",
                 "hitsPerPage": 8,
             }
-            resp = requests.get(url, params=params, timeout=15)
+            resp = requests.get(url, params=params, timeout=15, verify=False)
             resp.raise_for_status()
             data = resp.json()
         except Exception as e:
@@ -132,7 +134,7 @@ def fetch_github_trending(max_results=20):
         try:
             url = f"https://api.gitterapp.com/repositories"
             params = {"language": lang, "since": "daily"}
-            resp = requests.get(url, params=params, timeout=15)
+            resp = requests.get(url, params=params, timeout=15, verify=False)
             if resp.status_code != 200:
                 continue
             data = resp.json()
@@ -160,7 +162,7 @@ def fetch_github_trending(max_results=20):
     if not items:
         try:
             url = "https://github.com/trending?since=daily"
-            resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+            resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"}, verify=False)
             if resp.status_code == 200:
                 # 简单解析 HTML
                 repos = re.findall(
