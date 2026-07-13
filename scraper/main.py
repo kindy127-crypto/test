@@ -218,6 +218,47 @@ def fetch_36kr(max_results=30):
     return items
 
 
+def fetch_apple_patents(max_results=15):
+    """从 Google News RSS 获取 Apple 专利相关新闻"""
+    items = []
+    queries = [
+        ("Apple patent", "https://news.google.com/rss/search?q=Apple+patent&hl=en-US&gl=US&ceid=US:en"),
+        ("苹果 专利", "https://news.google.com/rss/search?q=%E8%8B%B9%E6%9E%9C+%E4%B8%93%E5%88%A9&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ]
+
+    for label, url in queries:
+        try:
+            feed = feedparser.parse(url)
+        except Exception as e:
+            print(f"Apple patents fetch error ({label}): {e}")
+            continue
+
+        for entry in feed.entries:
+            if len(items) >= max_results:
+                break
+            title = entry.get("title", "")
+            summary = entry.get("summary", "")[:200]
+            summary = re.sub(r"<[^>]+>", "", summary).strip()
+            link = entry.get("link", "")
+            published = entry.get("published_parsed")
+            date_str = time.strftime("%Y-%m-%d", published) if published else datetime.now().strftime("%Y-%m-%d")
+
+            # 去重
+            if any(i["url"] == link for i in items):
+                continue
+
+            items.append({
+                "source": "apple_patent",
+                "title": title,
+                "summary": summary,
+                "url": link,
+                "date": date_str,
+                "tags": [label.split()[0]],
+            })
+
+    return items[:max_results]
+
+
 def main():
     today = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
     print(f"Scraping for {today}...")
@@ -235,6 +276,9 @@ def main():
 
     print("Fetching 36Kr...")
     all_items.extend(fetch_36kr())
+
+    print("Fetching Apple Patents...")
+    all_items.extend(fetch_apple_patents())
 
     print(f"Total items: {len(all_items)}")
 

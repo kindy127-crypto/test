@@ -224,6 +224,7 @@ main {
 .source-icon.hackernews { background: #ff6600; }
 .source-icon.github { background: #24292e; }
 .source-icon.kr36 { background: #0070f3; }
+.source-icon.apple_patent { background: #555; font-family: -apple-system, sans-serif; }
 
 .source-name {
     font-size: 1rem;
