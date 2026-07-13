@@ -1,4 +1,4 @@
-const DATA_BASE = "../data";
+const DATA_BASE = "./data";
 
 const SOURCE_META = {
     arxiv: { name: "arXiv", icon: "A" },

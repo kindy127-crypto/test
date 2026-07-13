@@ -10,7 +10,7 @@ from xml.etree import ElementTree
 import feedparser
 import requests
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "data")
 
 # 前沿科技关键词
 KEYWORDS = [
