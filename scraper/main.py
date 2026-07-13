@@ -252,7 +252,7 @@ def main():
 
     # 生成日期索引
     dates = sorted(
-        [f.replace(".json", "") for f in os.listdir(DATA_DIR) if f.endswith(".json")],
+        [f.replace(".json", "") for f in os.listdir(DATA_DIR) if f.endswith(".json") and f != "index.json"],
         reverse=True,
     )
     index_path = os.path.join(DATA_DIR, "index.json")
