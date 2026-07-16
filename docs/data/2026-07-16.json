@@ -1,0 +1,859 @@
+{
+  "date": "2026-07-16",
+  "items": [
+    {
+      "source": "arxiv",
+      "title": "Leveraging unlabelled data for generalizable neural population decoding",
+      "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve",
+      "url": "http://arxiv.org/abs/2607.14086v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Cluster-configurational study of G-center in Silicon",
+      "summary": "Understanding the properties of defects is imperative for proper use for variety of applications including quantum computing. In this paper, we use the multiconfigurational self consistent field (MCSC",
+      "url": "http://arxiv.org/abs/2607.14083v1",
+      "date": "2026-07-15",
+      "tags": [
+        "quant-ph",
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Building Shor's Algorithm in Lean: An Agentic Formalization of Quantum Attacks on RSA-2048 and P-256",
+      "summary": "Large language models are increasingly assisting with demanding formal theorem-proving tasks, particularly when grounded in machine-checked libraries such as Lean. Agentic systems further amplify this",
+      "url": "http://arxiv.org/abs/2607.14082v1",
+      "date": "2026-07-15",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Renormalizing a three-flavor lattice calculation of the two-photon contribution to $K_L\\toμ^+μ^-$",
+      "summary": "The Standard Model prediction for the rare $K_L\\toμ^+μ^-$ decay depends critically on the long-distance contribution coming from the exchange of two photons. Such a contribution can be computed using ",
+      "url": "http://arxiv.org/abs/2607.14077v1",
+      "date": "2026-07-15",
+      "tags": [
+        "hep-lat",
+        "hep-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Quantum Transport and Apparent Work Function Distributions of Atomic Contacts via a 3D-Printed High-Vacuum Platform",
+      "summary": "We present a low-cost, 3D-printed high-vacuum platform integrating a mechanically controllable break-junction system and a custom logarithmic amplifier for room-temperature quantum transport measureme",
+      "url": "http://arxiv.org/abs/2607.14074v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cond-mat.mes-hall"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "PhysClaw-0: A Symbiotic Agentic System for Robot Autonomy via Language Corrections",
+      "summary": "Autonomous data collection governs the volume and quality of real-world trajectories for manipulation policy learning. Existing pipelines reduce human effort via self-resetting, VLM verification, or l",
+      "url": "http://arxiv.org/abs/2607.14047v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO",
+        "cs.HC",
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+      "summary": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-A",
+      "url": "http://arxiv.org/abs/2607.14046v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "The WEST code for large-scale excited-state materials simulations",
+      "summary": "We present WEST, an open-source plane-wave pseudopotential code for large-scale excited-state materials simulations, and describe its theoretical foundations, software architecture, and capabilities. ",
+      "url": "http://arxiv.org/abs/2607.14025v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Industrial Dexterity Benchmark: A Hardware-Software Benchmarking Platform for Industrial Dexterous Manipulation",
+      "summary": "Dexterous manipulation remains a critical bottleneck in industrial automation; tasks such as cable routing, connector insertion, and precision assembly still rely heavily on manual labor despite decad",
+      "url": "http://arxiv.org/abs/2607.14021v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors",
+      "summary": "We present AeroMap3D, a monocular 6-DoF UAV localization system that anchors onboard imagery to visual, geometric, and semantic map priors for GNSS-denied navigation. AeroMap3D addresses two fundament",
+      "url": "http://arxiv.org/abs/2607.14009v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+      "summary": "Penetration testing traditionally evaluates whether adversaries can exploit weaknesses in software, infrastructure, configurations, or operational controls to achieve security-relevant compromise. Thi",
+      "url": "http://arxiv.org/abs/2607.14006v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+      "summary": "Driving-world generation has emerged as a core capability for scalable autonomous-driving simulation, yet existing methods remain limited in object-level controllability and long-horizon stability. We",
+      "url": "http://arxiv.org/abs/2607.14005v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.CV",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Driven Odd Elasticity in Passive Mechanical Metamaterials",
+      "summary": "We present a mechanical mechanism leveraging passive mechanical components, i.e. chiral gears and a square lattice metamaterial, to demonstrate driven odd elasticity in a mechanical metamaterial. The ",
+      "url": "http://arxiv.org/abs/2607.13997v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cond-mat.soft"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "DARK-HIDE: Dark matter versus hidden dimensions in black hole images",
+      "summary": "Dark matter near a black hole and effective extra-dimensional corrections can change the same horizon-scale observables. This creates a simple but important question: if an image differs from Kerr, wh",
+      "url": "http://arxiv.org/abs/2607.13992v1",
+      "date": "2026-07-15",
+      "tags": [
+        "gr-qc",
+        "astro-ph.HE"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Universal Quantum Computation with Multi-Mode Schrödinger Cat States Stabilized by Non-Local Dissipation Engineering",
+      "summary": "Schrödinger cat states provide a hardware-efficient platform for bosonic quantum error correction by encoding logical information in protected manifolds of harmonic oscillators. While previous work ha",
+      "url": "http://arxiv.org/abs/2607.13975v1",
+      "date": "2026-07-15",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch",
+      "summary": "World Action Models (WAMs) improve robot policy learning by jointly modeling actions and future visual observations, using future scene evolution as dense supervision for physically grounded action ge",
+      "url": "http://arxiv.org/abs/2607.13960v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Temporal Fourier Optics Reveals Hidden Hybridized Light-Matter States",
+      "summary": "Spectral measurements provide fundamental insights into wave systems by revealing resonances, mode hybridization, and light-matter interactions. However, intrinsic dissipation and measurement-induced ",
+      "url": "http://arxiv.org/abs/2607.13957v1",
+      "date": "2026-07-15",
+      "tags": [
+        "physics.optics",
+        "physics.app-ph",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "HORCRUX: A Complete PQC RISC-V eXtension Architecture",
+      "summary": "This work presents a compact RISC-V extension for Post-Quantum Cryptography (PQC) called HORCRUX, which provides a unified Instruction-Set Extension (ISE) supporting all NIST-approved PQC algorithms. ",
+      "url": "http://arxiv.org/abs/2607.13939v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.CR"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Discriminative Barrier Functions for Safe Adversarial Imitation Learning from Observation",
+      "summary": "Inverse Reinforcement Learning (IRL) algorithms are powerful tools for learning from and generalizing expert demonstrations, but they often rely on unconstrained exploration, rendering them unsafe for",
+      "url": "http://arxiv.org/abs/2607.13938v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Radiation effects on surface and bulk properties of ATLAS18 silicon sensors under low- and high-dose gamma irradiation and annealing",
+      "summary": "Silicon strip detectors for the ATLAS Inner Tracker (ITk) at the HL-LHC must withstand harsh radiation conditions, including fluences of up to 1.6E15 1 MeV n$_{eq}$/cm$^{2}$ and total ionizing doses (",
+      "url": "http://arxiv.org/abs/2607.13932v1",
+      "date": "2026-07-15",
+      "tags": [
+        "physics.ins-det",
+        "hep-ex"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving",
+      "summary": "Vision-Language Models (VLMs) have demonstrated remarkable potential for high-level reasoning in autonomous driving, yet they fundamentally struggle to generate precise, low-level control actions. Thi",
+      "url": "http://arxiv.org/abs/2607.13926v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Forward & Reverse Skills from a Single Unfinished Demonstration for Constrained Manipulation Tasks",
+      "summary": "Learning from demonstration (LfD) enables robots to learn manipulation skills directly from expert demonstrations but remains challenging for contact-rich tasks involving geometric constraints and for",
+      "url": "http://arxiv.org/abs/2607.13882v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Phonon down-conversion by normal metals for superconducting devices",
+      "summary": "Thanks to low dissipation, superconducting devices are promising for a number of applications, such as detectors and implementations of quantum computation. However, their working can be adversely imp",
+      "url": "http://arxiv.org/abs/2607.13870v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Lie-algebraic approach to non-Markovian quantum dynamics",
+      "summary": "In this paper, we study the non-Markovian quantum dynamics in quantum computations from the perspective of a Lie algebraic approach based on numerical analysis. By vectorizing the density matrix of qu",
+      "url": "http://arxiv.org/abs/2607.13865v1",
+      "date": "2026-07-15",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Fabrication of focusing optics for TA-MOONS: Micro-MOONS",
+      "summary": "Understanding star and planet formation requires optical to near-infrared spectroscopic observations of a large number of young stellar objects. The TIFR-ARIES Multi-Object Optical to Near-infrared Sp",
+      "url": "http://arxiv.org/abs/2607.13859v1",
+      "date": "2026-07-15",
+      "tags": [
+        "astro-ph.IM"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Merging Reaction to Cognition: A Hybrid Cognitive Strategy for Odour Source Localisation in Natural Environments",
+      "summary": "Chemical pollutants released into the environment are transported by turbulent flows, generating complex, intermittent plume structures that threaten ecosystems and human health. Rapid localisation of",
+      "url": "http://arxiv.org/abs/2607.13853v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "First-principles Study of Structural and Electronic Properties of Mn-doped Cu2NiXY4 (X=Sn, Ge, Si; Y=S, Se) Chalcogenide Semiconductors",
+      "summary": "In this work, the effect of partial substitution of Mn by Ni on the structural and electronic properties of kesterite systems Cu2NiXY4 (X = Sn, Ge, Si; Y = S, Se) was studied using density functional ",
+      "url": "http://arxiv.org/abs/2607.13846v1",
+      "date": "2026-07-15",
+      "tags": [
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Maximum non reciprocity in metasurfaces of gyrotropic rods",
+      "summary": "Efficiently breaking time-reversal symmetry at the subwavelength scale remains a cornerstone challenge for advanced electromagnetic wave manipulation. This work presents a rigorous analytical framewor",
+      "url": "http://arxiv.org/abs/2607.13843v1",
+      "date": "2026-07-15",
+      "tags": [
+        "physics.optics"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "The SKA as a Probe of Heliospheric Turbulence and Radio-wave Propagation Effects",
+      "summary": "Density turbulence in the heliosphere can impact traversing radio photons originating from anywhere in the universe, leading to distortions of both the spectroscopic and imaging properties of the radi",
+      "url": "http://arxiv.org/abs/2607.13838v1",
+      "date": "2026-07-15",
+      "tags": [
+        "astro-ph.SR",
+        "astro-ph.IM"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Neural-network-based material identification in photon-counting computed tomography using region-of-interest spectral features",
+      "summary": "This work investigates the feasibility of neural-network-based material identification based on photon-counting computed tomography (PCCT) data. The input data were spectral vectors extracted from reg",
+      "url": "http://arxiv.org/abs/2607.13835v1",
+      "date": "2026-07-15",
+      "tags": [
+        "physics.ins-det"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "36kr",
+      "title": "大厂医疗AI战，开始“卷”减重",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  互联网大厂做医疗AI，越来越偏爱“减重”场景。\n  近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。\n  2021年，薄荷健康完成D轮融资，估值为",
+      "url": "https://36kr.com/p/3896639942592134?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "硬氪首发 | 民用航空动力企业再获近亿元融资，切入国际巨头垄断的关键功率段",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，民用航空动力企业汉发长空近日完成近亿元Pre-A轮融资，本轮融资由方广资本领投，致道资本、六翼投资共同投资。\n  融资资金将主要用于提升400kW级通用核心机平台的技术成熟度与工程化验证，加速发动机向量产阶段迈进。400kW级平台包括涡轴发动机S4、涡桨发动",
+      "url": "https://36kr.com/p/3897686922266244?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  在首款网球发球机卖爆后，庞伯特做了一款多合一AI教练机器人 。\n  这家公司是在一级市场很受关注的标的，2025年半年内完成三轮融资累计数亿元；旗下产品也在全球拥有了30余万用户，设备累计发球总量超20亿次。\n  但当下硬件赛道已经不容小而美的公司慢慢成长，网球赛道涌入了越来越多的对手，国内硬件创业团队",
+      "url": "https://36kr.com/p/3896586337978244?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家",
+      "summary": "自动驾驶重卡赛道，今年显著升温。\n  36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。\n  2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对",
+      "url": "https://36kr.com/p/3895721094842249?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+      "summary": "今日热点导览\n  澳洲将设AI办公室，限制数据中心能源消耗\n  巴菲特宣布8年内清仓伯克希尔股票\n  前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队\n  长鑫科技：上市后仍将保持无实际控制人的控制权架构\n  谷歌参与建设美国最大太阳能项目，总规模达2.5GW\n  <s",
+      "url": "https://36kr.com/p/3897553391978371?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "summary": "文｜邓咏仪\n  编辑｜张雨忻 杨轩\n  《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。\n  就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备",
+      "url": "https://36kr.com/p/3896830362601351?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "summary": "大公司：\n  美团、青桔、哈啰共享单车调价\n  近期，美团单车、滴滴青桔、哈啰单车相继在北",
+      "url": "https://36kr.com/p/3896563671222147?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "summary": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。\n  但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。\n  AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队",
+      "url": "https://36kr.com/p/3896755010963333?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "支付宝不想做AI时代的配角",
+      "summary": "作者&nbsp;|&nbsp;王晗玉\n  编辑&nbsp;|&nbsp;张帆\n  支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。\n  最近，支付宝完成了上线22年来最大一次改版。\n  本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时",
+      "url": "https://36kr.com/p/3896720584738435?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+      "summary": "",
+      "url": "https://36kr.com/p/3896639400183687?f=rss",
+      "date": "2026-07-15",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "恒指收涨1.33%，恒生科技指数涨1.98%",
+      "summary": "智谱跌近23%，智谱跌超9%；小鹏集团涨超7%，小米集团、泡泡玛特涨超6%；科技、消费股走强，半导体、GEO下挫；南向资金净买入50.39亿港元。",
+      "url": "https://36kr.com/newsflashes/3898040141645442?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型",
+      "summary": "7月16日消息，日本计划采购2.75万颗英伟达下一代Rubin AI芯片，用于构建本土机器人基础AI模型。新成立的Noetra将负责建设大型数据中心，并计划于2027年3月发布首个AI模型，随后持续迭代，未来数年推出面向机器人应用的AI模型。Noetra截至2027年3月已获日本政府3873亿日元资金支持，由软银、丰田汽车支持的Preferred Networks、日本电气等数十家企业参与运营。该",
+      "url": "https://36kr.com/newsflashes/3898024992376454?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "北京亦庄国际服务贸易集团增资至6.16亿，增幅约13%",
+      "summary": "36氪获悉，天眼查App显示，近日，北京亦庄国际服务贸易集团有限公司发生工商变更，注册资本由5.46亿人民币增至6.16亿人民币，增幅约13%。该公司成立于2012年10月，法定代表人为王晓军，经营范围包括以自有资金从事投资活动、物业管理、园区管理服务、货物进出口、国际货物运输代理、保税仓库经营等，由北京亦庄投资控股有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3898000572499849?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "环旭电子：拟出资5000万元认购集成电路产业基金份额",
+      "summary": "36氪获悉，环旭电子公告，公司拟作为有限合伙人出资5000万元认购上海上策兴融芯私募投资基金合伙企业（有限合伙）部分新增份额，该基金目标募集规模8亿元，主要聚焦集成电路产业领域。本次投资不构成关联交易及重大资产重组，无需提交董事会及股东会审议。",
+      "url": "https://36kr.com/newsflashes/3898014015506306?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "京东：推出京麦AI经营中心",
+      "summary": "36氪获悉，7月16日，据京东黑板报消息，京东日前宣布正式推出京麦AI经营中心，并向商家全量开放22款核心AI工具。京东京麦相关负责人表示，京麦AI经营中心是京东专为商家打造的一站式AI经营聚合平台。目前，京麦AI经营中心首期功能已全面上线。",
+      "url": "https://36kr.com/newsflashes/3898008966006408?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "歌尔股份在长沙成立新科技公司，注册资本100万",
+      "summary": "36氪获悉，天眼查App显示，近日，长沙歌尔泰克科技有限公司成立，法定代表人为张一凡，注册资本100万人民币，经营范围包括人工智能行业应用系统集成服务、货物进出口、技术进出口等，由歌尔股份全资持股。",
+      "url": "https://36kr.com/newsflashes/3897991426508678?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "台积电上调销售和支出展望，再添AI需求持续迹象",
+      "summary": "台积电大幅上调今年资本支出和营收预期，反映出该公司对全球AI基础设施需求的信心。作为英伟达和苹果公司的主要芯片制造商，该公司目前预计2026年资本支出为600亿-640亿美元，高于此前预估的520亿-560亿美元。该公司还预计，以美元计价的营收增幅将略高于40%，较此前的逾30%亦有上调。台积电之前公布，第二季度净利润同比增长77.4%，增速超过市场预期。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3898001280419717?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "韩国考虑对14岁及以下儿童实施社交媒体限制",
+      "summary": "韩国媒体监管机构周四表示，鉴于对社交媒体过度使用问题日益担忧，正考虑对14岁及以下儿童实施社交媒体限制。韩国媒体通信委员会主席金钟哲在青瓦台举行的政策简报会上发表讲话，强调青少年过度使用社交媒体是全球性问题。韩国媒体监管机构的最新提议正值其他一些国家政府纷纷采取立法措施限制儿童和青少年使用社交媒体平台之际。欧盟表示，将在今年夏季之后提出一项立法，限制儿童访问此类平台。澳大利亚也成为了全球首个禁止1",
+      "url": "https://36kr.com/newsflashes/3897994345612933?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "苹果自研AI服务器芯片计划被曝推迟",
+      "summary": "据知情人士透露，苹果内部代号为Baltra的自研AI服务器芯片原计划今年落地，现已推迟。（财联社）",
+      "url": "https://36kr.com/newsflashes/3897977992185481?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "金山办公连发两款AI办公智能体，覆盖个人级与组织级两大场景",
+      "summary": "36氪获悉，7月15日，金山办公在上海举办“2026 AI生产力大会”，同日连发两款AI办公智能体，分别覆盖个人级与组织级两大场景：面向个人的灵犀专业版，与面向组织的 WPS Comate。其中，灵犀专业版为每一位用户提供专属AI办公助理；WPS Comate则作为全新组件助力WPS 365完成升级。金山办公CEO章庆元在会上表示，办公软件正在进入第三个时代——从单机办公、协同办公，走向AI办公。",
+      "url": "https://36kr.com/newsflashes/3897989611144839?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "韩国将暂时停止发行新的个股杠杆ETF",
+      "summary": "韩国金融管理委员会7月16日宣布针对单支股票杠杆ETF的措施，将暂时停止发行新的个股杠杆ETF。（界面）",
+      "url": "https://36kr.com/newsflashes/3897985256720259?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "商务部回应推动解决安世半导体问题进展",
+      "summary": "商务部新闻发言人何亚东在7月16日举行的商务部例行新闻发布会上回应推动解决安世半导体进展的有关提问时说，中荷建立开放务实的全面合作伙伴关系10多年来，双边经贸合作不断深化。7月7日，荷兰外贸与发展合作大臣舍尔茨玛访华，王文涛部长与其共同主持召开中荷经贸混委会第18次会议，就中荷、中欧经贸关系坦诚、深入交换意见。中荷双方同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全",
+      "url": "https://36kr.com/newsflashes/3897982712186502?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "百度文库、网盘7月底将升级GenFlow",
+      "summary": "36氪获悉，百度文库、网盘将在近期升级GenFlow，面向专业人群和场景提供更专业服务，并将上线独立网页端、客户端，定位为专为金融、教育、办公等专业从业者打造的“多端通用Agent平台”，将于7月底开启内部邀测。据悉，GenFlow升级后的版本，首期将聚焦金融领域，为金融从业者、爱好者、金融公司及团队等，提供定制化金融行业解决方案。",
+      "url": "https://36kr.com/newsflashes/3897974224455559?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "福化集团旗下古雷石油化工公司增资至205亿，增幅约14%",
+      "summary": "36氪获悉，天眼查App显示，近日，福建福化古雷石油化工有限公司发生工商变更，注册资本由约179.8亿人民币增至约205亿人民币，增幅约14%。该公司成立于2017年2月，法定代表人为王大立，经营范围包括石油制品销售、化工产品销售、成品油批发等，由漳州市九龙江集团有限公司、福建石油化工集团有限责任公司等共同持股。",
+      "url": "https://36kr.com/newsflashes/3897964741543558?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "A股三大指数集体收跌",
+      "summary": "36氪获悉，A股三大指数集体收跌，沪指跌1.85%，深成指跌1.97%，创业板指跌2.95%；半导体、算力硬件集体调整，兆易创新、德明利、长电科技、中国巨石等跌停，澜起科技跌超16%，寒武纪跌超5%；文化传媒、餐饮旅游涨幅居前，上海电影、儒意电影涨停，西藏旅游涨超5%。",
+      "url": "https://36kr.com/newsflashes/3897971699713666?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "数据中心提供商Csquare敲定美国IPO定价，融资规模10.5亿美元",
+      "summary": "7月16日，资管巨头博枫支持的数据中心提供商Csquare宣布，将在美国IPO中发行5000万股普通股，发行价定为每股21.00美元。此次发行预计将于当地时间7月17日完成，但需满足惯例成交条件。（界面）",
+      "url": "https://36kr.com/newsflashes/3897954185823873?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "2026暑期档总票房破35亿",
+      "summary": "36氪获悉，据灯塔专业版实时数据，截至7月16日，2026年暑期档（6.1-8.31）档期总票房（含预售）突破35亿。《功夫女足》《给阿嬷的情书》《玩具总动员5》《小黄人与大怪兽》《四渡》暂列档期票房前5名。",
+      "url": "https://36kr.com/newsflashes/3897952230966918?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "A股三大指数均跌超2%",
+      "summary": "36氪获悉，A股三大指数尾盘走低，均跌超2%，创业板指现跌3.2%。",
+      "url": "https://36kr.com/newsflashes/3897946862978944?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "沪深两市成交额突破2万亿",
+      "summary": "36氪获悉，沪深两市成交额突破2万亿，较上一日此时缩量超2200亿。",
+      "url": "https://36kr.com/newsflashes/3897940167067273?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "现代汽车将收购软银所持波士顿动力公司剩余公司",
+      "summary": "据行业消息人士周四透露，软银集团决定行使看跌期权，出售其持有的美国机器人企业波士顿动力公司的9.65%股份，现代汽车集团计划收购这笔剩余股权。现代汽车集团于2021年以1万亿韩元（约合6.74亿美元）的价格，从软银手中收购了波士顿动力80%的股份。此后，其持股比例已增至90.35%，软银持有剩余的9.65%。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3897936997746306?f=rss",
+      "date": "2026-07-16",
+      "tags": []
+    }
+  ]
+}
