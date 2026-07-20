@@ -1,0 +1,695 @@
+{
+  "date": "2026-07-20",
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "36kr",
+      "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+      "summary": "硬氪获悉，中山市博顿光电科技有限公司（以下简称“博顿光电”）完成超亿元人民币B+轮融资，本轮投资方为毅达资本、中信建投资本、达武创投、友谊时光、南控基金，IO资本担任独家财务顾问。\n  该轮资金将用来引进高端人才、研发新产品，以及针对已经出现爆发趋势的重点行业领域，加快在综合解决方案、市场推广以及产能建设方面的投入速度。\n  博顿光电成立于2016年，是国家级“专",
+      "url": "https://36kr.com/p/3903739699005058?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+      "summary": "<img src=\"https://img.36krcdn.com/hsossms/20260719/v2_5e0b0cef4a15404588e59f9bb395ec56@6310690_oswg734885oswg1267oswg845_img_png?x-oss-process=image/quality,q_90/format,jpg/in",
+      "url": "https://36kr.com/p/3902068392658566?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+      "summary": "<img src=\"https://img.36krcdn.com/hsossms/20260720/v2_f53cbd875e6d4c2f97ef3a292cadebb9@6381723_oswg1461014oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1\" /",
+      "url": "https://36kr.com/p/3903396279125888?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+      "summary": "</",
+      "url": "https://36kr.com/p/3903383663478403?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+      "summary": "文&nbsp;|&nbsp;阿至\n  封面来源｜Pexels\n  中国低轨卫星星座的规模化部署已经进入关键时间窗口。\n  一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商业公司的可回收火箭也将迎来关键首飞节点。\n  当“上天”这件事的成本有望迅速下",
+      "url": "https://36kr.com/p/3903365398185857?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "summary": "腾讯云的企业级智能体平台，正式出海了。\n  7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。\n  ADP 的全称是 Agent Development Platform，定位为企业级 AgentOp",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+      "summary": "<img src=\"https://img.36krcdn.com/hsossms/20260719/v2_83063848fca04df59f0b43be0d23d136@2057308263_oswg1278705oswg900oswg1027_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "url": "https://36kr.com/p/3902007640459145?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
+      "summary": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。\n  据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、C",
+      "url": "https://36kr.com/p/3899612612494976?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
+      "summary": "今日热点导览\n  任泽平团队回应VIP群聊解散\n  市场监管总局发布《个体工商户信用信息应用指南》\n  “工业维生素”价格暴涨，钼铁一天跳涨1500元\n  黄仁勋皮夹克拍出96万美元天价\n  韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币”目标\n  TOP3大新闻",
+      "url": "https://36kr.com/p/3903220264404608?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
+      "summary": "在2026世界人工智能大会（WAIC 2026）上，安顿健康以两项首发引发广泛关注：我国首个生命预警表标准，以及行业首个七诊合参中医机器人——安顿中医机器人。\n  <img src=\"https://img.36krcdn.com/hsossms/20260719/v2_85bdc624ce684fc98a9d450b4b2090e5",
+      "url": "https://36kr.com/p/3902428274427525?f=rss",
+      "date": "2026-07-19",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "亿纬锂能：董事、高级管理人员刘建华拟增持10万股公司股份",
+      "summary": "36氪获悉，亿纬锂能公告，公司董事、高级管理人员刘建华计划自公告披露之日起6个月内，通过集中竞价或大宗交易等方式增持公司股份，合计拟增持股数10万股。",
+      "url": "https://36kr.com/newsflashes/3903724630312585?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "蔚蓝锂芯：会根据供需关系阶段变化制定合理产品销售价格",
+      "summary": "36氪获悉，蔚蓝锂芯在互动平台表示，BBU备电应用是公司近几年重点布局的应用场景，目前产品开发、客户拓展、产能准备、订单交付都在有序进展中。全球的AI数据中心的建设正处于扩张阶段，整体产业链的采购订单都呈现增长态势，公司会根据供需关系的阶段变化合理地制定合理的产品销售价格。",
+      "url": "https://36kr.com/newsflashes/3903712799164296?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "赣锋锂业等在广东成立算电能源科技公司，注册资本2100万",
+      "summary": "36氪获悉，天眼查App显示，近日，赣锋算电（广东）能源科技有限公司成立，法定代表人为张广珍，注册资本2100万人民币，经营范围包括新兴能源技术研发、合同能源管理、充电桩销售、智能输配电及控制设备销售等。股东信息显示，该公司由赣锋锂业、四川清鹏算电科技有限公司共同持股。",
+      "url": "https://36kr.com/newsflashes/3903689553020806?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "龙建股份：中标5.55亿元公路养护工程施工项目",
+      "summary": "36氪获悉，龙建股份公告，公司近日收到中标通知书，公司被确定为黑龙江省普通国省干线公路2026年养护工程施工项目A1标段中标人，中标价5.55亿元。该项目公司施工份额约占公司2025年度经审计营业收入的3.15%。",
+      "url": "https://36kr.com/newsflashes/3903712353093253?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "上海电气：预计2026年半年度净利润同比增长12%-22%",
+      "summary": "36氪获悉，上海电气公告，预计2026年半年度归属于母公司所有者的净利润为9.20亿元-10.00亿元，同比增长12%-22%。业绩变动主要系部分核心业务板块经营提升，以及当期确认的政府补助与部分子公司股权处置产生的非经常性收益。",
+      "url": "https://36kr.com/newsflashes/3903711890835079?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "阿里云调整AgentOne部分商品规格价格",
+      "summary": "7月20日，阿里云发布AgentOne部分商品规格价格调整通知：自2026年7月30日起，智能外呼Agent套餐规格将进行调整，智能外呼Agent不再提供5000分钟、10000分钟规格的套餐包，新购及续费的最低规格统一调整为100000分钟起。原5000/10000分钟规格不再支持续费；开通的5000/10000分钟套餐包，可正常使用至套餐到期，不受本次调整影响。（界面）",
+      "url": "https://36kr.com/newsflashes/3903719821313665?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "韩国股市暴跌至三个月低点，投资者纷纷抛售芯片股",
+      "summary": "韩国股市周一暴跌，跌幅超过4%，收于4月底以来最低水平，投资者纷纷撤出人工智能驱动的押注，加速抛售潮，导致该市场市值在短短一个月内蒸发逾四分之一。存储芯片制造商的大幅回调凸显市场对SK海力士和三星电子的日益依赖，同时暴露出投资者对由这两家芯片制造商高度杠杆化押注推动的涨势日益不安。散户投资者遭受重创，因为通过单只股票杠杆基金的便捷渠道引发了举债投资热潮。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3903711382619782?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "凯撒旅业增资至16.04亿，增幅约100%",
+      "summary": "36氪获悉，天眼查App显示，近日，凯撒旅业集团股份有限公司发生工商变更，注册资本由约8.03亿人民币增至约16.04亿人民币，增幅约100%。该公司成立于1996年5月，法定代表人为迟永杰，经营范围包括旅游业务、旅游开发项目策划咨询、游览景区管理、会议及展览服务等。",
+      "url": "https://36kr.com/newsflashes/3903689116731017?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "港交所回应考虑延长股票交易时间",
+      "summary": "市场传闻称“香港交易所考虑延长股票交易时间，取消午休时段”，对此，港交所回应称，香港交易所一直致力于提升香港作为国际金融中心的竞争力，目前正在研究包括延长交易时段在内的多项提升市场便利性的措施，但当前首要工作是研究延长衍生产品市场交易时段的建议，而不是股票交易时间。（中新经纬）",
+      "url": "https://36kr.com/newsflashes/3903703299769988?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "恒指收涨2.36%，恒生科技指数涨2.79%",
+      "summary": "36氪获悉，恒指收涨2.36%，恒生科技指数涨2.79%；科技、消费股领涨，快手、老铺黄金、蜜雪冰城涨超4%；GEO概念跌幅居前，智谱跌近20%，MINIMAX-W跌超10%；南向资金净流出59.62亿港元。",
+      "url": "https://36kr.com/newsflashes/3903701861320583?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "市场监管总局：2027年年底前，进一步降低个体工商户数字化转型成本",
+      "summary": "36氪获悉，市场监管总局办公厅印发《推动平台企业赋能个体工商户发展行动方案》的通知。2027年年底前，滚动形成“五个一批”工作成果，即推出一批精准“滴灌”、直达快享的帮扶举措，培育一批特色鲜明、转型发展的优质商户，定制一批“解渴”管用、生动务实的培训课程，搭建一批数字赋能、有形有感的应用场景，选树一批创新融合、可学可鉴的典型案例，探索构建平台企业赋能个体工商户发展的长效实践路径，进一步降低个体工商",
+      "url": "https://36kr.com/newsflashes/3903698347099778?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "市场监管总局：合理降低佣金、抽成、会员费等费用，减轻个体工商户运营初期成本压力",
+      "summary": "36氪获悉，市场监管总局办公厅印发《推动平台企业赋能个体工商户发展行动方案》的通知。引导平台企业为新入驻个体工商户提供让利服务，合理降低佣金、抽成、会员费、技术服务费、信息服务费、营销推广费等费用，减轻个体工商户运营初期成本压力。落实《网络交易平台收费行为合规指南》，规范和引导平台企业收费行为。",
+      "url": "https://36kr.com/newsflashes/3903697991468933?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "国网英大：出售英大期货全部股权获得证监会核准批复",
+      "summary": "36氪获悉，国网英大公告，公司全资子公司英大证券有限责任公司拟将其持有的英大期货有限公司100%股权以11.29亿元的价格出售给中国石油集团资本有限责任公司。近日，公司收到中国证监会批复，核准英大期货股权变更、核准英大期货实际控制人变更为中国石油天然气集团有限公司。",
+      "url": "https://36kr.com/newsflashes/3903686068569731?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "中汽协：上半年销量排名前十轿车生产企业共销售294.2万辆",
+      "summary": "36氪获悉，7月20日，据中国汽车工业协会统计分析，2026年1-6月，销量排名前十位的轿车生产企业共销售294.2万辆，占轿车销售总量的67%。在上述十家企业中，与去年同期相比，上汽股份和特斯拉销量呈不同程度增长，其他企业销量均呈不同程度下降。",
+      "url": "https://36kr.com/newsflashes/3903677788915334?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "每刻深思携空间光计算方案亮相WAIC，并与科华数据达成战略合作",
+      "summary": "36氪获悉，2026世界人工智能大会（WAIC 2026）期间，每刻深思创始人、董事长邹天琦携核心团队参会，并与阶跃联合参展并展出空间光计算核心技术成果。现场亮相的空间光计算芯片+大模型全栈融合方案，依托阶跃STEP 3.7大模型完成实景推理加速演示，可有效降本提效、优化算力运行表现。展会期间，每刻深思与科华数据达成“算电冷协同”战略合作，聚焦UPS、液冷、异构算力协同等领域深化合作，推进绿色算力",
+      "url": "https://36kr.com/newsflashes/3903675300104066?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "领益智造在东莞成立餐饮管理公司，注册资本650万",
+      "summary": "36氪获悉，天眼查App显示，近日，东莞益橙餐饮管理有限公司成立，法定代表人为刘建伟，注册资本650万人民币，经营范围为餐饮管理、餐饮服务。股东信息显示，该公司由领益智造全资持股。",
+      "url": "https://36kr.com/newsflashes/3903670884042375?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "万兴科技推出“万剧出海创投计划”，牵头成立“万剧出海共创联盟”",
+      "summary": "36氪获悉，7月20日，万兴科技联合生数科技承办的WAIC首个AI影视专场在上海落地，并宣布旗下AI驱动的一站式精品影视内容创作平台万兴剧厂全面焕新，推出“聚焦影视创作的无限画布+Agent工作流”的双差异化创作范式，同步官宣海外版ReelMate AI即将上线。会上，万兴科技正式推出“万剧出海创投计划”，拟投入数亿资金与资源，目标在未来投资孵化10000+部AI影视剧。万兴科技还联合生数科技牵头",
+      "url": "https://36kr.com/newsflashes/3903670343075459?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "外交部：中美双方就年内元首互动安排保持沟通",
+      "summary": "外交部发言人林剑主持例行记者会。有记者提问，美国国务卿鲁比奥表示，中国国家主席习近平即将于9月对美国进行的访问仍在按计划进行。请问，中国外交部是否认为此次访问仍在按计划进行？林剑表示，元首外交对中美关系具有不可替代的战略引领作用。双方就年内元首的互动安排保持了沟通。（央视新闻）",
+      "url": "https://36kr.com/newsflashes/3903674499499910?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "汇丰：AI的直接通胀影响更有可能出现在韩国",
+      "summary": "汇丰经济学家在一份研究报告中表示，AI可能会对作为上游硬件供应商的韩国产生更直接的通胀影响。他们表示，高科技零部件和物流的瓶颈正在推高这些关键上游市场的生产者价格。他们表示，韩国央行可能不得不收紧货币政策，以应对通胀。汇��预计，到今年年底，韩国央行将再加息一次。他们补充说，与此同时，2027年可能会有进一步收紧政策的上行风险，这取决于激增的AI出口向本地经济活动传导的程度。（财联社）",
+      "url": "https://36kr.com/newsflashes/3903664994125446?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "美道德监督机构披露特朗普交易逾千笔股票，潜在利益冲突引发外界质疑",
+      "summary": "美国政府道德办公室（OGE）最新披露的信息显示，美国总统特朗普及其投资顾问在今年第一季度进行了超过3600笔股票交易，涉案金额或达数亿美元。由于交易标的涵盖多家受美政府产业政策、关税许可及军售合同直接影响的科技与防务巨头，此举引发美国法律界及舆论界对潜在利益冲突的强烈质疑。根据披露的文件，相关交易涵盖英伟达、苹果、波音、特斯拉以及英特尔等多家美国知名企业。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3903657039185794?f=rss",
+      "date": "2026-07-20",
+      "tags": []
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple granted patent for ‘Eye-gaze Based Biofeedback’ - Apple World Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlZpT1hZOFFhNDlwV3pwSVRrT25pU0NuVFQ5ZW5PcG80S3FOVld1NlBfUUZkUTVHLTM5VUtZMFFneElYLXhGbWxjajM0cEdhMDFCb3ZiVVQyNVVBS0FpdjhqdG4yaG5oSlEyMmpBSH",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlZpT1hZOFFhNDlwV3pwSVRrT25pU0NuVFQ5ZW5PcG80S3FOVld1NlBfUUZkUTVHLTM5VUtZMFFneElYLXhGbWxjajM0cEdhMDFCb3ZiVVQyNVVBS0FpdjhqdG4yaG5oSlEyMmpBSHM5dUJlT1FuVVVDdTMwV1dDdnFrZGJDazkxWkROZHpR?oc=5",
+      "date": "2026-07-17",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple to fight $500mn patent bill at UK Supreme Court - Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQX",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQXpLRzFHUDhWMUE4a0ttc3liZmtRX0I?oc=5",
+      "date": "2026-06-27",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple case could shape licensing of ‘standard essential’ patents globally - Pinsent Masons",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVU5yN2trMFdaT1VIMnk3TkVpZXRiT2g1cVAzV1ByM1hGdmxER0sxYndSVll0S1NNa0RfamVmckVBdlB2Q3owQmFkMDlwZExLVVJra3o5UkhHMFp4TE1VWE4yZElEOXI3Sk5tcWZZSz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVU5yN2trMFdaT1VIMnk3TkVpZXRiT2g1cVAzV1ByM1hGdmxER0sxYndSVll0S1NNa0RfamVmckVBdlB2Q3owQmFkMDlwZExLVVJra3o5UkhHMFp4TE1VWE4yZElEOXI3Sk5tcWZZSzNJUElSQTJFSVMyaDNHNjVmQ2VZT2dxYmREWlJFQ2p5TmVoNlJnY1R2SHFxMDlyenN2TnpiWDdLd1ZseHVkTkE?oc=5",
+      "date": "2026-06-26",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple’s trade secret attack on OpenAI to put onboarding hygiene, hardware product plans in the frame - IAM Patent",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlZ1a3NrWXAtZFZydmJUVldkQkpWVTZ4MlNtT3kwWWo2c0owQ1lOMDA5cVpfWGFwSGM4YWZPZkVneVpMU3Rhak9QNWN4aVY2WnpkYTF3OER6d0p2N21OWkdaeW9CYUJWVTB6ZlRUVH",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlZ1a3NrWXAtZFZydmJUVldkQkpWVTZ4MlNtT3kwWWo2c0owQ1lOMDA5cVpfWGFwSGM4YWZPZkVneVpMU3Rhak9QNWN4aVY2WnpkYTF3OER6d0p2N21OWkdaeW9CYUJWVTB6ZlRUVHJUVFNJOFgzQ2JSZHE1d3BEN0ZET2p3blQ0UG10c2dySUxpbFNHSnh3NTR0NFlRRno2YkxZbTJCaW1CbllfY2p2bWxlN09FRlpDZlJ3OXRtZHl2MWN3dTZ4Q0VONGhyRkpGdVNEUU9OWQ?oc=5",
+      "date": "2026-07-15",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Split Federal Circuit Upholds Smart Mobile Patent Claims Against Challenge from Apple - IPWatchdog.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUVHLXZZVWdhQzlTLU54X3ZUbzdseFBNTW83UnVENGh2VERmdVNYUW9QcTREdXV1dkRSWTNBTFZNOUNMbVgxcFlaQWxwUzcyS2R3RzU1dGR0ek9sa045UGN5aWZZcWRuQ1R6VVE0TU",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUVHLXZZVWdhQzlTLU54X3ZUbzdseFBNTW83UnVENGh2VERmdVNYUW9QcTREdXV1dkRSWTNBTFZNOUNMbVgxcFlaQWxwUzcyS2R3RzU1dGR0ek9sa045UGN5aWZZcWRuQ1R6VVE0TUJTVGhVN2c1TzJ2Tk5tV1psZmVrWDlibHM3c0FfOExuM3FhVmIzNkVfTEVqSWlnUVkxMmpLN1RuSlJxS2tHSXFCQmtpYXplQQ?oc=5",
+      "date": "2026-03-02",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple's $502M payment to Optis over patent infringement goes to UK Supreme Court - AppleInsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1VITDlqbHJFY1BwLXFoSXJKVnZKY0NvdVF4bU5kSHhzQ1pBMXhyREpTNktLTjhVS2sxakFqMWNjV0NOQ2lPVzRCVlM4cml4S2FIYXgyVjUzeTd6alBuSDg4Qi1TZHlpSHc3a3lTdU",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1VITDlqbHJFY1BwLXFoSXJKVnZKY0NvdVF4bU5kSHhzQ1pBMXhyREpTNktLTjhVS2sxakFqMWNjV0NOQ2lPVzRCVlM4cml4S2FIYXgyVjUzeTd6alBuSDg4Qi1TZHlpSHc3a3lTdUR4Mm5iczdXeGIwbHhrMTJxbV9uSDJyWlUtTS0waEwwSHVBeWN5ci1OTkhzVzUwNmNDOE1NZ1dsalhYUVAwN21JRUlCOVR1SkdEd2tpOUFB?oc=5",
+      "date": "2026-06-29",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple asks UK Supreme Court to overturn $502 million patent ruling in Optis dispute - 9to5Mac",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ200RUNRWGZYQXBZc01Rc2pyZ1lOZzJfZmx2WG8ycHdyRkJIYnVWU1FzcklmZGhGMjhsVmUxSmliQTVNSmduY0F2SFl6ODZqemNKc3p5aExYSkltaEpQeGdZNzdGTFBKTzNfbUxTZl",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ200RUNRWGZYQXBZc01Rc2pyZ1lOZzJfZmx2WG8ycHdyRkJIYnVWU1FzcklmZGhGMjhsVmUxSmliQTVNSmduY0F2SFl6ODZqemNKc3p5aExYSkltaEpQeGdZNzdGTFBKTzNfbUxTZllsRzVqOHBUcTNkMTlaRTdrNEFWX2QxTEpLUEFrQVdhLWc4S08xbkF5YllmV2VJWlYxZTlILVFrMWhCMVk1U1hVTkJFMUw?oc=5",
+      "date": "2026-06-29",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Beats Optis Wireless Patent Claims in New Verdict (2) - Bloomberg Law News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPb09jSkw1S1BDOUs4X0xDenNqX2ZnWElOMDBGNHBONnhwWUZhenBfLVdIQWxNQ2hnWVBYQm5zTkdQV0hDU0Y5RC1XelFMWnVZVkpMVkE2OUxpZHlIOTlPd3pPN0piekJ0TndPUUtqM1",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb09jSkw1S1BDOUs4X0xDenNqX2ZnWElOMDBGNHBONnhwWUZhenBfLVdIQWxNQ2hnWVBYQm5zTkdQV0hDU0Y5RC1XelFMWnVZVkpMVkE2OUxpZHlIOTlPd3pPN0piekJ0TndPUUtqM1REb3ZUTVRIMUNBcENZN0o0UVUzY1pRanB6Sk54WkZiVHpPMURraV9Ja1MtRTFRUkJ3YWhr?oc=5",
+      "date": "2026-02-13",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Masimo wins $634 million verdict against Apple in high-stakes patent fight over Apple Watch - Daily Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnNaR1dlQUlncG1MTW5fTFUyVDV2LVVzWTlXVTB1eW13akJCVkNRbnh1eVNDWk5IQUw0cEY0VTdXWGJGd2tDUzIxckdob1Z4dmwxd3haYUF0dTlvSldxdFU3N1I5c1BSSndHNnc3QU",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnNaR1dlQUlncG1MTW5fTFUyVDV2LVVzWTlXVTB1eW13akJCVkNRbnh1eVNDWk5IQUw0cEY0VTdXWGJGd2tDUzIxckdob1Z4dmwxd3haYUF0dTlvSldxdFU3N1I5c1BSSndHNnc3QUVZdGk4WVEyNzRiQ0hfZ0doQ3NFRmlSOVNrLTFvbmYwLXk5UktZRVl5eUU2dW81ZE9Jel9oWXd1Zk45LXpWVldwSlNVV19IMUNBWE1kaUZLZFluRzJmblFhU2Q4ZXJBTkdq?oc=5",
+      "date": "2025-11-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple fends off 4G wireless patent lawsuit at third trial - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUtDZ0dKX3NuYm9FTjgxeHFoVW1QUXVFQ1dZa19GNnN6andEWVBxNEtOTGVtT09Ib2NPMF9lU3pGN29wOVZsMzlpUUtOM1FYelJTR3hjUUQxbFVNX2pZdzN3NExQS2QzTm9LX2h0U1",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUtDZ0dKX3NuYm9FTjgxeHFoVW1QUXVFQ1dZa19GNnN6andEWVBxNEtOTGVtT09Ib2NPMF9lU3pGN29wOVZsMzlpUUtOM1FYelJTR3hjUUQxbFVNX2pZdzN3NExQS2QzTm9LX2h0U1pxNmRzcFNQYWdQeWg5Y3JnazhkN1dVbkN1a0VOdndsVmxSVkczS0pDTV81LWV6LThGRjIwNE1BYl9WQWc?oc=5",
+      "date": "2026-02-13",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "CCIA Files Amicus Brief in Apple v. ITC Patent Case - CCIA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDZlMjZYWjE4b3hxWTI2bHhNekY4eUY4N0xVLWl4RUR1R0h0ZzEzcHl4YlZTQk5kRnluVWFaZW5CcjZ3bGUyeXI0UUlkdFdiRFdfcm12bjUyMUo2N2oxUHhFWjNaa2VXZ0lTUVpOb3",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDZlMjZYWjE4b3hxWTI2bHhNekY4eUY4N0xVLWl4RUR1R0h0ZzEzcHl4YlZTQk5kRnluVWFaZW5CcjZ3bGUyeXI0UUlkdFdiRFdfcm12bjUyMUo2N2oxUHhFWjNaa2VXZ0lTUVpOb3lTdDhwM2Y1YlpoSkFURnAxUFBYRG1QdzNmSkoyMQ?oc=5",
+      "date": "2026-05-18",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Federal Circuit Affirms ITC Exclusion Order Against Apple Watch One Day After ITC Judge Approves Design-Around - Mintz",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVQtWVBRd0VlOHQzRWNqQ3JHQVExNmtFNjg3T25LR3NULU10NTZHRG1CNldYeW9hcUVNTHlaTmV4a0t2dVNxQXlWdUoyZ3d4YWE1LXc3VXZZWk9WU1dnay11aTkxdVJtbkc0ZFZsUV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVQtWVBRd0VlOHQzRWNqQ3JHQVExNmtFNjg3T25LR3NULU10NTZHRG1CNldYeW9hcUVNTHlaTmV4a0t2dVNxQXlWdUoyZ3d4YWE1LXc3VXZZWk9WU1dnay11aTkxdVJtbkc0ZFZsUV80UWwxSmNBUHh2NV9uVTU0NHlqUU1qeWo0bHAyU3diQTAwc01wOEtwODJGb1hTUlFIWWJPajRMalc5VW9KWXpkaDVoZ3pRT0k?oc=5",
+      "date": "2026-03-27",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple's $502M Optis Patent Case Heads to UK Supreme Court - MacRumors",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBwSzFlZ3pnWk9XS1g1MTJxTmNwaWNxUWpFQm56ZDNYZ2F2bFRjVHFOZ3ZNOWhXWURpQWE3UTFxdzdwRUNLVVJFMllfampRVFd4a2JsanREN3Fla2QtekFJNGk0eklMakN6YTBBQ3",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBwSzFlZ3pnWk9XS1g1MTJxTmNwaWNxUWpFQm56ZDNYZ2F2bFRjVHFOZ3ZNOWhXWURpQWE3UTFxdzdwRUNLVVJFMllfampRVFd4a2JsanREN3Fla2QtekFJNGk0eklMakN6YTBBQ3lLYzhKUERPd1BnMWZvbTNCYlZ2M211c1VK?oc=5",
+      "date": "2026-06-30",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Litigators of the Week: After Apple Was Hit With Two Prior 9-Digit Verdicts, a Defense Win in 4G Patent Case - WilmerHale",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkZVbTNuZDJhWDA3OTZPMzNWWjNSY0dQQmVvdHpvSzB0bEF5Q3dEazVyQ2M1MzVOclNOTWkxT0ZnOXJnYWtOMG5PdzRLMDJkMnIzblRyNTFJc096N0ktOEFlMzlHNU56dTFYNXlUZ3",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkZVbTNuZDJhWDA3OTZPMzNWWjNSY0dQQmVvdHpvSzB0bEF5Q3dEazVyQ2M1MzVOclNOTWkxT0ZnOXJnYWtOMG5PdzRLMDJkMnIzblRyNTFJc096N0ktOEFlMzlHNU56dTFYNXlUZ3QtR25XMjhsNzRuSXl1dkhvOWtyX1VKNENsX184V3V1d1F6bFBKbDRGZ0M3VjBReUZfYkkta1dWNDRMbEh3RFhKT3o4MmdGakRCZm94NER4U3FSYkQyLXJhbnh1alhTRU9IUUh1N2VFYzgtWi1GNkdoNGhTdE5xRlB1MHp5ZlZ6WlRYenpKbTBBRnJOZw?oc=5",
+      "date": "2026-03-09",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple fights disclosure of BlackBerry patents in Fifth Circuit - Courthouse News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTlJDajY5aWp4XzVDU2FaYlN6YUlORDJmNGsxVWVZMzVVYjBmakgyVDVqWEFVVHdTQkNCTHpSYUp5Q1kxYklQU1gxcUMzdWNCank1SXRhd3ZvREtldFhVSUhMWVhuUzVIbVNUMjZ2cE",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTlJDajY5aWp4XzVDU2FaYlN6YUlORDJmNGsxVWVZMzVVYjBmakgyVDVqWEFVVHdTQkNCTHpSYUp5Q1kxYklQU1gxcUMzdWNCank1SXRhd3ZvREtldFhVSUhMWVhuUzVIbVNUMjZ2cEpGOUZZYk41RDFQVGNza19lb0tVZTJFYmRkZElTU0pBOGRUb1FodVctR2lR?oc=5",
+      "date": "2026-03-19",
+      "tags": [
+        "Apple"
+      ]
+    }
+  ]
+}
