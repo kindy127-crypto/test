@@ -1,0 +1,1017 @@
+{
+  "date": "2026-07-27",
+  "items": [
+    {
+      "source": "arxiv",
+      "title": "Robot-Factored World Models via Robot Rendering",
+      "summary": "Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: t",
+      "url": "http://arxiv.org/abs/2607.22535v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO",
+        "cs.CV"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti",
+      "url": "http://arxiv.org/abs/2607.22534v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation",
+      "summary": "Contact-rich robot manipulation requires physical interaction cues that are often invisible to cameras, making tactile sensing essential for robust control. However, scaling visuo-tactile robot learni",
+      "url": "http://arxiv.org/abs/2607.22530v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Optomechanical systems with a Fano membrane in the middle",
+      "summary": "Conventional membrane-in-the-middle (MIM) optomechanical systems offer limited control over the optical linewidth, which can limit their performance when operating in the unresolved-sideband regime. W",
+      "url": "http://arxiv.org/abs/2607.22526v1",
+      "date": "2026-07-24",
+      "tags": [
+        "physics.optics",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Critical Sensing with Autonomous Devices: The Self-Oscillation Threshold of a Frequency-Locked NV-Centre Magnetometer",
+      "summary": "Feedback locking of a probe frequency to a spin resonance is the standard operating mode of precision quantum sensors. Here we deliberately operate such a lock outside its stable regime: a continuous-",
+      "url": "http://arxiv.org/abs/2607.22521v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Automated Flag-based Fault-Tolerant State Preparation using Integer Linear Programming",
+      "summary": "Post-selected stabilizer state preparation is a necessary subroutine in fault-tolerant quantum computation, both for initialization of logical qubits, and for logical-ancilla-based error correction ga",
+      "url": "http://arxiv.org/abs/2607.22498v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Plug, Play, and Comply: A Modular Framework for Online Variable Impedance with Arbitrarily Oriented Compliance Axes",
+      "summary": "The paper proposes a robot-agnostic compliant-control framework that extends the ROS control ecosystem with standardized joint and Cartesian command interfaces. It addresses a key limitation of existi",
+      "url": "http://arxiv.org/abs/2607.22483v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Performance of a first multi-cell WOM-based liquid scintillator detector as prototype for the SHiP Surrounding Background Tagger",
+      "summary": "The Search for Hidden Particles (SHiP) Experiment was approved by CERN in 2024. Feebly-interacting particles that are produced in a proton Beam Dump Facility (BDF) will decay in the 50m-long Decay Vol",
+      "url": "http://arxiv.org/abs/2607.22477v1",
+      "date": "2026-07-24",
+      "tags": [
+        "physics.ins-det",
+        "hep-ex"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning to Prepare Molecular Ground States with Transformer Models",
+      "summary": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iter",
+      "url": "http://arxiv.org/abs/2607.22468v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Multiplexed storage and interaction of Rydberg spinwaves via the gradient echo memory protocol",
+      "summary": "Collective Rydberg excitations offer strong and controllable interactions for quantum information processing, sensing, and nonlinear quantum optics, but their integration with temporally or spectrally",
+      "url": "http://arxiv.org/abs/2607.22466v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph",
+        "physics.atom-ph",
+        "physics.optics"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Data Driven Modeling of Nonlinear Dynamics in a Rotating Detonation Combustor via Finite Dimensional Approximations of the Koopman Operator",
+      "summary": "A Rotating Detonation Combustor (RDC) is a promising technology for increasing efficiency in propulsion and power generation applications. The dynamics of the RDC are governed by continuously propagat",
+      "url": "http://arxiv.org/abs/2607.22457v1",
+      "date": "2026-07-24",
+      "tags": [
+        "math.OC",
+        "cs.CE"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Baryon-number-violating nucleon decays into a dark photon particle",
+      "summary": "Baryon-number-violating (BNV) nucleon decays into a light new particle represent an exciting yet experimentally unexplored frontier. In this work, we systematically study nucleon decays into a dark ph",
+      "url": "http://arxiv.org/abs/2607.22452v1",
+      "date": "2026-07-24",
+      "tags": [
+        "hep-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Highly indistinguishable photons from a tin-vacancy spin qubit in diamond",
+      "summary": "Quantum networks promise secure communication, distributed sensing and modular quantum computing by interconnecting distant quantum nodes through photonic links. Extending such networks beyond metropo",
+      "url": "http://arxiv.org/abs/2607.22439v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Robot Learning to Communicate through Projected Visual Abstractions",
+      "summary": "Humans routinely communicate through abstractions of their bodies, including shadows, silhouettes, and reflections. Yet robots remain largely confined to expressing themselves through their physical m",
+      "url": "http://arxiv.org/abs/2607.22434v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A route to damage tolerance exceeding $10\\%$ in shuttling-equipped quantum processors",
+      "summary": "This is a short study of an approach offering high tolerance to damage (i.e. defects or 'drop outs') in solid state fault-tolerant quantum computing. Our method is primarily aimed at semiconductor ele",
+      "url": "http://arxiv.org/abs/2607.22429v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "PRIMS: Physics-guided Representation for Fluid Identification in Multimodal Sensing",
+      "summary": "Accurate on-device fluid identification is essential for microfluidic applications, yet maintaining reliability under varying flow, pressure, and temperature remains a key challenge. Existing learning",
+      "url": "http://arxiv.org/abs/2607.22422v1",
+      "date": "2026-07-24",
+      "tags": [
+        "physics.flu-dyn",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "StateFormer: A Multivariate Transformer for Learning History-Dependent Battery State Dynamics and Long-Horizon Health Forecasting",
+      "summary": "This paper introduces a novel multivariate Transformer \\emph{StateFormer} that forecasts degradation dynamics of large-scale battery systems. The model learns across time scales, from short-term therm",
+      "url": "http://arxiv.org/abs/2607.22421v1",
+      "date": "2026-07-24",
+      "tags": [
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Conformal Constraint Tightening for Chance-Constrained Motion Planning with Unknown Dynamics",
+      "summary": "Motion planning algorithms compute control sequences that drive autonomous robots to goal regions while avoiding unsafe states. Existing methods, from sampling-based planning to deep reinforcement lea",
+      "url": "http://arxiv.org/abs/2607.22409v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO",
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Light deflection in general static and spherically symmetric spacetime with a homogeneous plasma",
+      "summary": "We developed in this work a perturbative technique to compute the deflection angle of light rays in general static and spherically symmetric spacetimes with a homogeneous non-magnetic plasma. The defl",
+      "url": "http://arxiv.org/abs/2607.22401v1",
+      "date": "2026-07-24",
+      "tags": [
+        "gr-qc"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation",
+      "summary": "Large Language Models (LLMs) are increasingly deployed as autonomous agents, transitioning from static conversational interfaces to dynamic systems capable of complex reasoning, tool execution, and de",
+      "url": "http://arxiv.org/abs/2607.22400v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.NI",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Agentic Root Cause Analysis through Evidence-Grounded Reasoning",
+      "summary": "Diagnosing the root cause of anomalies is essential for safe industrial operation. Despite extensive sensor instrumentation, formulating hypotheses and gathering evidence remains a manual process, cre",
+      "url": "http://arxiv.org/abs/2607.22385v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing",
+      "summary": "Efficient processing is becoming increasingly important in infrared remote sensing, where satellite constellations produce large volumes of observations under constrained detector resolution, power, a",
+      "url": "http://arxiv.org/abs/2607.22380v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.CV"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Self-adjoint extensions of $k$-photon light-matter Hamiltonians",
+      "summary": "Multiphoton light-matter interactions, in which a bosonic mode exchanges $k$ excitations at a time with a quantum system, are a source of genuine nonlinearity in quantum optics and are increasingly ac",
+      "url": "http://arxiv.org/abs/2607.22378v1",
+      "date": "2026-07-24",
+      "tags": [
+        "math-ph",
+        "math.FA",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Metrology of quantum imaging schemes",
+      "summary": "We compare the performance of quantum imaging schemes based on spatially correlated photon pairs by formulating them as quantum multiparameter estimation problems, in which the object is characterized",
+      "url": "http://arxiv.org/abs/2607.22373v1",
+      "date": "2026-07-24",
+      "tags": [
+        "quant-ph",
+        "physics.optics"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "First Lattice QCD Determination of Lepton-Flavor-Universality Ratios in Light-Meson Leptonic Decays",
+      "summary": "The ratio of electronic to muonic leptonic decay widths, $R_{e/μ}$, for the light mesons $π$ and $K$, provides a clean test of lepton flavor universality (LFU) and a sensitive probe of physics beyond ",
+      "url": "http://arxiv.org/abs/2607.22358v1",
+      "date": "2026-07-24",
+      "tags": [
+        "hep-lat",
+        "hep-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Uncertainty-Aware Fusion for Resilient Distributed Radar Sensing",
+      "summary": "Distributed radar sensing enables safe and resilient operation in mobile robotic and vehicular systems by combining multiple local views of the scene. In this paper, we consider a moving agent equippe",
+      "url": "http://arxiv.org/abs/2607.22357v1",
+      "date": "2026-07-24",
+      "tags": [
+        "eess.SP"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education",
+      "summary": "Generative social robots (GSRs) powered by large language models offer new possibilities for personalized tutoring in higher education, but also introduce risks related to misinformation, missing tran",
+      "url": "http://arxiv.org/abs/2607.22345v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Geometric 2D Scene Graph Generation",
+      "summary": "In production processes for consumer products, assembly instructions are essential not only for planning but also for executing the production process. Likewise in robotics, it is crucial for an assem",
+      "url": "http://arxiv.org/abs/2607.22325v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.CV",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Monolithic Hand with Asymmetric Origami Bending and Dual-chamber Actuators",
+      "summary": "The passive adaptability inherent in soft robotic hands affords them advantages in applications that require safe and compliant interaction. However, existing soft robotic hands often struggle to simu",
+      "url": "http://arxiv.org/abs/2607.22320v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance",
+      "summary": "Tantalum has been demonstrated as a promising material for superconducting qubits. However, comparatively little attention has been given to its nitrides. Tantalum nitride exhibits a range of stoichio",
+      "url": "http://arxiv.org/abs/2607.22294v1",
+      "date": "2026-07-24",
+      "tags": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.supr-con",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "36kr",
+      "title": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+      "summary": "今年 WAIC 前夕，月之暗面发布了 Kimi K3，发布即破圈。但资本市场的注意力，更多地落在了另一件事上。\n  过去半年，这家明星大模型公司估值翻了 6 倍，目标 300 亿美元，同步推进赴港 IPO。而在 2025 年底的跨年夜全员信中，创始人杨植麟写下了一句话：2026 年聚焦 Agent，不以绝对用户数量为目标。\n  估值半年翻 6 倍的同时，他们也主动",
+      "url": "https://36kr.com/p/3913706151400583?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+      "summary": "文 | 张卓倩\n  编辑 | 袁斯来\n  低空经济领域迎来里程碑式突破！牧羽天航空近日正式宣布，旗下飞行重卡 AT8000 整机机身已经在无锡市新吴区空港园区隆重下线。作为全球已知最大的eVTOL，飞行重卡AT8000 的下线标志着我国在重载低空物流装备领域实现全球领跑，为低空经济商业化落地应用注入核心动力。\n  <p class=\"image-wrapp",
+      "url": "https://36kr.com/p/3912369056240772?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+      "summary": "作者&nbsp;|&nbsp;乔钰杰\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，智能体育硬件公司「一思智能」（AceiiLab）开启批量交付，此前完成超千万元天使轮融资，由零以资本、变量资本、海益资本投资。资金将主要用于产品研发迭代及市场拓展。\n  一思智能成立于2024年12月，从AI网球机器人切入，尝试构建覆盖硬件、软件、数据、AI",
+      "url": "https://36kr.com/p/3913490184754313?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "优衣库一边关店，一边赚钱",
+      "summary": "作者 |&nbsp;谢芸子\n  编辑 | 张帆\n  优衣库在悄悄赚钱。\n  近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&amp;M集团2026财年预期营收在199亿至208亿欧元。",
+      "url": "https://36kr.com/p/3913266058826880?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+      "summary": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。\n  2024年，36氪曾率先报道MORRO",
+      "url": "https://36kr.com/p/3910655616521348?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+      "summary": "文｜阿至\n  过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。\n  根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万",
+      "url": "https://36kr.com/p/3912546487637378?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+      "summary": "今日热点导览\n  \n   A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间\n   360原董秘称离职7年股权激励未兑现，涉及金额约2649万\n   马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋\n   法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实\n   韩国养老金7月首度净买入KO",
+      "url": "https://36kr.com/p/3913118530819457?f=rss",
+      "date": "2026-07-26",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，「眸深智能」（Motion Brain）完成近亿元Pre-A轮追加融资，本轮投资方包括中国头部物业服务公司、香港财团、多家上市公司联合打造的产业投资平台瑾悦投资、创合汇资本，以及老股东徐汇资本。\n  这也是继2026年5月3亿元Pre-A轮之后，「眸深智能」",
+      "url": "https://36kr.com/p/3911162147640456?f=rss",
+      "date": "2026-07-26",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+      "summary": "文｜温丽虹\n  编辑｜张雨忻\n  Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。\n  从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑",
+      "url": "https://36kr.com/p/3910880823202948?f=rss",
+      "date": "2026-07-25",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "summary": "今日热点导览\n  \n   小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患\n   微信撤回消息后可删除提示字\n   怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权\n   菲尔兹奖得主雅各布·齐默曼将加入OpenAI\n   欧盟对谷歌处以8.9亿欧元罚款\n  \n  <",
+      "url": "https://36kr.com/p/3910351337821318?f=rss",
+      "date": "2026-07-25",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "壹石通：预计上半年盈利950万元—1400万元，同比扭亏",
+      "summary": "36氪获悉，壹石通发布业绩预告，预计2026年半年度实现营业收入4亿元至4.2亿元，同比增加47.33%至54.69%；归属于母公司所有者的净利润950万元至1400万元，同比扭亏为盈。",
+      "url": "https://36kr.com/newsflashes/3913706102068358?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "华翔股份：拟3000万元—5000万元回购股份",
+      "summary": "36氪获悉，华翔股份公告，公司拟通过集中竞价交易方式，以不低于3000万元（含）、不高于5000万元（含）回购股份，用于股权激励或员工持股计划，回购股份价格不超过24.7元/股（含）。",
+      "url": "https://36kr.com/newsflashes/3913703787648389?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "科大讯飞：拟1亿元至2亿元回购股份",
+      "summary": "36氪获悉，科大讯飞公告，公司拟1亿元至2亿元回购股份，用于股权激励或员工持股计划，回购价格不超过62.13元/股（含）。",
+      "url": "https://36kr.com/newsflashes/3913695699604869?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "上海市新增16款已完成备案的生成式人工智能服务",
+      "summary": "36氪获悉，上海市委网信办发布生成式人工智能服务已备案信息公告。截至7月27日，上海市新增16款已完成备案的生成式人工智能服务，累计已完成187款生成式人工智能服务备案。",
+      "url": "https://36kr.com/newsflashes/3913684400952448?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "上汽通用发生法定代表人变更",
+      "summary": "36氪获悉，天眼查App显示，近日，上汽通用汽车有限公司发生工��变更，KAHER KAZEM卸任法定代表人，由ADAM KAZIMIERZ CHILINSKI接任。该公司成立于1997年5月，注册资本10.83亿美元，经营范围包括制造汽车、发动机、变速箱及其零部件，在国内外市场销售本公司及其国内投资企业制造的上述产品及维修配件，从事二手车经销业务等。股东信息显示，该公司由上汽集团、通用汽车（中国",
+      "url": "https://36kr.com/newsflashes/3913682300802441?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全",
+      "summary": "7月27日，英伟达、微软、Adobe、SpacexAI、IBM、SAP、戴尔、思科等企业宣布成立开放安全人工智能联盟，旨在构建和共享开放工具，以促进AI的负责任使用。该联盟成员还包括Cadence、Capital One、Cloudera、Cloudflare、Cognition、CrowdStrike、Databricks、DoorDash、Elastic、慧与、Hugging Face、Lan",
+      "url": "https://36kr.com/newsflashes/3913680378893703?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "安联锐视：控股股东、实控人等承诺1年内不减持",
+      "summary": "36氪获悉，安联锐视公告，公司控股股东联众永盛、实控人徐进，董事、总经理李志洋和公司董事、副总经理、董事会秘书申雷承诺12个月内不通过集中竞价交易、大宗交易、协议转让等方式减持持有的公司股份。",
+      "url": "https://36kr.com/newsflashes/3913679319192969?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "惠科股份在浙江成立半导体公司，注册资本40亿",
+      "summary": "36氪获悉，天眼查App显示，近日，浙江惠芯先进半导体有限公司成立，法定代表人为卢集晖，注册资本40亿人民币，经营范围含半导体分立器件制造、半导体分立器件销售、集成电路设计、集成电路芯片及产品制造、显示器件制造、光伏设备及元器件制造、货物进出口、技术进出口等。股东信息显示，该公司由惠科股份有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3913670193354119?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "Momenta Robovan落地苏州",
+      "summary": "36氪获悉，Momenta宣布旗下Robovan业务已落地苏州相城。据官方介绍，Momenta Robovan已实现向快递配送、夜间配送等场景的快速推进。Momenta Robovan基于公司自主研发的R7世界模型打造无人技术，产品符合车规级标准。",
+      "url": "https://36kr.com/newsflashes/3913666544047491?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "同星科技：拟6000万元—1.2亿元回购股份",
+      "summary": "36氪获悉，同星科技公告，公司拟6000万元至1.2亿元回购股份，用于实施员工持股计划或股权激励计划，回购价格不超过57.01元/股（含）。",
+      "url": "https://36kr.com/newsflashes/3913664513692801?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "软银公司据悉接近收购日本支付服务提供商SP.LINKS",
+      "summary": "据报道，软银集团旗下通信子公司软银公司已获得黑石集团旗下日本支付服务提供商SP.LINKS的优先竞标资格，距完成收购又近一步。知情人士称，黑石将出售所持SP.LINKS的80%股份，索尼金融集团旗下银行部门将出售剩余的20%股份。交易完成后，SP.LINKS将成为软银全资子公司。（界面）",
+      "url": "https://36kr.com/newsflashes/3913661263123587?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "中上协：上半年共有24家A股公司赴港上市，募资总额超过1200亿港元",
+      "summary": "36氪获悉，中国上市公司协会发布6月统计月报。上半年，全市场共有24家A股公司赴港上市，募资总额超过1200亿港元，行业主要集中于新一代信息技术产业、生物产业。上半年末，境外主要市场中国概念上市公司1904家，其中，H股公司较年初增加51家。",
+      "url": "https://36kr.com/newsflashes/3913658382521477?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "神火股份：上半年净利润47.81亿元，同比增长151.06%",
+      "summary": "36氪获悉，神火股份披露半年报，2026年上半年，公司实现营业收入247.91亿元，同比增长21.35%；归属于上市公司股东的净利润47.81亿元，同比增长151.06%；基本每股收益2.16元。",
+      "url": "https://36kr.com/newsflashes/3913653065782662?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "阿达尼能源解决方案计划发行4.17亿美元新股",
+      "summary": "阿达尼能源解决方案计划发行4.17亿美元新股。（财联社）",
+      "url": "https://36kr.com/newsflashes/3913647522862216?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+      "summary": "特斯拉CEO马斯克将人形机器人称为该公司“有史以来最重要产品”，然而美国一位知名投资者日前警告称，马斯克要让特斯拉Optimus机器人实现商业成功可能需要漫长的时间，因为其不仅难以制造，且短期内不太可能带来收入。投资公司Gerber Kawasaki的首席执行官Ross Gerber表示，制造人形机器人最大的障碍是复制人类独特的身体能力。Gerber还质疑了以消费者为中心的人形机器人商业机会，称投",
+      "url": "https://36kr.com/newsflashes/3913644630660482?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "工业富联：拟10亿元—20亿元回购股份",
+      "summary": "36氪获悉，工业富联公告，公司拟以不低于10亿元（含），不超过20亿元（含）通过集中竞价交易方式回购股份，回购股份用于维护公司价值及股东权益，所回购股份将按照有关规定用于出售，逾期未实施出售的部分将依法予以注销，回购股份的价格为不超过103元/股。",
+      "url": "https://36kr.com/newsflashes/3913641029735560?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "老铺黄金：预计上半年净利润同比增长约83%至85%",
+      "summary": "36氪获悉，老铺黄金公告，预计2026年上半年实现收入约人民币198亿元至人民币204.5亿元，同比增长约60%至66%；销售业绩（含税收入）约人民币227亿元至人民币233.5亿元，同比增长约60%至65%；非国际财务报告准则计量经调整净利润约人民币43.1亿元至人民币43.6亿元，同比增长约83%至85%。",
+      "url": "https://36kr.com/newsflashes/3913638220944515?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "7-11母公司柒和伊控股放弃向波兰最大便利店运营商投资",
+      "summary": "7-11便利店母公司柒和伊控股日前宣布，决定放弃向波兰最大便利店运营商Żabka Group投资，原因是双方未能就投资条件达成一致。柒和伊此前一直在研究从投资基金等股东手中收购Żabka Group股份，交易规模预计达数千亿日元。（财联社）",
+      "url": "https://36kr.com/newsflashes/3913633947374976?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "百诚医药：创新药BIOS0635-048片获临床试验批准通知书",
+      "summary": "36氪获悉，百诚医药公告，公司自主研发的创新药BIOS0635-048片获国家药监局临床试验批准通知书。BIOS0635-048片是由公司自主研发的新型小分子抑制剂，拟用于多种实体瘤的治疗。",
+      "url": "https://36kr.com/newsflashes/3913629236384899?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "宏工科技：拟6000万元—9000万元回购股份",
+      "summary": "36氪获悉，宏工科技公告，公司拟以6000万元—9000万元回购股份，用于员工持股计划或者股权激励，回购价格不超过100元/股（含）。",
+      "url": "https://36kr.com/newsflashes/3913623225373824?f=rss",
+      "date": "2026-07-27",
+      "tags": []
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Gets Texas Patent Infringement Suit Moved to California - Bloomberg Law News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWRtRERZWkRZTVFkZGpjZGFKVURmaC00ekdsYzNodENDZTdxZU1yTE5EdlBPOWY0ZEgxcUpPWG54SmVSS0l3TUI2QnQ4azZxczRiOHQ3WXM2UjUyYXJkVnpQeHh1R1ZUeHRvRzBzaD",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWRtRERZWkRZTVFkZGpjZGFKVURmaC00ekdsYzNodENDZTdxZU1yTE5EdlBPOWY0ZEgxcUpPWG54SmVSS0l3TUI2QnQ4azZxczRiOHQ3WXM2UjUyYXJkVnpQeHh1R1ZUeHRvRzBzaDd0MVFhQ3ZFdUV4OEswYm5aTnpOa3E0RjJTZWNad2h2SFdhWXQ2V0YwMTFJZ0x4eGM?oc=5",
+      "date": "2026-07-24",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple loses bid to overturn $634 million Masimo patent verdict, new trial also denied - 9to5Mac",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXNUT3BISG9xTkZpdUM1ZlBVTjRLakt5OGpnMHdFWGhESHF3ckVJanBiT0JDaUxnQnBUWUVtRFZSWWYwUkpvSUNubjg0WElQSFRaaFVfNkdqWWYwZ3dXdy1QRlliekpLbklOS2VoUn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXNUT3BISG9xTkZpdUM1ZlBVTjRLakt5OGpnMHdFWGhESHF3ckVJanBiT0JDaUxnQnBUWUVtRFZSWWYwUkpvSUNubjg0WElQSFRaaFVfNkdqWWYwZ3dXdy1QRlliekpLbklOS2VoUnRoSUVTNnVkc1pmTC1WUUl2OXdCbXJwUnpnZTc3VEtNd0NBcjA2Nm5jTGROeUIyd1pndzVZZ213QldiekhpcEVYT1NQdUwwZw?oc=5",
+      "date": "2026-07-21",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Wins at CAFC Due to PTAB’s Erroneous Reading of Speech Recognition Patent Claims - IPWatchdog.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHk2cl91cV9wM0hRRVlKdjhDRENQZktPTnhXMVZjYnViWmhCTTM4eTBiZllBakhOczNlQWJzVFFtYlZZTmQ1ZTR2NGMzeE1CdV94SmROaFlmUUJJbGVNVmlqa2xsNVNLMnZGYmZnbE",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHk2cl91cV9wM0hRRVlKdjhDRENQZktPTnhXMVZjYnViWmhCTTM4eTBiZllBakhOczNlQWJzVFFtYlZZTmQ1ZTR2NGMzeE1CdV94SmROaFlmUUJJbGVNVmlqa2xsNVNLMnZGYmZnbE1kOXJFN29Va2hCYi1kSkVXZTNNOUFQMF9GWTlFblNSZjBhczMzOWV2ejJoYng0TlpPblc3OE8ybw?oc=5",
+      "date": "2026-07-21",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple patent involves an iMac with handles for easy transportation - Apple World Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm1VVkRoVTExaHRlellTMi04bk82a2V2bWtmQjZVQTlTNU14TjE4c3FUWlRfX0g3VldJQngxYmFXTjhZdjJvajZ1WEEzTlVpMkxVdmpIeHhoQUFJR1VnZTV3NkxlWWdZNEdrMWE3Vz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSm1VVkRoVTExaHRlellTMi04bk82a2V2bWtmQjZVQTlTNU14TjE4c3FUWlRfX0g3VldJQngxYmFXTjhZdjJvajZ1WEEzTlVpMkxVdmpIeHhoQUFJR1VnZTV3NkxlWWdZNEdrMWE3VzliaS1lRHpfb1FuZzNtVHJDT1Rxanh1VldZQVJ6TEZ1cE5qOTVnOTFPeEhoWGZIeE52UUE?oc=5",
+      "date": "2026-07-24",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Watch redesign will remove blood oxygen monitoring amidst patent dispute - Mashable",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUFU5aGh4cUtFRjI0bHdXZl8zT3Fldm1nRUFXeTFEVDlGOWFkQlFlbUo5SXJ6ZlY1YzQxY0FaYWRRT0M5QkNJYVdIMXNzSGY3Q1lOcWFBNVNLZ2VETVR5WTkwUVVSZ19jLVpoSDEzTQ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUFU5aGh4cUtFRjI0bHdXZl8zT3Fldm1nRUFXeTFEVDlGOWFkQlFlbUo5SXJ6ZlY1YzQxY0FaYWRRT0M5QkNJYVdIMXNzSGY3Q1lOcWFBNVNLZ2VETVR5WTkwUVVSZ19jLVpoSDEzTQ?oc=5",
+      "date": "2026-07-25",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple's $634M payment to Masimo now set in stone after Judge tosses appeal - AppleInsider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONTR4dWltY09ZSEt2WWdFUzZ4UWlLMlYwZzVhNFhBejV3TVhMR1pyVUwzSWhSQXhwNDhKNVFvekU5YmVua3dydTBOdTI4UDA1cEpQLVdMdGVOWUhUMXYtb00tV1BiWFBhaW1EajVaWG",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTR4dWltY09ZSEt2WWdFUzZ4UWlLMlYwZzVhNFhBejV3TVhMR1pyVUwzSWhSQXhwNDhKNVFvekU5YmVua3dydTBOdTI4UDA1cEpQLVdMdGVOWUhUMXYtb00tV1BiWFBhaW1EajVaWGN3NFhiQUhabzROZ2tfUktaX0RmU2NDcFZUZktXd0w5NE11OU5zczFNU0JjY01CaE56THNFQ1NfTy03NHRfMXVZeUhzVFljUQ?oc=5",
+      "date": "2026-07-21",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple's Bid To Invalidate Speech Patent Revived On Appeal - Law360",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX2hNMkd2VHNwUlNLWUJacWtKWTBvZFpVblZRamtJR0JXNTRzZmU1NjRqVENkWV9Dei1CWFBZRl9ERDlpZ3BXWUozTm5LYmtiY1VFTGFVbzQ5b0sxUldFeUVjYVltRlVIX2F2Y2J5aU",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2hNMkd2VHNwUlNLWUJacWtKWTBvZFpVblZRamtJR0JXNTRzZmU1NjRqVENkWV9Dei1CWFBZRl9ERDlpZ3BXWUozTm5LYmtiY1VFTGFVbzQ5b0sxUldFeUVjYVltRlVIX2F2Y2J5aUFEMEsxODBOQXhIUmVWYTJqYnBqUnl1ODZyMGhfOHBkUTN6OXcyZTZNLTRYclhBZ9IBVkFVX3lxTE9GNS0zdnk4YURZRjV2dV95VVhjUExGRUFRYllwZXhzQmhzN1RHMWlMSmtrS01HMWU3WWljMFJHYzNMSkN5ZkVVMS04RFMtQlBsMmpZcW13?oc=5",
+      "date": "2026-07-21",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era - The Verge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFFjbVkwRUROb0pCUHI3LS00Z0ZjR2lpT1B1NHNWTHdyczFLdUtNWllEdzVkYVpJS2lJT3VCbkYtS0ZBbVBGZzJoRTQ1elYyLVJQUzlMZm5Ealdxa2pPaC1VMVh1TDJLNzBEQVRYZG",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFFjbVkwRUROb0pCUHI3LS00Z0ZjR2lpT1B1NHNWTHdyczFLdUtNWllEdzVkYVpJS2lJT3VCbkYtS0ZBbVBGZzJoRTQ1elYyLVJQUzlMZm5Ealdxa2pPaC1VMVh1TDJLNzBEQVRYZGh5MGdGTFlOWkt3VEE4OGRtcVJxNDV1bWliYk03bjBwSkVybjloQzFQcWJjcFRSSlNVZ2JSNEsxcHBiUQ?oc=5",
+      "date": "2026-07-23",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Samsung, Apple top targets of US OLED patent litigation - IAM Media",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGxZbW54NW14R3dhOEJxV0NiOU1OS09vS3lyTXlybDlRTEQyNmo1LUZjWENseDBxSFU4bkQ4U1c5M2FreXpYNnFiT285MFhPeFl2b2NvcDR1blFGV09icDRINEkwYm8wNzFTWFFmMn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGxZbW54NW14R3dhOEJxV0NiOU1OS09vS3lyTXlybDlRTEQyNmo1LUZjWENseDBxSFU4bkQ4U1c5M2FreXpYNnFiT285MFhPeFl2b2NvcDR1blFGV09icDRINEkwYm8wNzFTWFFmMnE5eC1kbnYyaWxRT3RjMTB1MjhlaUY1bnlHZnhvVUNIZEs4QQ?oc=5",
+      "date": "2026-06-22",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Loses Bid to Overturn $634 Million Masimo Patent Verdict - The Mac Observer",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQelJKc2hNRkZ1U2sxZVg0bUxHdWxOdVFTVUNUV3VTT0dxYVZXeld6NWh6QWlQSlphS2R0RVJEM0lZejhyT3QyV2d1V1BKNzlrOVo2cEh4Z1ZUZzM4VklWSFBNUG9sSFJISl82NlFfeG",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelJKc2hNRkZ1U2sxZVg0bUxHdWxOdVFTVUNUV3VTT0dxYVZXeld6NWh6QWlQSlphS2R0RVJEM0lZejhyT3QyV2d1V1BKNzlrOVo2cEh4Z1ZUZzM4VklWSFBNUG9sSFJISl82NlFfeGFNUTFMbHU5anIyWXNSV0Vqa0pGaGVlVjJheXVjN0pHQ3lnZWlMMTJZSTdHUQ?oc=5",
+      "date": "2026-07-22",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple to fight $500mn patent bill at UK Supreme Court - Financial Times",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQX",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXhtb3hCWWduOHRRNFNTWGVUQjgtQ2prWGo0aG1Beld3SFByVHUteGFhSVNWZzZ3Um93X0ZtYW9TNlI4UWdlclNXLUo3Rm0xMXYyOE1abUhLNGc4RkNsbEpLa0VGUjlnNHZBR3pCQXpLRzFHUDhWMUE4a0ttc3liZmtRX0I?oc=5",
+      "date": "2026-06-27",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Masimo wins $634 million verdict against Apple in high-stakes patent fight over Apple Watch - Daily Journal",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnNaR1dlQUlncG1MTW5fTFUyVDV2LVVzWTlXVTB1eW13akJCVkNRbnh1eVNDWk5IQUw0cEY0VTdXWGJGd2tDUzIxckdob1Z4dmwxd3haYUF0dTlvSldxdFU3N1I5c1BSSndHNnc3QU",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnNaR1dlQUlncG1MTW5fTFUyVDV2LVVzWTlXVTB1eW13akJCVkNRbnh1eVNDWk5IQUw0cEY0VTdXWGJGd2tDUzIxckdob1Z4dmwxd3haYUF0dTlvSldxdFU3N1I5c1BSSndHNnc3QUVZdGk4WVEyNzRiQ0hfZ0doQ3NFRmlSOVNrLTFvbmYwLXk5UktZRVl5eUU2dW81ZE9Jel9oWXd1Zk45LXpWVldwSlNVV19IMUNBWE1kaUZLZFluRzJmblFhU2Q4ZXJBTkdq?oc=5",
+      "date": "2025-11-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple fends off 4G wireless patent lawsuit at third trial - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUtDZ0dKX3NuYm9FTjgxeHFoVW1QUXVFQ1dZa19GNnN6andEWVBxNEtOTGVtT09Ib2NPMF9lU3pGN29wOVZsMzlpUUtOM1FYelJTR3hjUUQxbFVNX2pZdzN3NExQS2QzTm9LX2h0U1",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUtDZ0dKX3NuYm9FTjgxeHFoVW1QUXVFQ1dZa19GNnN6andEWVBxNEtOTGVtT09Ib2NPMF9lU3pGN29wOVZsMzlpUUtOM1FYelJTR3hjUUQxbFVNX2pZdzN3NExQS2QzTm9LX2h0U1pxNmRzcFNQYWdQeWg5Y3JnazhkN1dVbkN1a0VOdndsVmxSVkczS0pDTV81LWV6LThGRjIwNE1BYl9WQWc?oc=5",
+      "date": "2026-02-13",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "CCIA Files Amicus Brief in Apple v. ITC Patent Case - CCIA",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDZlMjZYWjE4b3hxWTI2bHhNekY4eUY4N0xVLWl4RUR1R0h0ZzEzcHl4YlZTQk5kRnluVWFaZW5CcjZ3bGUyeXI0UUlkdFdiRFdfcm12bjUyMUo2N2oxUHhFWjNaa2VXZ0lTUVpOb3",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDZlMjZYWjE4b3hxWTI2bHhNekY4eUY4N0xVLWl4RUR1R0h0ZzEzcHl4YlZTQk5kRnluVWFaZW5CcjZ3bGUyeXI0UUlkdFdiRFdfcm12bjUyMUo2N2oxUHhFWjNaa2VXZ0lTUVpOb3lTdDhwM2Y1YlpoSkFURnAxUFBYRG1QdzNmSkoyMQ?oc=5",
+      "date": "2026-05-18",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "apple_patent",
+      "title": "Apple Gets Second Shot at Invalidating Speech Recognition Patent - Bloomberg Law News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTJxUU5QSG1pYnEyYnZiS1F1TTV5eFlmZVJwLXB6V05JVmdjM1l5REJ2cjZ5Y3IyS1ZVeGlpamJjZW9LOEFobzJaMnB4cE9kNEl6ZWpLZDAzenNBYjcwd25kQTFpUF9BUkVhSE5lUV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMTJxUU5QSG1pYnEyYnZiS1F1TTV5eFlmZVJwLXB6V05JVmdjM1l5REJ2cjZ5Y3IyS1ZVeGlpamJjZW9LOEFobzJaMnB4cE9kNEl6ZWpLZDAzenNBYjcwd25kQTFpUF9BUkVhSE5lUVhackJoTHQ2Yjc2MlJHNk1pWVVBbDgyTHZVZ2tIbE0zc1ppUDdoQW42SVVJdGtiTnNnVUtv?oc=5",
+      "date": "2026-07-21",
+      "tags": [
+        "Apple"
+      ]
+    }
+  ]
+}
