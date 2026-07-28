@@ -220,23 +220,27 @@ def fetch_36kr(max_results=30):
     return items
 
 
-def fetch_apple_patents(max_results=15):
-    """从 Google News RSS 获取 Apple 专利相关新闻"""
+def fetch_tech_corps(max_results=15):
+    """从 Google News RSS 获取苹果与华为最新技术布局和产品进展"""
     items = []
+    per_query = 4  # 每个查询各取 4 条，确保苹果和华为都能进结果
     queries = [
-        ("Apple patent", "https://news.google.com/rss/search?q=Apple+patent&hl=en-US&gl=US&ceid=US:en"),
-        ("苹果 专利", "https://news.google.com/rss/search?q=%E8%8B%B9%E6%9E%9C+%E4%B8%93%E5%88%A9&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+        ("Apple technology", "https://news.google.com/rss/search?q=Apple+technology+OR+Apple+product+OR+Apple+chip+OR+Apple+AI&hl=en-US&gl=US&ceid=US:en"),
+        ("苹果 技术", "https://news.google.com/rss/search?q=%E8%8B%B9%E6%9E%9C+%E6%8A%80%E6%9C%BD+OR+%E8%8B%B9%E6%9E%9C+%E4%BA%A7%E5%93%81+OR+%E8%8B%B9%E6%9E%9C+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+        ("Huawei technology", "https://news.google.com/rss/search?q=Huawei+technology+OR+Huawei+chip+OR+Huawei+AI+OR+Huawei+product&hl=en-US&gl=US&ceid=US:en"),
+        ("华为 技术", "https://news.google.com/rss/search?q=%E5%8D%8E%E4%B8%BA+%E6%8A%80%E6%9C%AF+OR+%E5%8D%8E%E4%B8%BA+%E4%BA%A7%E5%93%81+OR+%E5%8D%8E%E4%B8%BA+%E8%8A%AF%E7%89%87+OR+%E5%8D%8E%E4%B8%BA+AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
     ]
 
     for label, url in queries:
         try:
             feed = feedparser.parse(url)
         except Exception as e:
-            print(f"Apple patents fetch error ({label}): {e}")
+            print(f"Tech corps fetch error ({label}): {e}")
             continue
 
+        count = 0
         for entry in feed.entries:
-            if len(items) >= max_results:
+            if count >= per_query or len(items) >= max_results:
                 break
             title = entry.get("title", "")
             summary = entry.get("summary", "")[:200]
@@ -250,13 +254,14 @@ def fetch_apple_patents(max_results=15):
                 continue
 
             items.append({
-                "source": "apple_patent",
+                "source": "tech_corps",
                 "title": title,
                 "summary": summary,
                 "url": link,
                 "date": date_str,
                 "tags": [label.split()[0]],
             })
+            count += 1
 
     return items[:max_results]
 
@@ -279,8 +284,8 @@ def main():
     print("Fetching 36Kr...")
     all_items.extend(fetch_36kr())
 
-    print("Fetching Apple Patents...")
-    all_items.extend(fetch_apple_patents())
+    print("Fetching Tech Corps...")
+    all_items.extend(fetch_tech_corps())
 
     print(f"Total items: {len(all_items)}")
 

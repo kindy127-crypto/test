@@ -5,7 +5,7 @@ const SOURCE_META = {
     hackernews: { name: "Hacker News", icon: "Y" },
     github: { name: "GitHub Trending", icon: "G" },
     "36kr": { name: "36Kr", icon: "3" },
-    apple_patent: { name: "Apple Patents", icon: "\uF8FF" },
+    tech_corps: { name: "Tech Corps", icon: "TC" },
 };
 
 let availableDates = [];
@@ -111,7 +111,7 @@ function renderDay(data) {
         grouped[src].push(item);
     }
 
-    const order = ["arxiv", "hackernews", "github", "36kr", "apple_patent"];
+    const order = ["arxiv", "hackernews", "github", "36kr", "tech_corps"];
     const sources = order.filter(s => grouped[s]).concat(
         Object.keys(grouped).filter(s => !order.includes(s))
     );
