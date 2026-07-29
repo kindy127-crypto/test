@@ -3,6 +3,235 @@
   "items": [
     {
       "source": "arxiv",
+      "title": "INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models",
+      "summary": "Forward latent world models predict how actions change a scene, but recover actions for a desired change only through expensive test-time search. We introduce INTACT (INtent-To-ACTion), an end-to-end ",
+      "url": "http://arxiv.org/abs/2607.26056v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+      "summary": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input",
+      "url": "http://arxiv.org/abs/2607.26055v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information",
+      "summary": "Acoustic information provides rich cues about object location, material properties, and changes caused by contact or motion. This paper introduces a new set of acoustic-aware manipulation tasks for im",
+      "url": "http://arxiv.org/abs/2607.26047v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Photonuclear Neutron Production in OpenMC: Verification Against MCNPX, FLUKA, and a First-Collision Analytical Solution",
+      "summary": "The modeling of photonuclear reactions is increasingly important for applications involving high-energy photon fields, including accelerator-driven neutron sources, radiation shielding, medical physic",
+      "url": "http://arxiv.org/abs/2607.26045v1",
+      "date": "2026-07-28",
+      "tags": [
+        "physics.app-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling",
+      "summary": "Time-to-event modeling provides a systematic framework for estimating time-dependent failure risk, reliability, and remaining useful life (RUL) from longitudinal condition monitoring data. However, ap",
+      "url": "http://arxiv.org/abs/2607.26038v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.OH"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Predicting the Slow Drift of Nuclear Spin Noise in Semiconductor Spin Qubits",
+      "summary": "The dynamics of a nuclear spin bath generates magnetic noise that is a key contributor to the decoherence of electron spin qubits in electrostatically-defined quantum dots. In this paper, we extend th",
+      "url": "http://arxiv.org/abs/2607.26019v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cond-mat.mes-hall",
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+      "summary": "Recently, photonic transformer accelerators (PTAs) have successfully achieved significant speedup and energy efficiency improvements over electronic accelerators for expediting Transformer inference. ",
+      "url": "http://arxiv.org/abs/2607.26016v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.AR",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
+      "summary": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for ",
+      "url": "http://arxiv.org/abs/2607.26005v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Observable Estimation in the Absence of Classical Verification",
+      "summary": "The predictive success of quantum mechanics underpins many areas of modern science, even as the exact simulation of large, interacting quantum systems remains beyond the reach of classical computation",
+      "url": "http://arxiv.org/abs/2607.25998v1",
+      "date": "2026-07-28",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Untangling Co-Drift: Proactive Multi-Intent Failure Prediction and Root-Cause Disambiguation for Self-Driving Networks",
+      "summary": "The vision of self-driving networks that monitor, reason, and act upon themselves with minimal human intervention relies on tightly coupled monitoring, analytics, and actuation functions. In this work",
+      "url": "http://arxiv.org/abs/2607.25989v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.NI",
+        "cs.LG",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Physics-Aware End-to-End Deep Reinforcement Learning for Quadcopter Control with Actuator Dynamics",
+      "summary": "Unmanned aerial vehicles (UAVs), particularly quadcopters, present unique challenges for autonomous control due to their underactuated dynamics: only four available control inputs must govern six degr",
+      "url": "http://arxiv.org/abs/2607.25985v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO",
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "An Investigation into the Effect of Mobile Ions on the Steady State Performance of Perovskite Solar Cells",
+      "summary": "In perovskite solar cells, the interplay between mobile ions and photo-excited charge carriers is complex,with recent studies suggesting mobile ions can be either beneficial or detrimental to cell eff",
+      "url": "http://arxiv.org/abs/2607.25951v1",
+      "date": "2026-07-28",
+      "tags": [
+        "physics.chem-ph",
+        "physics.comp-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Sampling hard circuits with verifiably high fidelity",
+      "summary": "Sampling-based proposals are prominent candidates for demonstrating quantum computations beyond the reach of classical supercomputers. However, it has been difficult to combine their complexity-theore",
+      "url": "http://arxiv.org/abs/2607.25941v1",
+      "date": "2026-07-28",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Probing the limits on anomalous quartic gauge couplings via $ZZγ$ production in the $\\ell\\ellννγ$ channel at FCC-hh",
+      "summary": "In this study, the sensitivity to anomalous quartic gauge couplings (aQGCs) is projected via $pp \\rightarrow ZZγ$ production in the 100 TeV proton-proton Future Circular Collider - hadron-hadron (FCC-",
+      "url": "http://arxiv.org/abs/2607.25935v1",
+      "date": "2026-07-28",
+      "tags": [
+        "hep-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+      "summary": "Face de-identification (De-ID) aims to remove or conceal personally identifiable facial features in images or videos to prevent identity recognition while preserving utility for downstream tasks. With",
+      "url": "http://arxiv.org/abs/2607.25926v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "DC-WAM: Dynamic-Centric Visual Supervision and Reasoning for World-Action Models",
+      "summary": "World-Action Models (WAMs) augment robot policies with future visual prediction, but it remains unclear what the visual modality should learn for control. While photorealistic future prediction provid",
+      "url": "http://arxiv.org/abs/2607.25918v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models",
+      "summary": "Vision-Language-Action (VLA) models have shown strong potential for general robot manipulation, but most existing models rely on 2D visual-language backbones and lack fine-grained 3D understanding of ",
+      "url": "http://arxiv.org/abs/2607.25912v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Charge-6e superconductivity from doping SU(3) spin liquids",
+      "summary": "We propose doping $SU(3)$-symmetric spin liquids as a route toward charge-$6e$ superconductivity. This generalizes the idea of constructing charge-$4e$ superconductivity from doped $SU(4)$-symmetric p",
+      "url": "http://arxiv.org/abs/2607.25909v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cond-mat.str-el",
+        "cond-mat.mes-hall",
+        "cond-mat.supr-con"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone",
+      "summary": "Learning deployable manipulation policies is bottlenecked by the scarcity of data that is both high-fidelity and scalable. Real-robot teleoperation is accurate but costly to scale; robot-free UMI capt",
+      "url": "http://arxiv.org/abs/2607.25895v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.RO",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks",
+      "summary": "Traffic forecasting is important for efficient traffic management and route planning in smart cities. Existing traffic forecasting studies typically assume fixed sensor graphs, overlooking the continu",
+      "url": "http://arxiv.org/abs/2607.25875v1",
+      "date": "2026-07-28",
+      "tags": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Observation of the electroweak production of $γγjj$ at $\\sqrt{s}=13$ TeV in $140\\ \\text{fb}^{-1}$ of $pp$ collision data with the ATLAS detector",
+      "summary": "This Letter presents the observation of the electroweak production of two isolated photons in association with two jets together with measurements of the corresponding fiducial and differential cross ",
+      "url": "http://arxiv.org/abs/2607.25869v1",
+      "date": "2026-07-28",
+      "tags": [
+        "hep-ex"
+      ]
+    },
+    {
+      "source": "arxiv",
       "title": "OmniQEC: discovering practical quantum error-correcting codes by an AI scientist",
       "summary": "Quantum error correction (QEC) is indispensable for scalable fault-tolerant quantum computing. However, discovering QEC codes that remain effective is challenging, as logical performance depends on th",
       "url": "http://arxiv.org/abs/2607.25865v1",
@@ -93,227 +322,6 @@
       "date": "2026-07-28",
       "tags": [
         "cs.RO"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics",
-      "summary": "This paper proposes a novel physics-guided spectral deep operator network, termed SpectONet, for solving Euler-Bernoulli beam (EBB) vibration problems. The proposed framework integrates the operator-l",
-      "url": "http://arxiv.org/abs/2607.25790v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.LG",
-        "cs.AI",
-        "math.DS"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "GeoMFD: Continual Drone-View Geo-Localization with Geometry-Aware Adapter and Margin-Field Distillation",
-      "summary": "Existing drone-view geo-localization (DVGL) methods are mainly developed under a static training paradigm, where models are optimized for fixed environments with all training data available in advance",
-      "url": "http://arxiv.org/abs/2607.25788v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.CV"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Motion-Acceleration Calibration and Compensation in IMUs without External Equipment for Attitude Estimation Filters",
-      "summary": "Attitude estimation based on inertial sensing requires measurements of local angular velocities and local gravity via gyroscopes and accelerometers.   However, during the motion of a mobile system the",
-      "url": "http://arxiv.org/abs/2607.25784v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.RO"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Tripody: An Overconstrained 3-SPR-like Parallel Robot for High-Reach Construction Tasks",
-      "summary": "Many ceiling construction tasks still rely on heavy serial manipulators that are difficult to deploy in cluttered interiors, motivating lightweight, field-ready alternatives that reach ceiling height ",
-      "url": "http://arxiv.org/abs/2607.25781v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.RO"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "A Unified Benchmark and Modality-Adaptive Network for Day-and-Night Drone-View Geo-Localization",
-      "summary": "Most existing drone-view geo-localization (DVGL) benchmarks contain drone imagery captured under a single illumination condition and lack geographically aligned visible drone images, infrared drone im",
-      "url": "http://arxiv.org/abs/2607.25778v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.CV"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "A Hierarchical Optimisation Framework for Integrated Electric-Hydrogen-Transport Systems",
-      "summary": "Integrated electric-hydrogen infrastructures are becoming increasingly important with the growing deployment of electric vehicles (EVs) and hydrogen vehicles (HVs) in transport systems. However, the s",
-      "url": "http://arxiv.org/abs/2607.25776v1",
-      "date": "2026-07-28",
-      "tags": [
-        "eess.SY"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Time-Reversal Invariant Topological Photonic Alloy",
-      "summary": "Conventional approaches generate quantum spin Hall (QSH) and quantum valley Hall (QVH) effects by breaking spatial inversion symmetry across the entire photonic crystal. Consequently, modulating the b",
-      "url": "http://arxiv.org/abs/2607.25769v1",
-      "date": "2026-07-28",
-      "tags": [
-        "physics.optics",
-        "cond-mat.dis-nn"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Synergistic Role of Electron and Photon Dose in Stepwise Laser-Induced Complete Deoxygenation of Graphene Oxide Revealed by In-situ TEM",
-      "summary": "Laser-induced reduction of graphene oxide (GO) represents a highly promising route to graphene synthesis, offering spatially localized processing, elimination of hazardous chemical reagents, and compa",
-      "url": "http://arxiv.org/abs/2607.25768v1",
-      "date": "2026-07-28",
-      "tags": [
-        "physics.app-ph",
-        "physics.chem-ph"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Pair luminosity and cooling of newborn strange star: Color-flavor-locked and two-flavor color superconducting quarks",
-      "summary": "Following the previous wor k[1] here we consider early thermal evolution of hot strange stars made of color superconducting quarks in two different pairing states: two-flavor color superconductor (2SC",
-      "url": "http://arxiv.org/abs/2607.25766v1",
-      "date": "2026-07-28",
-      "tags": [
-        "astro-ph.HE",
-        "hep-ph"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Multi-Dimensional Entropy for Vibration Measurement Data Quality Assessment and Erroneous Signal Identification in Wind Turbines",
-      "summary": "Ensuring measurement data quality is essential for reliable condition monitoring of industrial wind turbine drivetrains, where vibration measurements can be affected by sensor malfunctions, turbine sh",
-      "url": "http://arxiv.org/abs/2607.25761v1",
-      "date": "2026-07-28",
-      "tags": [
-        "eess.SP"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning",
-      "summary": "Cooperative navigation of multi-agent UAVs in complex environments faces key challenges including local optima traps, sparse rewards, learning imbalance among agents, and insufficient cross-scenario g",
-      "url": "http://arxiv.org/abs/2607.25754v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.RO"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "A systematic evaluation of machine learning classifiers for event-by-event background rejection in LAFOV PET scanners",
-      "summary": "The introduction of LAFOV PET scanners brings significant sensitivity gains but also a substantial increase in the background rate from accidental coincidences, phantom-scattered and detector-scattere",
-      "url": "http://arxiv.org/abs/2607.25732v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.CV",
-        "physics.med-ph"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Tri-Manual Visuomotor Imitation Learning of Robot Policies",
-      "summary": "Bimanual teleoperation provides an effective way to collect robot demonstrations, but it assumes that the operator and robot have matching numbers of simultaneous control channels. This assumption bre",
-      "url": "http://arxiv.org/abs/2607.25731v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.RO"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Shared Voxel-Map-Based Cooperative Indoor UAV Guidance with a Multi-Agent Soft Actor-Critic Controller",
-      "summary": "This paper presents a cooperative indoor UAV guidance framework that combines a shared voxel-map world model with a multi-agent Soft Actor-Critic (MASAC) controller. Multiple drones fuse 360 LiDAR obs",
-      "url": "http://arxiv.org/abs/2607.25728v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.RO",
-        "cs.AI",
-        "cs.LG"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Robust Ly$α$ forest constraints on reionization from semi-analytic galaxy formation models",
-      "summary": "The high-redshift Ly$α$ forest provides one of the most sensitive probes of the final stages of reionization, but its interpretation can depend on how the ionizing sources are modelled. We test the ro",
-      "url": "http://arxiv.org/abs/2607.25722v1",
-      "date": "2026-07-28",
-      "tags": [
-        "astro-ph.CO",
-        "astro-ph.GA"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Laser induced optical reconfiguration in Ge_Sb_Te Films with composition dependent response",
-      "summary": "Phase change Ge_Sb_Te (GST) materials exhibit pronounced optical contrast and tunability driven by structural transformations, enabling a diverse range of photonic and optoelectronic applications. GST",
-      "url": "http://arxiv.org/abs/2607.25713v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cond-mat.mtrl-sci",
-        "physics.optics"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Verifiable blind probabilistic error cancellation",
-      "summary": "Quantum error mitigation (QEM) is an essential tool for mitigating hardware noise without incurring space overhead. Yet, its reliability depends on modeling, calibration, and implementation, leaving e",
-      "url": "http://arxiv.org/abs/2607.25704v1",
-      "date": "2026-07-28",
-      "tags": [
-        "quant-ph",
-        "cs.CR"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Benchmarking Optical Receivers for Quantum Communication and Randomness Certification",
-      "summary": "The choice of optical receiver determines which properties of the transmitted states remain visible in the observed data and therefore affects the performance of different quantum protocols. We compar",
-      "url": "http://arxiv.org/abs/2607.25702v1",
-      "date": "2026-07-28",
-      "tags": [
-        "quant-ph"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Counterfactual Quantum Sensing: What Interaction-Free Measurement Can and Cannot Buy",
-      "summary": "Interaction-free measurement infers the presence of an absorbing object from a photon that, in the counterfactual sense, never interacted with it, and is widely described as a route to minimally invas",
-      "url": "http://arxiv.org/abs/2607.25699v1",
-      "date": "2026-07-28",
-      "tags": [
-        "quant-ph"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Delta Debugging for Cyber-Physical Systems with Flaky Test Executions",
-      "summary": "Simulation-based testing is widely used to validate Cyber-Physical Systems (CPSs), yet modern CPS simulators frequently exhibit non-deterministic (flaky) behavior, making failures difficult to reprodu",
-      "url": "http://arxiv.org/abs/2607.25695v1",
-      "date": "2026-07-28",
-      "tags": [
-        "cs.SE"
-      ]
-    },
-    {
-      "source": "arxiv",
-      "title": "Antichiral hinge states in a higher-order photonic nodal ring semimetal",
-      "summary": "Antichiral states propagate in the same direction on opposite boundaries, defying the conventional constraint that boundary modes must cancel net chirality. Previously found antichiral states have bee",
-      "url": "http://arxiv.org/abs/2607.25688v1",
-      "date": "2026-07-28",
-      "tags": [
-        "physics.optics"
       ]
     },
     {
@@ -618,8 +626,40 @@
     },
     {
       "source": "36kr",
+      "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+      "summary": "导语：\n  凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。\n  2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物",
+      "url": "https://36kr.com/p/3916187215408776?f=rss",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+      "summary": "文 | 张卓倩\n  编辑 | 袁斯来\n  近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。\n  华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂",
+      "url": "https://36kr.com/p/3916108853521792?f=rss",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+      "summary": "文｜王欣逸\n  编辑｜张雨忻\n  见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。\n  陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Pro",
+      "url": "https://36kr.com/p/3916202023660929?f=rss",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "source": "36kr",
+      "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+      "summary": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。",
+      "url": "https://36kr.com/p/3915175290901889?f=rss",
+      "date": "2026-07-29",
+      "tags": []
+    },
+    {
+      "source": "36kr",
       "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
-      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由蓝湾资本、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。\n  米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+A",
+      "summary": "文｜胡香赟\n  编辑｜海若镜\n  36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。\n  米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU",
       "url": "https://36kr.com/p/3878652674715905?f=rss",
       "date": "2026-07-29",
       "tags": []
@@ -659,200 +699,168 @@
     {
       "source": "36kr",
       "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
-      "summary": "作者&nbsp;|&nbsp;黄楠\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备��量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业",
+      "summary": "作者&nbsp;|&nbsp;黄楠\n  编辑&nbsp;|&nbsp;袁斯来\n  硬氪获悉，人形机器人基础模型公司德塔智能（Delta Intelligence）近日完成近5亿元天使++轮融资，本轮投资方包括多家上市公司产业方和头部财务投资机构。资金将主要用于人形机器人基础模型持续迭代，加快自研数采设备的量产与数据闭环建设，扩充核心研发团队，以推动技术在真实工业场",
       "url": "https://36kr.com/p/3913213962540164?f=rss",
       "date": "2026-07-28",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
-      "summary": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。\n  36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示，新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。\n  今年5月，段建军从北京奔驰转战",
-      "url": "https://36kr.com/p/3913637793059968?f=rss",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "source": "36kr",
-      "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
-      "summary": "文｜邓咏仪\n  编辑｜张雨忻\n  吴秉哲每天至少复盘一次。\n  作为北大计算机博士，他同时也是一个高频的投资者。每天盘后，他会回顾当天的判断——哪些预案执行了，哪些被盘面的新信息打乱了，哪些潜意识的决策事后被验证是对的。\n  这个习惯持续了很多年。但有一个问题是，大部分",
-      "url": "https://36kr.com/p/3915057199535233?f=rss",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "source": "36kr",
-      "title": "重估老铺黄金",
-      "summary": "",
-      "url": "https://36kr.com/p/3914752931976583?f=rss",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "source": "36kr",
-      "title": "🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！",
-      "summary": "参与门槛超简单，全程仅需 15 秒\n  打开抽奖小程序，简单操作两步就能解锁抽奖资格：\n  \n   进入36氪企业全情报小程序快速体验，耗时不超15秒。\n   任选一家企业完成订阅\n  \n  完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与",
-      "url": "https://36kr.com/p/3913529825039745?f=rss",
-      "date": "2026-07-28",
-      "tags": []
-    },
-    {
-      "source": "36kr",
-      "title": "SK海力士：公司韩国股票转换为美国ADR的规模或将有限",
-      "summary": "SK海力士表示，公司韩国股票转换为美国ADR的规模或将有限。韩国股票转ADR流程耗时或将长达数周；目前尚未作出扩大ADR发行规模的相关决策。（财联社）",
-      "url": "https://36kr.com/newsflashes/3916026308193923?f=rss",
+      "title": "Anthropic首席执行官等多位AI大牛签署联名信，呼吁控制人工智能发展步伐",
+      "summary": "超过1100名来自领先人工智能公司的高管及员工联名签署了一封公开信，呼吁美国政府 “支持国际社会共同打造技术与治理工具，以此对前沿自动化人工智能的发展节奏实施有序管控”。这封信于当地时间周二发布，并获得了Anthropic与OpenAI 的支持，签署者包括Anthropic首席执行官达里奥・阿莫代伊、OpenAI首席科学家雅各布・帕霍茨基、谷歌安全与对齐副总裁安卡・德拉根，以及Meta AI首席科",
+      "url": "https://36kr.com/newsflashes/3916455460679298?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问",
-      "summary": "商务部新闻发言人就美国防部将部分中国科研机构列入制裁清单事答记者问。\n\n有记者问：美东时间7月23日，美国防部更新公布“从事问题活动的外国科研机构清单”（1286清单），对中方部分科研机构实施列单制裁。请问商务部对此有何评论？答：我们注意到这一情况。中方对此强烈不满、坚决反对。美方不断泛化国家安全概念，人为设置歧视性壁垒，将科研合作政治化、武器化、工具化，阻碍中美科研领域交流合作，这与全球科技创新",
-      "url": "https://36kr.com/newsflashes/3916022955208073?f=rss",
+      "title": "国产首颗OLED TDDI芯片量产",
+      "summary": "36氪获悉，近日，集创北方自主研发的国内首颗OLED显示触控一体化（TDDI）芯片ICNA3611实现在国内知名品牌主流机型中的规模化量产，标志着我国在高端显示驱动芯片领域完成技术突破与商业化应用的关键跨越，为国产替代与产业链自主可控按下“加速键”。",
+      "url": "https://36kr.com/newsflashes/3916467077836418?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "比亚迪李云飞：投资长鑫科技5000万元为公司行为，董事长王传福不存在个人对外投资情形",
-      "summary": "针对比亚迪参与长鑫科技首轮融资情况，比亚迪集团品牌及公关处总经理李云飞表示，该投资六年前（2020年12月）由比亚迪股份出资5000万元完成，公司董事长王传福仅持有比亚迪相关股份，未以个人名义对外投资入股其他任何企业，不存在个人对外投资情形。同时，公司所有对外投资，均统一以比亚迪股份有限公司主体名义开展，公司高管从未以个人名义参与任何对外投资项目。“近年来公司开展的各项股权投资业务，均为企业层面的",
-      "url": "https://36kr.com/newsflashes/3916021822680457?f=rss",
+      "title": "乘联分会：7月1-26日全国乘用车新能源市场零售73.8万辆，同比下降2%",
+      "summary": "36氪获悉，乘联分会发布数据，7月1-26日，全国乘用车市场零售112.3万辆，同比去年7月同期下降18%，较上月同期下降13%，今年以来累计零售982.4万辆，同比下降20%；7月1-26日，全国乘用车新能源市场零售73.8万辆，同比去年7月同期下降2%，较上月同期下降10%，今年以来累计零售544.3万辆，同比下降13%；7月1-26日，全国乘用车市场新能源零售渗透率65.7%。",
+      "url": "https://36kr.com/newsflashes/3916465434668421?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "上半年全国社会物流总额超180万亿元",
-      "summary": "中国物流与采购联合会今天（29日）公布今年上半年物流运行数据。上半年，物流需求规模持续扩大，结构优化与动能转换特征突出。今年上半年，全国社会物流总额181.1万亿元，同比增长5.1%，高于同期GDP增速0.4个百分点，物流需求对国民经济增长的支撑引领作用持续增强。分季度看，一、二季度分别增长6.2%、4.4%，总体呈现稳中有增的发展态势。（央视新闻）",
-      "url": "https://36kr.com/newsflashes/3916020850323079?f=rss",
+      "title": "虹软科技：实际控制人提议1亿元至1.5亿元回购股份",
+      "summary": "36氪获悉，虹软科技公告，公司实际控制人、董事长、总经理HuiDeng提议公司使用自有资金以集中竞价交易方式回购股份，回购资金总额不低于1亿元(含)，不超过1.5亿元(含)，回购股份将用于员工持股计划或股权激励。",
+      "url": "https://36kr.com/newsflashes/3916454493400710?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "银河证券：机构大幅减持，有色行业基金持仓回落至近年低点",
-      "summary": "36氪获悉，银河证券A股有色金属行业2026Q2基金持仓分析指出，2026年二季度受中东冲突升级、霍尔木兹海峡封锁影响，油价大幅冲高带来通胀压力，市场对美联储政策预期由年初的降息转为加息，市场流动性与经济预期的改变使有色金属未来价格走势与有色金属企业未来业绩的不确定性加大，主动权益类公募基金在2026年二季度大幅减持了铜、铝、黄金等此前超配的有色金属子行业，并在市场风格的带动下加仓了与AI概念相关",
-      "url": "https://36kr.com/newsflashes/3916019960966789?f=rss",
+      "title": "甘肃能源：庆阳绿电聚合试点项目二期100万千瓦新能源项目获核准",
+      "summary": "36氪获悉，甘肃能源公告，公司全资子公司酒汇公司所属甘肃电投庆阳新能源有限责任公司投资建设的甘肃庆阳东数西算产业园区绿电聚合试点项目二期工程100万千瓦新能源项目，近日获得庆阳市能源局核准批复。该项目装机容量达公司2025年末已发电控股装机容量的10%以上。项目存在进度未达预期及收益不达预期的风险，投资者需谨慎决策。",
+      "url": "https://36kr.com/newsflashes/3916453580352897?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "AI算力需求催热上半年业绩，MLCC产业链高景气度下半年将延续",
-      "summary": "今年以来，受益于AI算力需求爆发，素有“电子工业大米”之称的MLCC（片式多层陶瓷电容器）供应紧俏，价格持续上涨，带动被动元器件行业景气度��升，多家上市公司预计上半年业绩实现大幅增长，最高增幅超过6倍。展望下半年，有行业人士向记者表示，7月以来，MLCC价格整体平稳，品类内部价格则分化加剧，AI和车规级高端高容产品价格继续上涨。在AI服务器需求旺盛、原厂产能被锁定、上游贵金属等原材料价格居高的背",
-      "url": "https://36kr.com/newsflashes/3916019086585225?f=rss",
+      "title": "爱马仕二季度销售增长7%",
+      "summary": "法国奢侈品集团爱马仕近日公布的第二季度业绩显示，该公司当季销售额达41亿欧元，按固定汇率计算同比增长7%，符合市场预期。从区域市场看，除中东地区外，所有市场在截至6月底的三个月内均实现增长。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3916450014506377?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
-      "summary": "今年上半年，AI短剧交出了一份远超市场预期的成绩单。DataEye最新数据显示，今年1月至5月AI短剧市场规模已突破220亿元，全年有望冲击400亿元大关，国内AI短剧用户在今年上半年突破6亿。当前，从平台到制作方，从技术提供方到内容创作者，各方都在热议一个共同话题——AI正在从根本上重塑短剧的生产逻辑与商业边界。业内人士普遍认为，AI短剧已走过试探期，规模化的产业爆发正在发生。（中证报）",
-      "url": "https://36kr.com/newsflashes/3916018332970372?f=rss",
+      "title": "山西省制造业振兴升级股权投资基金登记成立，出资额100.1亿",
+      "summary": "36氪获悉，天眼查App显示，近日，山西省制造业振兴升级股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为国投创新投资管理有限公司，出资额100.1亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由山西产投资本管理有限公司、山西建设投资集团有限公司、山西焦煤集团有限责任公司、山西潞安矿业（集团）有限责任公司、晋能控股集团有限公司等共同出资。",
+      "url": "https://36kr.com/newsflashes/3916448764931714?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "两市融资余额减少297.59亿元",
-      "summary": "36氪获悉，截至7月28日，上交所融资余额报13490.12亿元，较前一交易日减少153.03亿元；深交所融资余额报12895.06亿元，较前一交易日减少144.56亿元；两市合计26385.18亿元，较前一交易日减少297.59亿元。",
-      "url": "https://36kr.com/newsflashes/3916017399262595?f=rss",
+      "title": "国家烟草专卖局约谈爱奇迹（深圳）技术有限公司",
+      "summary": "36氪获悉，针对日常监管中发现的爱奇迹（深圳）技术有限公司涉嫌违法违规生产经营、合规管理薄弱等突出问题，近日，国家烟草专卖局依法对爱奇迹（深圳）技术有限公司负责人进行了行政约谈，要求其严格遵守《中华人民共和国烟草专卖法》、《中华人民共和国烟草专卖法实施条例》及《电子烟管理办法》等规定和国家限制类产业政策，切实履行合规经营主体责任，严格落实电子烟监管要求，建立健全内部合规管理体系，全面提升企业管理水",
+      "url": "https://36kr.com/newsflashes/3916452952141190?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "新易盛：正有序推进H股发行相关工作",
-      "summary": "36氪获悉，新易盛在互动平台表示，公司正有序推进H股发行相关工作，公司将严格按照相关法律法规履行信息披露义务。",
-      "url": "https://36kr.com/newsflashes/3916003997462144?f=rss",
+      "title": "Momenta获德国全境L4级测试许可，系首家获批中国企业",
+      "summary": "36氪获悉，7月29日，Momenta宣布获得德国联邦机动车运输管理局（KBA）颁发的L4级自动驾驶测试许可，可在德国全国城市道路开展测试，无需逐城申报。这是中国企业首次获此资质。受此消息影响，Momenta港股收涨超10%。",
+      "url": "https://36kr.com/newsflashes/3916450917887360?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "华泰证券：预计美联储7月加息概率略高于一半，9月前加息的概率接近100%",
-      "summary": "36氪获悉，华泰证券指出，美联储新任主席凯文·沃什（Kevin Warsh）上任后，金融市场对这位新主席政策取向的定价从此前的鸽派降息，转为更偏鹰派的短期立场。但临近7月议息会议，市场对联储下一步政策的预期却极度分化。沃什废除前瞻指引后，市场定价更为困难，而沃什和市场博弈焦点势必从“听其言”转为“观其行”。综合分析历届联储主席换届经验、当前宏观环境以及沃什赢得公信力的目标，华泰证券将联储加息的预测",
-      "url": "https://36kr.com/newsflashes/3915975274687876?f=rss",
+      "title": "黑芝麻智能与正行创新达成战略合作，全力推动具身智能全球布局",
+      "summary": "7月29日，黑芝麻智能与正行创新正式签署战略合作协议。双方将依托各自在端侧AI芯片与具身智能领域的核心优势，在本土化具身智能生态构建、算法适配与场景部署、全球市场商业化落地等诸多领域展开深度协同，携手推动具身智能技术向规模化产业应用迈进。此次合作是是黑芝麻智能完善具身智能生态布局的重要举措，也是打开全球市场的重要契机。未来，黑芝麻智能将持续开放算力平台能力，携手更多产业链伙伴深化协同，以高性能、高",
+      "url": "https://36kr.com/newsflashes/3916447498825348?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "中信证券：看好特斯拉机器人的量产和应用前景",
-      "summary": "36氪获悉，中信证券指出，特斯拉兼具领先的AI大模型技术与规模化制造能力，公司位于全球具身智能产业链头部梯队，坚定看好特斯拉机器人的量产和应用前景。特斯拉Optimus即将进入生产阶段，Cybercab按计划进行测试中。建议关注产业链核心玩家。",
-      "url": "https://36kr.com/newsflashes/3915998116457858?f=rss",
+      "title": "联讯仪器：更换首次公开发行股票持续督导保荐代表人",
+      "summary": "36氪获悉，联讯仪器公告，公司首次公开发行股票并上市的保荐人为中信证券，原委派赵耀、孟硕为保荐代表人，法定持续督导期至2029年12月31日。因孟硕工作变动，不再担任持续督导保荐代表人，中信证券委派周欢接替，变更后持续督导保荐代表人为赵耀和周欢，持续督导期至规定的持续督导义务结束为止。",
+      "url": "https://36kr.com/newsflashes/3916446508052101?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "中信建投：800VDC将成为供电架构迭代的关键催化",
-      "summary": "36氪获悉，中信建投研报指出，800VDC通过提高母线电压、降低传输电流、缩短供电路径，推动AIDC供电由交流入柜向直流入柜演进；根据NVIDIA、Google及主流电力设备厂商的产业链进度，2027—2028年是800VDC验证到渗透的关键窗口。",
-      "url": "https://36kr.com/newsflashes/3915983969414788?f=rss",
+      "title": "恒指收涨1.96%，恒生科技指数涨2.84%",
+      "summary": "36氪获悉，恒指收涨1.96%，恒生科技指数涨2.84%；科技、汽车股领涨，理想汽车涨超9%，小米集团涨超8%，MINIMAX-W涨超7%，腾讯控股、哔哩哔哩涨超4%；半导体继续调整，爱芯元智跌超6%，英诺赛科跌超4%；南向资金净流出55.89亿港元。",
+      "url": "https://36kr.com/newsflashes/3916442594700672?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "超千名全球AI从业者联名请求美政府支持国际合作，建立AI“刹车”机制",
-      "summary": "当地时间7月28日，来自OpenAI、Anthropic、谷歌等十余家前沿AI公司的1134名研究人员和从业者，共同签署了一份题为 《掌控前沿技术》的公开声明，指出全球领先AI公司可能已接近实现自动化AI研究，存在AI能力发展速度超出人类理解与控制能力的风险。但由于各企业与各国均面临激烈竞争压力、无人愿单方面减速，联名信请求美国政府支持一项国际合作，开发必要的技术与治理工具，以便有意识地掌控前沿自",
-      "url": "https://36kr.com/newsflashes/3915991895666305?f=rss",
+      "title": "国家人工智能产业基金入股艾捷科芯",
+      "summary": "36氪获悉，天眼查App显示，近日，北京艾捷科芯科技有限公司发生工商变更，新增国家人工智能产业投资基金合伙企业（有限合伙）为股东，同时，注册资本由约528万人民币增至约541万人民币。该公司成立于2023年8月，法定代表人为蒋毅敏，经营范围包括集成电路设计、集成电路芯片设计及服务、集成电路芯片及产品销售等，现由北京昆致科技有限公司、北京碧捷安芯科技有限公司及上述新增股东等共同持股。",
+      "url": "https://36kr.com/newsflashes/3916413032230536?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "恩智浦半导体第二财季营收35亿美元，同比增长19%",
-      "summary": "当地时间7月28日，恩智浦半导体有限公司公布截至2026年6月28日的第二季度财务业绩：营收为35亿美元，同比增长19%，环比增长10%；GAAP归属于股东的净利润为7.67亿美元，同比增长72%，环比下降32%。（界面）",
-      "url": "https://36kr.com/newsflashes/3915981645819272?f=rss",
+      "title": "宝马拟在德国裁员数千人，通过自愿离职计划削减成本",
+      "summary": "据报道，宝马集团计划向德国数千名员工提供自愿离职补偿方案，作为公司削减成本、提升竞争力的一部分。宝马全球计划削减约8000个岗位，其中大部分将来自德国市场。此次自愿离职计划主要面向研发、产品规划及其他企业职能部门员工，生产线工人不在适用范围内。公司还计划在未来几个月精简管理层级。该方案预计10月启动，并持续至2027年。（新浪财经）",
+      "url": "https://36kr.com/newsflashes/3916415488388482?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "AI改变经济运行底层逻辑，专家表示实施“投资于人”的战略",
-      "summary": "随着人工智能（AI）与各领域加速融合，AI不仅成为资本市场高度关注的投资热点，还在改变宏观经济运行的底层逻辑。北京大学国家发展研究院院长黄益平认为，当前AI并未显著提升全要素生产率，这属于技术落地的短期滞后现象。随着产业调整、资源优化配置逐步完成，AI将成为经济增长的核心动力。着眼于进一步推动AI创新与应用，黄益平表示，应坚持“以人为本”的原则，实施“投资于人”的战略。培养掌握“专业领域+AI工具",
-      "url": "https://36kr.com/newsflashes/3915969409412489?f=rss",
+      "title": "宽基ETF连续两天成交千亿，中证1000、科创50交易升温",
+      "summary": "7月29日，宽基ETF成交继续放量，在前一日成交额站上千亿元基础上，全天成交额再度放量至1097亿元，23只产品成交额超过10亿元。科创50ETF华夏、创业板ETF易方达交投最为活跃，成交额双双突破124亿元。与此同时，多只中证1000ETF成交额显著升温，中证1000ETF南方全天成交超80亿元，环比大增52%；华夏、广发、易方达基金旗下的同类产品成交额均较前一交易日增长50%以上。（第一财经）",
+      "url": "https://36kr.com/newsflashes/3916415927463552?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "中信证券：目前风电行业预期底部已夯实，业绩底有望随着2027年半年报陆续发布而明确",
-      "summary": "36氪获悉，中信证券研报指出，受绿电市场化交易政策影响，过去一年国内风电开发商观望情绪浓厚，风电项目招标和开发进度多有延后；但随着项目竞价和运行经验持续积累，以及2027年部分省份机制电价和电量大幅上涨带动项目收益率预期回升，预计2026年下半年起，开发商对新项目招标和建设积极性有望迎来改善。目前风电行业预期底部已夯实，业绩底有望随着2027年半年报陆续发布而明确；随着行回暖信号渐强，建议关注国内",
-      "url": "https://36kr.com/newsflashes/3915972792692361?f=rss",
+      "title": "东阳光在北京成立未来实验室科技公司，注册资本1亿",
+      "summary": "36氪获悉，天眼查App显��，近日，东阳光未来实验室科技（北京）有限公司成立，法定代表人为周林，注册资本1亿人民币，经营范围包括人工智能应用软件开发、智能机器人的研发、工业机器人制造、智能机器人销售等，由广东东阳光科技控股股份有限公司全资持股。",
+      "url": "https://36kr.com/newsflashes/3916412645568133?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "港股IPO市场持续升温，科技与“A+H”双轮驱动",
-      "summary": "2026年以来，港股首次公开募股（IPO）市场延续强劲势头。港交所数据显示，截至6月30日，2026年受理的上市新申请共373宗，加上2025年底结转的372宗未处理完毕申请，合计745宗处于处理流程之中，其中528宗处于处理中状态。Wind数据显示，截至7月28日，年内港股市场共完成100宗IPO，募资总额约2723.39亿港元。半导体、AI大模型、智能硬件等科技企业仍是上市核心主力，“A+H”",
-      "url": "https://36kr.com/newsflashes/3915967735770759?f=rss",
+      "title": "光伏行业价格合规指导活动定于7月31日开展",
+      "summary": "今日，有市场消息称，国家市场监督管理总局价格监督检查和反不正当竞争局定于7月31日开展光伏行业价格合规指导活动，邀请参会单位包括中国光伏行业协会和相关光伏行业企业。从一家光伏组件企业高管处获悉，确有此活动，将在江苏盐城举行。活动目的为指导光伏行业加强成本核算，落实《光伏行业成本核算模型通则》。另有业内人士向表示：“目前确实在筹备该活动，正在搜集参会人员的名单信息。”（上证报）",
+      "url": "https://36kr.com/newsflashes/3916401871400585?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "券商积极参与碳交易，绿色金融布局持续深化",
-      "summary": "近日，东北证券发布公告称，公司收到中国证监会《关于东北证券股份有限公司参与碳排放权交易有关意见的复函》，公司自营业务可在境内合法交易场所参与碳排放权交易。上海证券报记者梳理发现，今年以来已有10家券商相继取得碳排放权交易资质，具备相关资质的券商数量增至28家。资质扩容的背后，绿色金融正成为证券行业探索业务转型的重要方向。多家券商已围绕碳交易、碳资产管理、绿色债券、ESG投资等领域进行布局。业内人士",
-      "url": "https://36kr.com/newsflashes/3915966981270915?f=rss",
+      "title": "外交部回应美国实施先进机器人进口限制",
+      "summary": "针对美国联邦通信委员会宣布对外国制造的先进机器人实施进口限制，包括中方占有主导地位的人形机器人，外交部发言人毛宁7月29日在例行记者会上说，中方一贯坚决反对美方泛化国家安全概念打压中国企业。保护主义提升不了美国的竞争力，只会损害美国企业和消费者的利益。中方将继续采取必要措施，坚定维护中国企业的正当合法权益。（新华社）",
+      "url": "https://36kr.com/newsflashes/3916394279317122?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "QFII持仓浮出水面，增持个股业绩表现良好",
-      "summary": "随着2026年半年报持续披露，首批合格境外机构投资者（QFII）的持仓情况已浮出水面。据数据宝统计，截至7月28日，QFII进入14家上市公司前十大流通股东名单，持仓总市值约为119.95亿元。具体来看，QFII对于宁德时代、金煤科技持股超过1000万股，分别为2736.66万股、1944.41万股；持股中兰环保、海南矿业均超700万股；持股苏试试验、正泰电源均超400万股。按照半年报、预告中值顺",
-      "url": "https://36kr.com/newsflashes/3915962788114057?f=rss",
+      "title": "国家邮政局：将因地制宜推进县级寄递公共配送中心建设",
+      "summary": "国家邮政局新闻发言人胡凯表示，下一步，国家邮政局将因地制宜推进县级寄递公共配送中心建设，加强村级寄递物流综合服务站建设，促进农村客货邮融合发展提质增效，鼓励有条件的地区开发农村寄递物流公共服务岗位，持续提升农村地区人民群众用邮的满意度、获得感。按照“十五五”规划部署，邮政业还将服务区域协调发展和城市群都市圈建设，积极参与西部陆海新通道建设，畅通东北地区向北开放寄递渠道，同时加强中部地区邮政快递基础",
+      "url": "https://36kr.com/newsflashes/3916393132453511?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
     {
       "source": "36kr",
-      "title": "中际旭创：预计今年下半年物料就会有阶段性的改善",
-      "summary": "中际旭创7月28日召开电话会议，关于“明年NPO开始上量，CW光源的物料供应情况”，公司表示，针对光芯片、电芯片、PCB和无源器件等原材料，公司均有部署采购计划。基于强劲的下游行业需求，公司正在积极备料。一方面和现有供应商签订长协，锁定新增产能；另一方面开拓新的供应商，同时通过预付款、股权投资等方式，加强供应商的绑定。供应商也愿意积极扩产，预计今年下半年物料就会有阶段性的改善，出货量也会有明显的增",
-      "url": "https://36kr.com/newsflashes/3915961830567561?f=rss",
+      "title": "国家邮政局：保持快递员合理末端派费水平",
+      "summary": "国家邮政局新闻发言人胡凯表示，首先，规范快递企业用工管理，督促企业依法落实劳动合同制度，为从业人员缴纳社会保险。加强企业算法治理，推动企业建立科学、合理、透明的考核机制和工资给付机制，保持快递员合理末端派费水平。此外，国家邮政局还将发挥各类商业保险在社会保障中的补充保障作用，更好满足快递员人身意外伤害、医疗、养老等保障需求。在保障基本权益的同时，快递员的工作生活环境也将得到改善。国家邮政局将协同有",
+      "url": "https://36kr.com/newsflashes/3916392759897473?f=rss",
       "date": "2026-07-29",
       "tags": []
     },
@@ -878,9 +886,9 @@
     },
     {
       "source": "tech_corps",
-      "title": "Apple touches $5 trillion market cap for first time - CNBC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nl",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5",
+      "title": "Apple becomes second $5tn company as investors flee AI stocks - The Guardian",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4Rj",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
       "date": "2026-07-28",
       "tags": [
         "Apple"
@@ -888,9 +896,9 @@
     },
     {
       "source": "tech_corps",
-      "title": "Apple becomes second $5tn company as investors flee AI stocks - The Guardian",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4Rj",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
+      "title": "Apple touches $5 trillion market cap for first time - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nl",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTZPVklIZDktb0F5RElnY29PbEZlMEY5THBiOXJ6eklfN3N3YTY2TWY0REQ2UFpQamtTTW9IeXROMlhYTi1fbkxiUUJQVmk5RmV6WDM0bjdzbi1JQ3cyb1R1Wk5QakhjNXJTX1h5Nlo0Qmx0WW0wZU8tUTNvdHBQV0lwTFlaUV9vX1dzUTd3V2h3UdIBlwFBVV95cUxQalVxcnY2ZWtKNENjeGNSRTJMQVNtZlVrUi02NFI2T1JhcURsRlFWN2N5OVV5elNsWEVwTUY4VXU3eVMteUp1MmIzaC1qVUFHQnlfSy1XbXBEUTZyaHhNOEdTODY3M0ZWNlE1NmFRSHpUS2tzM3BBUEFxM3lDdXRQN045SHVoaXJVckM5T1A0aXJGRnl5TDVJ?oc=5",
       "date": "2026-07-28",
       "tags": [
         "Apple"
@@ -918,19 +926,19 @@
     },
     {
       "source": "tech_corps",
-      "title": "苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性 - 华尔街见闻",
-      "summary": "苹果市值首破5万亿美元重夺全球",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmM2NkTnY0Ml8wME5tRVBvR2ozMEVpNVh1RzVRUm81OEtKXzAxZ1N0eFhaaWtxaFBLczZZR0x2UUttQjVrUjJrWnBiNUZDZks2TkNj?oc=5",
-      "date": "2026-07-28",
+      "title": "古尔曼爆料苹果今秋推2026款Apple TV和HomePod mini - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmJFWkFZaUxsaVJicGt3MHNpRURFWFNjN1ZkS0JFMGJ4bl9VR2VBbWRYaVhwMWRycTBOZ1kxS3VMVUpKZElQejhlRTA2Y0xOZ0RFb0ltRHRCbmF3SzY0cXBvcENGTlYzNDBNTlNIN3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZmJFWkFZaUxsaVJicGt3MHNpRURFWFNjN1ZkS0JFMGJ4bl9VR2VBbWRYaVhwMWRycTBOZ1kxS3VMVUpKZElQejhlRTA2Y0xOZ0RFb0ltRHRCbmF3SzY0cXBvcENGTlYzNDBNTlNIN3ExVVBVR2F5OW1wbHlBTGpLakUyRmlHa3J2bUJjYmxDRDhTVzU0OE13RVF2dURGaXVhUEY2OHJ5U0prZGdzUC0xWVdB?oc=5",
+      "date": "2026-07-29",
       "tags": [
         "苹果"
       ]
     },
     {
       "source": "tech_corps",
-      "title": "道指涨超500点，芯片股继续暴跌，闪迪狂泻14%，苹果股价创新高，中概股多数上涨，国际油价回落，金银齐跌 - 21财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2RvUWdLOGRSUFNEeWpIdXV3bjJKOFBqamJCVTYwckxmaDhyekxSYUZicF9tdWFIZlRuZHU5QzJ4OFBfUXNRNHNRTGJpTVp6aG1OUjNEdlYxZlkxNkJjUmdiNFA0cFRsS2dJOHctSV",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2RvUWdLOGRSUFNEeWpIdXV3bjJKOFBqamJCVTYwckxmaDhyekxSYUZicF9tdWFIZlRuZHU5QzJ4OFBfUXNRNHNRTGJpTVp6aG1OUjNEdlYxZlkxNkJjUmdiNFA0cFRsS2dJOHctSVBtd1FHaXp3bU5kWWY4Y2ZiVXpIMUFPTnFTaEI3YQ?oc=5",
+      "title": "苹果市值首破5万亿美元重夺全球第一：不烧钱的AI策略，正成为最稀缺的避险属性 - 华尔街见闻",
+      "summary": "苹果市值首破5万亿美元重夺全球",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmM2NkTnY0Ml8wME5tRVBvR2ozMEVpNVh1RzVRUm81OEtKXzAxZ1N0eFhaaWtxaFBLczZZR0x2UUttQjVrUjJrWnBiNUZDZks2TkNj?oc=5",
       "date": "2026-07-28",
       "tags": [
         "苹果"
@@ -942,6 +950,16 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHZ3d21rY1JabW9yTGdxcWZKY3dXd0puSWQwWWRlWHJ4dDk2ZF9iLWY4RDRoWHZyMFJobldHV3pXUm1BOVZkX1E0akNUV0UxaUIzQ0U1LTREaXhTRDk3cUxCOGtOdkt1M0syd2JRZ3",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHZ3d21rY1JabW9yTGdxcWZKY3dXd0puSWQwWWRlWHJ4dDk2ZF9iLWY4RDRoWHZyMFJobldHV3pXUm1BOVZkX1E0akNUV0UxaUIzQ0U1LTREaXhTRDk3cUxCOGtOdkt1M0syd2JRZ3h4QmxZUEhQWmk4dUtMdFNMV2JtU1JEQmRKR1NvQ3VTQlJjUzVoamRsVlZrWE1VSV95aXYwQVMzMVRtWktmVkpzaEN3?oc=5",
       "date": "2026-07-25",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Huawei teases 798-gram MateBook Pro S, lightest PC coming next week - Huawei Central",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAycXludTF6bUU4OEpGS25hbnNwak1aUXF3b2xFOE5UUWVJQjQtVWluSm1FcXhmUXBzWnZ2NlJzS00tN2VFSDlsNXBmUXVFOTgwbzVieEM3S0lDTldNY1V4c0dSREg3bjlneF9MRkQ2ZE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAycXludTF6bUU4OEpGS25hbnNwak1aUXF3b2xFOE5UUWVJQjQtVWluSm1FcXhmUXBzWnZ2NlJzS00tN2VFSDlsNXBmUXVFOTgwbzVieEM3S0lDTldNY1V4c0dSREg3bjlneF9MRkQ2ZExoeHZpNWlZ0gF8QVVfeXFMTkR6VGRULVRPUFluZ2piN1MxQkp1dkZBdlQtQ1FLX1pmZ2RDRXE0TWI1NXdYNm1SRDdiQXJkVGdmb19qTi02M3lFb25BWk9CLTZpSXdLODgzVzI1U0YyUzBRS1lmd0dfa3dzNFh2ZlBXYU5FN1RGZDhTWENKTQ?oc=5",
+      "date": "2026-07-29",
       "tags": [
         "Huawei"
       ]
@@ -968,39 +986,29 @@
     },
     {
       "source": "tech_corps",
-      "title": "Huawei targets AI-centric network transformation in Southern Africa - SDxCentral",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnJUOXNzV1pRWVJiSy13OFBPN2xLU2x6Y0g5a0RuT0ZzNW02ZGoxZW5oZlpBRl9CN2c3NjFVU0NVdG9qQWZ0dzkxeDFmaDNiV2pLZXFvZGhsNlZrWjdSN1VtWHdtUEtqalhpc1FRa3",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnJUOXNzV1pRWVJiSy13OFBPN2xLU2x6Y0g5a0RuT0ZzNW02ZGoxZW5oZlpBRl9CN2c3NjFVU0NVdG9qQWZ0dzkxeDFmaDNiV2pLZXFvZGhsNlZrWjdSN1VtWHdtUEtqalhpc1FRa3Zoa2d3aWpEdHNicnBaak84ZVdvV1dvOFZYY2tMNXFlemFNbzVoaHJ3dURCYng5TW40aFE?oc=5",
-      "date": "2026-07-27",
-      "tags": [
-        "Huawei"
-      ]
-    },
-    {
-      "source": "tech_corps",
-      "title": "华为入局！AI眼镜再添重磅玩家 - 财联社",
-      "summary": "华为入局！AI眼镜再添重磅玩家&nbsp;&nbs",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XOVpOOEM3cmhYUjhhUGhJQ3NKeVI4MFpXanFhZzdvSGU0RC1VLWdIQ0doSUx2clRPSGtjNUp6NVJoMHgybDJZWA?oc=5",
-      "date": "2026-07-27",
+      "title": "华为全维度升级政企服务体系 生态协同加速数智化价值落地 - 中国经济网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTEJiYXVTUERaWVJ2UVFuaGN5MzFaS3g4ZThMZFhMZzA1d1RhNmRxcm5MYW96SEV3UXdWc2xUMGI5dHhHV2JneXFCbEVBMThSV2pXcFJURnFJbjVpUnhBZlNRQ2hacVoyemNDY0wyZE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RTEJiYXVTUERaWVJ2UVFuaGN5MzFaS3g4ZThMZFhMZzA1d1RhNmRxcm5MYW96SEV3UXdWc2xUMGI5dHhHV2JneXFCbEVBMThSV2pXcFJURnFJbjVpUnhBZlNRQ2hacVoyemNDY0wyZEpaSjJGZ2c4?oc=5",
+      "date": "2026-07-29",
       "tags": [
         "华为"
       ]
     },
     {
       "source": "tech_corps",
-      "title": "对话戎国强：华为提前十年探路AI手机的得与失 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxORUNuY0xyd3RFeGxMWHZRZ05xcHlwbE1BT0xVQnlkR2NWbEVEWlNlTjl3OVJFVC1fdUdmY2pGODJNOEpYRGNYczNHZW9OUDVUbndKdFBOV3dzS1ZXdTh0YTFGeHBYczVrcGR6Q3NCeS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUNuY0xyd3RFeGxMWHZRZ05xcHlwbE1BT0xVQnlkR2NWbEVEWlNlTjl3OVJFVC1fdUdmY2pGODJNOEpYRGNYczNHZW9OUDVUbndKdFBOV3dzS1ZXdTh0YTFGeHBYczVrcGR6Q3NCeS1BQVhpeDA4SDkxeUxPVHZRSmtjV0NtVzdhTUxPZGNhTlRteWNBQVNWZ0xCSS1sWGV1SFJxNEY2UURpSnFHNGFIRHJn?oc=5",
-      "date": "2026-07-28",
+      "title": "光谷上市公司走进大湾区探访华为核心研发基地 寻找两地产业链协同新机遇 - 武汉市人民政府",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1YSHpGR1A4ZlRVRlkwSEtycS1vWm5SWGxSY1pPM3JfM0JDcGFPOXE2QXhDLV9GZ3Y5Z2NXSEZBMEJmUDNfODlRU2NKZVk3S3VUdkdOd2o5R1BlYUsxRnp3YUR6dkMwMzVkZjJLb3EyeF",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YSHpGR1A4ZlRVRlkwSEtycS1vWm5SWGxSY1pPM3JfM0JDcGFPOXE2QXhDLV9GZ3Y5Z2NXSEZBMEJmUDNfODlRU2NKZVk3S3VUdkdOd2o5R1BlYUsxRnp3YUR6dkMwMzVkZjJLb3EyeFhoMUtrZi1FQW1n?oc=5",
+      "date": "2026-07-29",
       "tags": [
         "华为"
       ]
     },
     {
       "source": "tech_corps",
-      "title": "出差用什么手机好？2026年7月旗舰横评：续航、通信、AI办公三大硬指标+FAQ - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUk5lS0Rjd0ZFb0dRNnpFaFRHWlhvaU1QdWdqM2gxOC1WXzNNQnV4YUliUmxwNlBVZGZNSXQyZG44S3N4Vm1FZ2pTb1NhaTlFcF9uMXVPYTQzT0lHd09mdjBsZjJiT2NubGNpdV8xMF",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUk5lS0Rjd0ZFb0dRNnpFaFRHWlhvaU1QdWdqM2gxOC1WXzNNQnV4YUliUmxwNlBVZGZNSXQyZG44S3N4Vm1FZ2pTb1NhaTlFcF9uMXVPYTQzT0lHd09mdjBsZjJiT2NubGNpdV8xMFViYnlxT2hjWEVzc2ltNHN0Uw?oc=5",
+      "title": "2026年手机AI功能哪家强？华为断层领先还是OPPO登顶？横向对比告诉你答案+FAQ - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPclZJVlpNLTMxUzg3TUZYUFp5Q2lMRHRhZTE3NHhYVzBDNVRRaE11Y3FsOHAtNl94OHBzNUFjQk5wQ1dYTTBGZEI3cmpsU3p5YjZwNFZva1NYejQzZ2p2a3ZWTGJUTmNRS2Z0NXcxTG",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclZJVlpNLTMxUzg3TUZYUFp5Q2lMRHRhZTE3NHhYVzBDNVRRaE11Y3FsOHAtNl94OHBzNUFjQk5wQ1dYTTBGZEI3cmpsU3p5YjZwNFZva1NYejQzZ2p2a3ZWTGJUTmNRS2Z0NXcxTGNacFMzWFRJTmVpS0hSSG5NaQ?oc=5",
       "date": "2026-07-29",
       "tags": [
         "华为"
