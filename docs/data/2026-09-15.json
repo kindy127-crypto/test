@@ -1,0 +1,455 @@
+{
+  "date": "2026-09-15",
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Major updates for Apple’s software platforms are now available - Apple",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmRRYUVFM1NWTFZia09Ddlpxd0swTmplT1N2SVNIcW41M08zR2p0aDVIbDJfQjlyZ0t3a3FwRG1iY3NZTjBGZjViQWVfOEpHXzA0M2QyU19aR2Y2dVFIYW1tYmp3NThoYVM0Nm9XeX",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZmRRYUVFM1NWTFZia09Ddlpxd0swTmplT1N2SVNIcW41M08zR2p0aDVIbDJfQjlyZ0t3a3FwRG1iY3NZTjBGZjViQWVfOEpHXzA0M2QyU19aR2Y2dVFIYW1tYmp3NThoYVM0Nm9XeXd1TEhhZl9Rc2ZuWWM1SERqUDZDMDFKZlJ1S3dIa3dZdU4wYWUxemJmdVR4VVFiSFBaQzJZ?oc=5",
+      "date": "2026-09-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Apple has 16 products in line for future release - appleinsider.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWgtYzJBejM4ajZ0QnA1NmZtbEZSTTctaVBydl9mSDROT3FxcnlyMUNZMkN4Qk9iNkI1Znc3VjVyX1RwNUkycE9yTVhPWnZ4eWdlelpPVmZVZkNIQkFCRFRJaGhuZDhGamp3b0dpM1",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWgtYzJBejM4ajZ0QnA1NmZtbEZSTTctaVBydl9mSDROT3FxcnlyMUNZMkN4Qk9iNkI1Znc3VjVyX1RwNUkycE9yTVhPWnZ4eWdlelpPVmZVZkNIQkFCRFRJaGhuZDhGamp3b0dpM1hZY2NaOHQzOHVEdGh5UWNZZTFjZEp3anZId05kUlBxeHBvdExua0E?oc=5",
+      "date": "2026-09-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week - CNBC",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0FLeUE0dV9EVXFIbDYzVk12ejFrYWNvRDI4aktUUzlTWkFMUWU0TDVieXNNeklhaE5XN2VUNER3ZUdtVWc5d3lHakpNOGVhUHhfV2FOZnVFTW9VZ25MRGMtMVdudm4weDlOb3NuR1",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0FLeUE0dV9EVXFIbDYzVk12ejFrYWNvRDI4aktUUzlTWkFMUWU0TDVieXNNeklhaE5XN2VUNER3ZUdtVWc5d3lHakpNOGVhUHhfV2FOZnVFTW9VZ25MRGMtMVdudm4weDlOb3NuR1hoZTc2cllGcFRxSG5vMi1lY1NDVdIBiAFBVV95cUxNbkUxMGxGN29sWTBjVk5uUGJQNkozUVZjSzZJa3VEazFwcVJjbnNKUThkb3BaRUxoYmJVX04weFhGSm1rYVNoNDBlazdEeHkwNUZ2V1I1VGtZM1RyWlNiSmpPMHdnTzc2eHhaX2FGWk5vN1MtQnpsWDF2anZLMkpLdHFkOGFUbFpS?oc=5",
+      "date": "2026-09-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Musk's X Corp and SpaceXAI resolve antitrust lawsuit against Apple - Reuters",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDlqV0V1WnBGSk9WemJuZHB2WXhUMTlSMVFRYzltVmxfUjF1bzdycXZqMnVOUGFTTHJYbkxVc0JnTXB4NS1lMmllZmlYQWwzVFE5MWFLaURvcDJDNDRfMFQ4WmpwOENoX3ZXVG9oMX",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMDlqV0V1WnBGSk9WemJuZHB2WXhUMTlSMVFRYzltVmxfUjF1bzdycXZqMnVOUGFTTHJYbkxVc0JnTXB4NS1lMmllZmlYQWwzVFE5MWFLaURvcDJDNDRfMFQ4WmpwOENoX3ZXVG9oMXcycjlZN3dNc3BUNmt0R2FBNlVTSEVCZUlxaGJJaWtmLTg5RU1GMDR6SmFudlVtcHZCTGo3RG1n?oc=5",
+      "date": "2026-09-14",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果Siri AI终于来了！历经延期后正式开放测试 - 财联社",
+      "summary": "苹果Siri AI终于来了！历经延期后正式开放测试",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpSkhHUk9Sb2E0Ym5KRW5YZC0xUEJpVzQxNW5iUmdkaE84eFpTank1d2FxQ3VleURPdVhHSWhIV0xIcTdCbWo0eg?oc=5",
+      "date": "2026-09-14",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果用一块手表，干掉了AI录音笔？ - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9lN1JmS3BNLUZka0J6S1VKRXIzR2RNLUdpY3UwVlFHend4UURYY01wLXREV0tmc2RWX3BRb0NHbkxudkVpLWtoUUdGekxtMEh0N3JXNV9aVFNscjRTelptZnczM1ZhRU5RWXpjaW9nS0",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lN1JmS3BNLUZka0J6S1VKRXIzR2RNLUdpY3UwVlFHend4UURYY01wLXREV0tmc2RWX3BRb0NHbkxudkVpLWtoUUdGekxtMEh0N3JXNV9aVFNscjRTelptZnczM1ZhRU5RWXpjaW9nS0hCLURsRzZoX1YxRE8zaEU?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果接受三星2027年一季度存储报价 DRAM涨至近2美元/Gb - 观点网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTXpQbkdSYXdWS0FDSFZlRlhaLVpWbng0djQyOGk0LW1HSEtkMC1udHBXS0g5Z0J0NHZvTDduUUNnemVmMHMyMWRrQWlOb0haeWN6bkVobjBxMWliQmUtZGVn?oc=5\" target=\"_bl",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tTXpQbkdSYXdWS0FDSFZlRlhaLVpWbng0djQyOGk0LW1HSEtkMC1udHBXS0g5Z0J0NHZvTDduUUNnemVmMHMyMWRrQWlOb0haeWN6bkVobjBxMWliQmUtZGVn?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果接受三星明年一季度存储报价！存储芯片概念持续走高，恒烁股份涨超10% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDFNOS1sQ0Z0a3NOUVJhQnUwN0ZiMm4wbFMzdU9UcTU0am5TckVrVjFzU0VENDk0b2xLWXdrYmVjVDF3Tmd2djhFMG5RYjdsTHc0S2xsY2RnMEdCWDNaTE5lSEg4cExUU2xEeGVZU2",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbDFNOS1sQ0Z0a3NOUVJhQnUwN0ZiMm4wbFMzdU9UcTU0am5TckVrVjFzU0VENDk0b2xLWXdrYmVjVDF3Tmd2djhFMG5RYjdsTHc0S2xsY2RnMEdCWDNaTE5lSEg4cExUU2xEeGVZU2hkOUlhSFZBQ0J4cnpHXzlGbA?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Huawei Steps Back From AITO Operations, Handing Control to Seres - eletric-vehicles.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGlaLUpnbnBULUxvTW5LSWRnVDNaWDhBd2hTWE4telRteHVZQjBBa0dMN0l5RHZ3NEtoZTNxa3lBTndKYW16cUdsTk1sUHRKcF9TWlVNZ1ZLOEQ2SHRESUhhUHc5RklWR3ZsdE5qNk",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGlaLUpnbnBULUxvTW5LSWRnVDNaWDhBd2hTWE4telRteHVZQjBBa0dMN0l5RHZ3NEtoZTNxa3lBTndKYW16cUdsTk1sUHRKcF9TWlVNZ1ZLOEQ2SHRESUhhUHc5RklWR3ZsdE5qNk84Zy1qRmpIcVN1R1Y4TGxhemE2bXFKaGVsTnR1WE0xSFh6LWJVUVZacldrVVlLVlQwa0E?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "US Government’s First Witness in Huawei Racketeering Case Details Ties to Federal Authorities - Law.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWxrYjh1QzU3aGlzN3NtaDhSRzNKTHY3Z1lLVi1TYm9JOGFxT2FYR25uTGswYXBLOGhKVEpzS3ExS19qM3hIVXBGRE9iOHNUUkRpcW5qd2ZCdWF0d000Yk1ha0M5OFBWczlVa21CQn",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZWxrYjh1QzU3aGlzN3NtaDhSRzNKTHY3Z1lLVi1TYm9JOGFxT2FYR25uTGswYXBLOGhKVEpzS3ExS19qM3hIVXBGRE9iOHNUUkRpcW5qd2ZCdWF0d000Yk1ha0M5OFBWczlVa21CQnFya2xQT0tQdFAzb29rY3MzejhlT0NrblJ0TzYtMmVuUVFXM0lad1k0MEpWczFXUkpJa0NkTTZKa3h0ZzdLTWVlZElFM0IxX3ZpVkp5VENQMTA2amU0ejExTXNMMU1TZWl6MlhDSWtuT3UwUklNaEJB?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Xiaomi and Huawei Launch Foldable Smartphones Ahead of Apple’s Latest Product Launch - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONFlGckdNZ00tZDVDWlFNc0l2YjR2TUhlclFpN1FNT0VHUzFNQUo0VVY0eFMxWENTZDdDRXFDZjV4VXlta0JKTEx4WVR0MENwNVpvckpWczRuQWg1UGVMbTFBbWpGU0lGM2YtVFZLY0",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONFlGckdNZ00tZDVDWlFNc0l2YjR2TUhlclFpN1FNT0VHUzFNQUo0VVY0eFMxWENTZDdDRXFDZjV4VXlta0JKTEx4WVR0MENwNVpvckpWczRuQWg1UGVMbTFBbWpGU0lGM2YtVFZLY01xR2dzelo2UVUtSDBOZlptc3l4NGFiaGhIaGU1QUxMWDFwS0U5R3c3UWhwUmhfZG9tbDYyNA?oc=5",
+      "date": "2026-09-11",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "TAWAL And Huawei Sign Indoor Building Solutions Partnership Agreement to Jointly Expand Digital Indoor Networks for Saudi Arabia - Huawei",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kZWZ6VEhraW5QWVQ5cENpTlBTSTkzdkJUS09ON0lHWFV5aEtfNjk3eHBncnFrM1h1REFRaHo4RURuLUtNanFOal9QVFFKMk5tWVlLQjZGVDZEMWVhaHlPeHFQbjdHNzlfVXc?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kZWZ6VEhraW5QWVQ5cENpTlBTSTkzdkJUS09ON0lHWFV5aEtfNjk3eHBncnFrM1h1REFRaHo4RURuLUtNanFOal9QVFFKMk5tWVlLQjZGVDZEMWVhaHlPeHFQbjdHNzlfVXc?oc=5",
+      "date": "2026-09-10",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "华为与中国联通持续深化战略合作，共筑价值增长新引擎- 华为 - Huawei",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSDdqS0NUbWx4a0lfaURRRk5rTE53VUdFS2dka1NGYnlwS09qbXlVMEh2VmJ2QmVSRnJabkppekE5Q3lERzhKT1JmUHJTbkhfbTR0VXZpMEFfYklQQUI4bjBOZ19YalZJYlFSdjJJNE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSDdqS0NUbWx4a0lfaURRRk5rTE53VUdFS2dka1NGYnlwS09qbXlVMEh2VmJ2QmVSRnJabkppekE5Q3lERzhKT1JmUHJTbkhfbTR0VXZpMEFfYklQQUI4bjBOZ19YalZJYlFSdjJJNEY3eUFkbHZN?oc=5",
+      "date": "2026-09-10",
+      "tags": [
+        "华为"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "华为全球网络安全官杨晓宁：用AI对抗AI - 中国经济网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZEExbGFEUXBxVmxzUjlRZzlGdFVPMjlNZFVuZXlxRy0xZ0x2NmVxRXMzdkRIUmpXcF9BQ2pMX0VRRWctdG9EYk5rZ2Nsc0hVbkl6cHduVXo2UlFqOEdj?oc=5\" target=\"_blank\"",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZEExbGFEUXBxVmxzUjlRZzlGdFVPMjlNZFVuZXlxRy0xZ0x2NmVxRXMzdkRIUmpXcF9BQ2pMX0VRRWctdG9EYk5rZ2Nsc0hVbkl6cHduVXo2UlFqOEdj?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "华为"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "2026年手机AI功能哪家强？华为518.7分登顶，荣耀/三星各有绝活+FAQ - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnQzV0dGc2Jtb1l3eENtcW5EVXgyaDBhRGxuTGZ6aWxMcDZTdDZqOVNxVlJWb2N5aW5pRUdDa1dSd2pfNjRmcWZta0JhRW50elozNWxWbDBZNkpwRWJuLVZjNjZDTkxjWjZjNDVlM1",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnQzV0dGc2Jtb1l3eENtcW5EVXgyaDBhRGxuTGZ6aWxMcDZTdDZqOVNxVlJWb2N5aW5pRUdDa1dSd2pfNjRmcWZta0JhRW50elozNWxWbDBZNkpwRWJuLVZjNjZDTkxjWjZjNDVlM1ZqN3NEcmpmYXpiQWt2cjR6TA?oc=5",
+      "date": "2026-09-15",
+      "tags": [
+        "华为"
+      ]
+    }
+  ]
+}
