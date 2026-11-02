@@ -1,0 +1,775 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "source": "arxiv",
+      "title": "Secret-shared teleportation of a two-qudit gate with a deferred recipient",
+      "summary": "An unknown quantum operation, like an unknown quantum state, cannot be perfectly copied or stored for later use. A specific gate can be embedded in an entangled resource and teleported, but its destin",
+      "url": "http://arxiv.org/abs/2610.42150v1",
+      "date": "2026-10-30",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err",
+      "url": "http://arxiv.org/abs/2610.42146v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.AI"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to",
+      "url": "http://arxiv.org/abs/2610.42141v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Quantum 3xplorer: AI-Native Engine for Next-Generation Quantum Materials Modeling",
+      "summary": "Quantum-mechanical approaches, such as density functional theory (DFT), underpin much of modern computational materials science and are the primary source of data for AI-driven discovery. Yet the esta",
+      "url": "http://arxiv.org/abs/2610.42108v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Field-resolved observation and quantification of the instantaneous Kerr response in semiconductors",
+      "summary": "The optical Kerr effect, whereby the refractive index of a material changes with light intensity, underpins nonlinear photonics and emerging mid-infrared technologies. Accurate determination of the no",
+      "url": "http://arxiv.org/abs/2610.42098v1",
+      "date": "2026-10-30",
+      "tags": [
+        "physics.optics",
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "ROOF: Learning Humanoid Fall Recovery under Overhead Constraints",
+      "summary": "A fallen humanoid beneath an overhead obstacle faces a coupled recovery problem. It must create clearance while organizing support for a stable rise, since attempting to stand before making room can f",
+      "url": "http://arxiv.org/abs/2610.42097v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+      "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, where",
+      "url": "http://arxiv.org/abs/2610.42096v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.AI",
+        "cs.RO",
+        "stat.ML"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Embodied Movable Antennas",
+      "summary": "This paper introduces embodied movable antennas (MAs), a new MA architecture that rethinks the source of antenna mobility. Unlike conventional MAs that rely on dedicated antenna actuators, embodied MA",
+      "url": "http://arxiv.org/abs/2610.42078v1",
+      "date": "2026-10-30",
+      "tags": [
+        "eess.SP",
+        "cs.IT"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Soft X-Ray Detection Down to the Nitrogen K-Edge Using a Pixelated iLGAD Sensor",
+      "summary": "Hybrid pixel detectors represent the state-of-the-art technology for hard X-ray experiments at synchrotron light sources and free-electron lasers, owing to their high frame rates, extended dynamic ran",
+      "url": "http://arxiv.org/abs/2610.42064v1",
+      "date": "2026-10-30",
+      "tags": [
+        "physics.ins-det"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Two-loop integrals for $t\\bar{t}γ$ production at hadron colliders in the leading-colour approximation",
+      "summary": "We complete the calculation of the two-loop Feynman integrals required for the next-to-next-to-leading order QCD corrections to on-shell top--antitop production in association with a photon at hadron ",
+      "url": "http://arxiv.org/abs/2610.42062v1",
+      "date": "2026-10-30",
+      "tags": [
+        "hep-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+      "summary": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body",
+      "url": "http://arxiv.org/abs/2610.42053v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.CV"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments",
+      "summary": "Autonomous wheelchairs can improve the quality of life for individuals with mobility impairments by providing greater independence. However, reliable navigation especially in human environments is a m",
+      "url": "http://arxiv.org/abs/2610.42049v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Proof-Carrying Evolution: Black-Box Search, White-Box Flight",
+      "summary": "We study whether a language model can help design controllers whose behavior can be formally checked. In proof-carrying evolution (PCE), a search proposes controllers together with their certificates.",
+      "url": "http://arxiv.org/abs/2610.42043v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.NE",
+        "eess.SY"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Benchmarking Single-Photon Sources for Measurement-Device-Independent Quantum Key Distribution",
+      "summary": "Measurement-Device-Independent Quantum Key Distribution (MDI-QKD) enables secure communication without trusting the measurement devices, but its performance critically depends on the quality of the em",
+      "url": "http://arxiv.org/abs/2610.42041v1",
+      "date": "2026-10-30",
+      "tags": [
+        "quant-ph"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Clean Generative Processes from Noisy Measurements",
+      "summary": "We study how to learn a generative model of clean images using only noisy observations. Diffusion processes and their generalizations to non-Gaussian noise require posterior predictions at every noise",
+      "url": "http://arxiv.org/abs/2610.42036v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space",
+      "summary": "Large-scale egocentric human videos provide rich and scalable manipulation experience for robot policy learning, yet substantial embodiment gaps in visual appearance, kinematic structure, and action s",
+      "url": "http://arxiv.org/abs/2610.42021v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Risk Assessment of Fair Multi-Period Dynamic Operating Envelopes under Uncertainty",
+      "summary": "Dynamic operating envelopes (DOEs) can allocate time-varying export capacity to distributed energy resources (DERs), and while they are not intended to make operations immune to voltage violations, th",
+      "url": "http://arxiv.org/abs/2610.42014v1",
+      "date": "2026-10-30",
+      "tags": [
+        "eess.SY",
+        "cs.CE"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Suspended-Fabric Robotic Manipulation Surfaces: Modelling, Design Space, and Multimodular Extensio",
+      "summary": "Robotic Manipulation Surfaces (RMS) reposition objects by deforming the surface on which they rest. A recent class of RMS suspends a continuous fabric sheet from a sparse grid of vertical linear actua",
+      "url": "http://arxiv.org/abs/2610.41982v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Design and Validation of a Robotic Knee Exoskeleton with Musculoskeletal Simulation-Derived Biological Torque Control",
+      "summary": "Data-driven controllers have enabled lower-limb robotic exoskeletons to adapt assistance to the user across many tasks. A leading example is biological torque control, which estimates the user's own j",
+      "url": "http://arxiv.org/abs/2610.41981v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Language-Conditioned Behavioral Cloning for Autonomous Endoscope Guidance",
+      "summary": "Automated endoscope guidance reduces the need for continuous manual camera control during minimally invasive surgery. However, the desired camera motion depends on the surgeon's immediate intentions a",
+      "url": "http://arxiv.org/abs/2610.41978v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
+      "summary": "Embodied surgical AI requires reliable multimodal data, yet surgical data collection remains costly, difficult to repeat, and strongly dependent on the hardware setup. We present Sensorium, an open-so",
+      "url": "http://arxiv.org/abs/2610.41946v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.AI",
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Adaptive Coverage Algorithms for Mobile Ad Hoc Networks in Dynamic Worlds",
+      "summary": "This paper extends an existing framework for the coordination of mobile agents in unknown worlds, by considering the possibility of dynamic instability. In the original problem, known as the Partially",
+      "url": "http://arxiv.org/abs/2610.41936v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.MA"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Finite-Depth Null Capture and Mass-History Sensitivity in Vaidya Spacetime",
+      "summary": "We formulate a finite-depth endpoint map for past-directed null rays in dynamical black-hole spacetimes, retaining an unresolved label when no terminal is reached before a prescribed optical depth. Fo",
+      "url": "http://arxiv.org/abs/2610.41922v1",
+      "date": "2026-10-30",
+      "tags": [
+        "gr-qc"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "A Multimodal Type 2 Diabetes Registry on DHIS2: A Design and Feasibility Study with the AI-READI Dataset",
+      "summary": "Care for type 2 diabetes increasingly draws on continuous glucose monitors, wearable devices, home sensors, clinical records and retinal images, yet few open platforms have been shown to hold all of t",
+      "url": "http://arxiv.org/abs/2610.41918v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.CY",
+        "cs.DB"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Safety Verification for Voltage Control in Inverter Dominated Radial Distribution Networks under Actuator and Sensor Adversarial Attacks",
+      "summary": "This paper develops a safety verification framework for inverter-based radial distribution networks under sensor and actuator attacks. Each customer is equipped with a droop-based controller to regula",
+      "url": "http://arxiv.org/abs/2610.41910v1",
+      "date": "2026-10-30",
+      "tags": [
+        "eess.SY",
+        "math.OC"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation",
+      "summary": "How to reuse a pretrained locomotion policy for precise loco-manipulation is still an open problem. We propose an online method to learn the closed-loop dynamics under a frozen locomotion policy. The ",
+      "url": "http://arxiv.org/abs/2610.41892v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Control-Noise Trade-offs in Industrially Integrated ${}^{28}\\mathrm{Si}/\\mathrm{SiGe}$ Spin-1/2 Qubits",
+      "summary": "Scaling silicon spin qubits to fault-tolerant processors requires semiconductor foundry integration, yet it remains unclear how industrial fabrication and dense device integration affect qubit control",
+      "url": "http://arxiv.org/abs/2610.41890v1",
+      "date": "2026-10-30",
+      "tags": [
+        "quant-ph",
+        "cond-mat.mes-hall"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Reconstruct everything everywhere all at once: An end-to-end model for future colliders",
+      "summary": "We present the Reconstruct Everything Model (REM), an end-to-end multitask model for sparse, multimodal sensor data, demonstrated in high-energy physics. To our knowledge, REM is the first demonstrati",
+      "url": "http://arxiv.org/abs/2610.41889v1",
+      "date": "2026-10-30",
+      "tags": [
+        "hep-ex"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos",
+      "summary": "Scaling humanoid motion foundation models is constrained by the scarcity of diverse, robot-executable data and by the difficulty of jointly learning from heterogeneous multimodal inputs while supporti",
+      "url": "http://arxiv.org/abs/2610.41877v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO",
+        "cs.CV"
+      ]
+    },
+    {
+      "source": "arxiv",
+      "title": "META-Robot: Self-Cognition and Capability Scaling in Agentic Robots",
+      "summary": "LLM-based robotic agent systems can generate programs for robot control, yet their generalization to new tasks often depends on elaborate scaffolding. Expanding their skill repertoires alone offers li",
+      "url": "http://arxiv.org/abs/2610.41868v1",
+      "date": "2026-10-30",
+      "tags": [
+        "cs.RO"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "summary": "637 points on Hacker News",
+      "url": "https://signal.org/blog/spqr/",
+      "date": "2025-10-02",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Low-Temp 2D Semiconductors: A Chipmaking Shift",
+      "summary": "14 points on Hacker News",
+      "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
+      "date": "2025-07-21",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New battery-free technology can power devices using ambient RF signals",
+      "summary": "84 points on Hacker News",
+      "url": "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/",
+      "date": "2025-03-02",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says new tariffs on computer chips, semiconductors coming 'soon'",
+      "summary": "22 points on Hacker News",
+      "url": "https://www.washingtonpost.com/technology/2025/01/28/trump-tariffs-chips-semiconductors-taiwan/",
+      "date": "2025-01-28",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Willow, Our Quantum Chip",
+      "summary": "1410 points on Hacker News",
+      "url": "https://blog.google/technology/research/google-willow-quantum-chip/",
+      "date": "2024-12-09",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ultraprecise method of aligning 3D semiconductor chips invented",
+      "summary": "170 points on Hacker News",
+      "url": "https://techxplore.com/news/2024-10-ultraprecise-method-aligning-3d-semiconductor.html",
+      "date": "2024-11-01",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "summary": "31 points on Hacker News",
+      "url": "https://touvlo.co",
+      "date": "2024-05-06",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft",
+      "summary": "402 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=37901120",
+      "date": "2023-10-16",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Toyota’s advanced battery technology roadmap",
+      "summary": "40 points on Hacker News",
+      "url": "https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/",
+      "date": "2023-09-14",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "NSA, NIST, and post-quantum crypto: my second lawsuit against the US government",
+      "summary": "974 points on Hacker News",
+      "url": "http://blog.cr.yp.to/20220805-nsa.html",
+      "date": "2022-08-05",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+      "summary": "377 points on Hacker News",
+      "url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+      "date": "2022-07-27",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Spain Plans to Invest $12.4B in Chips, Semiconductors",
+      "summary": "19 points on Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2022-04-04/spain-plans-to-invest-12-4-billion-in-chips-semiconductors",
+      "date": "2022-04-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What are you explicitly expecting from tech in 2022?",
+      "summary": "11 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=29296316",
+      "date": "2021-11-21",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Making semiconductor chips in India, for the world",
+      "summary": "8 points on Hacker News",
+      "url": "https://economictimes.indiatimes.com/tech/tech-bytes/making-semiconductor-chips-in-india-for-the-world/articleshow/85940907.cms",
+      "date": "2021-09-09",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Robot Sticks to Ceilings by Vibrating a Flexible Disc",
+      "summary": "347 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/robot-sticks-to-ceilings",
+      "date": "2021-06-04",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ford cuts F-150 pickup truck production due to semiconductor chip shortage",
+      "summary": "36 points on Hacker News",
+      "url": "https://www.cnbc.com/2021/02/04/ford-forced-to-cut-pickup-production-due-to-semiconductor-shortage-.html",
+      "date": "2021-02-04",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "China’s Drive to Make Semiconductor Chips Is Failing",
+      "summary": "13 points on Hacker News",
+      "url": "https://foreignpolicy.com/2020/12/14/china-technology-sanctions-huawei-chips-semiconductors/",
+      "date": "2020-12-29",
+      "tags": [
+        "semiconductor"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Insect-worn microcamera streams video to phone 120 meters away",
+      "summary": "373 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/uw-micro-camera",
+      "date": "2020-07-19",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Elon Musk aims to revolutionise battery technology",
+      "summary": "28 points on Hacker News",
+      "url": "https://www.bbc.co.uk/news/business-53067009",
+      "date": "2020-06-17",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "New Battery Technology Coming Soon – A Game Changer",
+      "summary": "28 points on Hacker News",
+      "url": "https://nikolamotor.com/press_releases/nikola-corporation-to-unveil-game-changing-battery-cell-technology-at-nikola-world-2020-67",
+      "date": "2019-11-19",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Quantum Supremacy Using a Programmable Superconducting Processor",
+      "summary": "701 points on Hacker News",
+      "url": "https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html",
+      "date": "2019-10-23",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Lithium-ion test results to be used as benchmarks for new battery technologies",
+      "summary": "68 points on Hacker News",
+      "url": "http://m.jes.ecsdl.org/content/166/13/A3031",
+      "date": "2019-09-08",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Teenager Finds Classical Alternative to Quantum Recommendation Algorithm",
+      "summary": "824 points on Hacker News",
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "date": "2018-07-31",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Darpa Wants Insect-Scale Robots for a Micro-Olympics",
+      "summary": "148 points on Hacker News",
+      "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/darpa-wants-your-insect-scale-robots-for-a-micro-olympics",
+      "date": "2018-07-20",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Scott Aaronson, quantum computing/computational complexity researcher. AMA",
+      "summary": "649 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=17425377",
+      "date": "2018-06-29",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Fearless Concurrency in Firefox Quantum",
+      "summary": "611 points on Hacker News",
+      "url": "https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html",
+      "date": "2017-11-15",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Firefox Quantum Lands in Beta, Developer Edition",
+      "summary": "896 points on Hacker News",
+      "url": "https://blog.mozilla.org/blog/2017/09/26/firefox-quantum-beta-developer-edition/",
+      "date": "2017-09-26",
+      "tags": [
+        "quantum"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Battery technology may emerge as a trillion-dollar threat to credit markets",
+      "summary": "392 points on Hacker News",
+      "url": "http://www.bloomberg.com/news/articles/2016-10-18/batteries-may-trip-death-spiral-in-3-4-trillion-credit-market",
+      "date": "2016-10-23",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who works in (mobile) robotics on HN?",
+      "summary": "10 points on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=11378604",
+      "date": "2016-03-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "hackernews",
+      "title": "Origami Robot Folds Itself Up, Does Cool Stuff, Dissolves into Nothing",
+      "summary": "160 points on Hacker News",
+      "url": "http://spectrum.ieee.org/automaton/robotics/robotics-hardware/origami-robot-folds-itself-up-does-cool-stuff-dissolves-into-nothing",
+      "date": "2015-05-29",
+      "tags": [
+        "robotics"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "The Only Apple Deals Worth Your Dollar Ahead of Black Friday–And the Ones to Watch - Yahoo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNk1EUWR0OGVJWF9TaDJvUzh0TkJQLXJ0dHZfckNMSWhzUnRISl84NTFCZGxDN0E0dXBnekdmc3FYeFdyWGtsMGQ2UzRuVmlmTzl2YUpYX2NPNnRoaDBBNWhadFpXMVA4VTVXUjFabH",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNk1EUWR0OGVJWF9TaDJvUzh0TkJQLXJ0dHZfckNMSWhzUnRISl84NTFCZGxDN0E0dXBnekdmc3FYeFdyWGtsMGQ2UzRuVmlmTzl2YUpYX2NPNnRoaDBBNWhadFpXMVA4VTVXUjFabHdUQURGX1d2azF3a0lBM0paSjhjVm83N1BtRjhueVM4OA?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "I tested Apple's $2,000 iPhone Duo. It's a fascinating experiment, but the price is hard to justify. - Axios",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE52TXZKUkJtRGM0Y2gxTjBHa1dqcEpFdmNsaE40bTRJWnBSX0xxZkRtSWg3OFNtMGF4YmJTLVBrdFFSWlMwLTBfYU1ORlRnM3Y5MWVheDRnV3ltbHlkUTlSWDNTTjFuSl9mYTJWa0l1Yz",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52TXZKUkJtRGM0Y2gxTjBHa1dqcEpFdmNsaE40bTRJWnBSX0xxZkRtSWg3OFNtMGF4YmJTLVBrdFFSWlMwLTBfYU1ORlRnM3Y5MWVheDRnV3ltbHlkUTlSWDNTTjFuSl9mYTJWa0l1YzJRM2c?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXczVk9tbnhYRzdPcUhxV0FBODgyVzlPVHF5X3pyUjFNUkMyV3c4YUUydHBHY0xjYWhRZ1dheUNhSGFTd3VsQlFlc2UxLXljeXh4TFkwRXl6V2RQT2Zabm5jdFZaV3IzRW5KRGhoSG",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXczVk9tbnhYRzdPcUhxV0FBODgyVzlPVHF5X3pyUjFNUkMyV3c4YUUydHBHY0xjYWhRZ1dheUNhSGFTd3VsQlFlc2UxLXljeXh4TFkwRXl6V2RQT2Zabm5jdFZaV3IzRW5KRGhoSGdnWk1KVXhBaUlPa290Y0hOVm9EcDZMQ09lQ3FnN21ybFMyTHZsVGx4SkJVWVNmQ1NPajBjeW5lY3VlWDlvYUFyLWRHVnk5ZjZOWmNZOFVpMlZvaG94aXJfZmdR?oc=5",
+      "date": "2026-11-01",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Apple Is Reportedly Planning a New iPad Air, Base iPad, and iPad Pro for the First Half of 2027 - Hypebeast",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDl1WGtDS3huMXU0b2puemJMaUxEUjg5eVNVYUpPRWVCZktDbHJYZDk2NkJNMkdZaFR4cXNBN2NfSm04ZkxWNXhsaVVQaFVFbUJuelhXTUQweU9sTXdsQzFQV2JLYkg4QV9HRGRHel",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDl1WGtDS3huMXU0b2puemJMaUxEUjg5eVNVYUpPRWVCZktDbHJYZDk2NkJNMkdZaFR4cXNBN2NfSm04ZkxWNXhsaVVQaFVFbUJuelhXTUQweU9sTXdsQzFQV2JLYkg4QV9HRGRHelpMN2MxQzhsdGpfY0F0S1Y0cDd2YWQxMWdD?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Apple"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果迎来“特纳斯时代”首份财报！“不烧钱”的AI路线要接受检验？-市场参考 - 金十数据",
+      "summary": "苹果迎来“特纳斯时代”首份财报！“不烧钱",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iOTRhQ2k4ZzY1eGZnY2g3MEFBM0VUM0tTa05IN2RSbWZ1cnZFQTVqaE05OUZzbHVITzd6cFQ1b0M1YUNiZkQ5M24xQXRua1U?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "【美股盘前】光通信、AI芯片、存储股上涨，SK海力士涨超4%；苹果财报凌晨来袭：内存成本与折叠屏iPhone成焦点；SpaceX涨3%，马斯克预测2029年轨道算力将远超地面 - https://www.mrjjxw.com/",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IS2d1TmJhZ3cxUTNnY29BeEUtb0o1aWFNMEN0OGt6U2E5STU5S0drRHMycHdLVlFLNVRDek50d1F4bDNVSzBvZFBOck0tYllWRHhRd1hNTEwtM2V6QVdRc2N0b3NpUQ?oc=5\" targe",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IS2d1TmJhZ3cxUTNnY29BeEUtb0o1aWFNMEN0OGt6U2E5STU5S0drRHMycHdLVlFLNVRDek50d1F4bDNVSzBvZFBOck0tYllWRHhRd1hNTEwtM2V6QVdRc2N0b3NpUQ?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果三款新iPad或于2027年上半年发布_热点资讯 - 安兔兔",
+      "summary": "苹果三款新iPad或于2027年上半年发布_热点资讯</a",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zc1dYQTN5Q3MzYmxsSXpRSE1zenQ3ZEVJVVB6UFBmZV9sNnBUa1RfajdMeHRhZV9CRVZyclhDdFBMdmRQLUJBdw?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "苹果将出M7版触屏OLED MacBook Pro：增强AI能力 纤薄机身设计 - 驱动之家",
+      "summary": "苹果将出M7版触",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91M21nOVVqQm9vMlhvejRQZkRKX2VFYU1WZGtMal9fbEJncmlvbGtadTBYcmFqY3dYVnp6NWQ4OHUzcjMzQzlnV29iZzRhaXZGbEhNQ0pHVEc?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "苹果"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "HUAWEI CONNECT 2026 Shanghai: Unlocking AI Transformation - AI Magazine",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdJSDdNWWxOMkNfV2xlMTYwZUdwUF8xZnJrQ3RQVWdQSzZnRXd3UTRRLVpQRkdnQnYwbml4aFpqU09raEYwc1FkTllybEtKU0tUUUZlTFpHNHFCVG9uanN3UDNOMEpkYnBaYjdIZT",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLUdJSDdNWWxOMkNfV2xlMTYwZUdwUF8xZnJrQ3RQVWdQSzZnRXd3UTRRLVpQRkdnQnYwbml4aFpqU09raEYwc1FkTllybEtKU0tUUUZlTFpHNHFCVG9uanN3UDNOMEpkYnBaYjdIZTVhd2ZoeW4zY2Rxd0kySXFfc0VlbVFCUjRiNnFVRVYxUHR0LVlkV2hwaWNOZw?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Huawei Cloud unveils four strategies to accelerate AI adoption in Brazil - Data Center Dynamics",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2k3TkxfNUZHSWs3bndqd0hoTzZObFVCZF9BOGNwWTNSVWtkLXJmV3BVb3pSV3U1cGlFMFIyMXV3WVg1X2ZBNk52Mi03ZUhxWjNwb0o5U1FXWDlXYkkzbjFHeDdFV1l4YmVjcmhXel",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2k3TkxfNUZHSWs3bndqd0hoTzZObFVCZF9BOGNwWTNSVWtkLXJmV3BVb3pSV3U1cGlFMFIyMXV3WVg1X2ZBNk52Mi03ZUhxWjNwb0o5U1FXWDlXYkkzbjFHeDdFV1l4YmVjcmhXellXNXNOV2pwamdRUmttS1RTLS1NSzkyakwtY0xJbGlXZDZneENHTkY4RjI4Y0xyRVRYeWJXZ0s2NlAwbFNTVURfYmdhR0x2NU9Xa0lEZ1dySl9SUQ?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Huawei opens defence in US criminal trial, touting its record of innovation - South China Morning Post",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWludE1SRVFhREthVUdfLWhFQlJTVVpET3pNR19fZXZFRXhFb3ZZM0N1RGl4LTdxeVBOZHkzX2FLNHVPdWZ4NVJQSldiS3hnR19Fc1VHOUF1ZUlfeFczMlRtSEFsY1ZJVnlITDJybD",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWludE1SRVFhREthVUdfLWhFQlJTVVpET3pNR19fZXZFRXhFb3ZZM0N1RGl4LTdxeVBOZHkzX2FLNHVPdWZ4NVJQSldiS3hnR19Fc1VHOUF1ZUlfeFczMlRtSEFsY1ZJVnlITDJybDJpZTloeXpmQU9QUmJLbEJNd3padDdNbGx5WVFDaVluaDlMbHlFUS1JaENlY0wxS1ZoODNBMFZ6ZVp5Q0ZzUk9GVTloNNIBswFBVV95cUxPNFJGUUZUby1ZdG51RFVDZ3dlc1lRdFNmT3M4bDJRVXVSSUdZb3djT0ZQQlgxV2FKMmJNT3NpWGJNVzRvLTdqRlVzWU5SdUxrZUgwdDJ0LWFhMVgtbjZDaVRYR2w2VTFKRjV6M2tuamZuUkJXQl9XQjh2MFhjLW1oZ0E3M1NxTXBHbnJMOTlCVm9PSndyZVJENXVlNXdrNG5SNEhSM1ZjMTRwUlFWaUFUZmRXdw?oc=5",
+      "date": "2026-10-28",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "Huawei's 7th Global Installer Summit: Meeting the Best Installers, Building New Home Energy Ecosystem for a Greener Future - Japan Wire by Kyodo News",
+      "summary": "Huawe",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNnROWUJ1akdnUHFsOHBDX3RlOGNDUGRIZE5oeFpsUUtaQ2dReDhjY0Nic3prOGtXSWJFdnNVaFhJbm5hcUdiTmZtNGU3RjI1R0w1LUVFTjhhZw?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "Huawei"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "职业本科数智突围：山外×华为AIPL打通AI人才培养的“最后一公里” - 教育在线",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5QeE1qOXdMTW00TGlrQ2JuZjdiMFRiT01lTFdfVExadGFIek9Sel9xWktWUVpWU01qMDZrZFBiV1o3VGxGLXJwdVh0TDlCaDRWck4wcGdNRkt5YUFtTGJYeC10VkNsczQ4VE96cGZn?o",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QeE1qOXdMTW00TGlrQ2JuZjdiMFRiT01lTFdfVExadGFIek9Sel9xWktWUVpWU01qMDZrZFBiV1o3VGxGLXJwdVh0TDlCaDRWck4wcGdNRkt5YUFtTGJYeC10VkNsczQ4VE96cGZn?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "华为"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "AI下场当“科学家”？华为、阿里云等科技领军企业共话AI4S新基建｜大湾区科学论坛 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVUotd0oxNUVObjBqbjRfS0RhRHgyeFNvRzVfNFFjckhhcUIwdldkNjJLMGlvZnRCQXRFTW9CNjJIc1ZnSmRIWW9IQzVLQTd3aVN4dGZINHBPOXFoNFVYSUY5bC15UklUaWZHZ1lGM2",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVUotd0oxNUVObjBqbjRfS0RhRHgyeFNvRzVfNFFjckhhcUIwdldkNjJLMGlvZnRCQXRFTW9CNjJIc1ZnSmRIWW9IQzVLQTd3aVN4dGZINHBPOXFoNFVYSUY5bC15UklUaWZHZ1lGM2ozZVd6UkVSbDI1eGgxV2M?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "华为"
+      ]
+    },
+    {
+      "source": "tech_corps",
+      "title": "最新财新周刊｜华为再攀顶 - 财新周刊",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWlBQa1RfSm5HNWJQQVk4Q3hzRFgzTV91ZDdYNjllYzdDcDlyQW80SklWQS0zbmlJN0xkSnNnTFhsbFJHM3g3aWhvM0JoY3BiUmYzQXRSbGp4MThDMVBrRw?oc=5\" target=\"_blan",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YWlBQa1RfSm5HNWJQQVk4Q3hzRFgzTV91ZDdYNjllYzdDcDlyQW80SklWQS0zbmlJN0xkSnNnTFhsbFJHM3g3aWhvM0JoY3BiUmYzQXRSbGp4MThDMVBrRw?oc=5",
+      "date": "2026-11-02",
+      "tags": [
+        "华为"
+      ]
+    }
+  ]
+}
